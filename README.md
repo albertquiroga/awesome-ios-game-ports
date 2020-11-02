@@ -1,6 +1,6 @@
-# Awesome iOS Ports
+# Awesome iOS Game Ports
 
-This awesome list is a compilation of PC/Console games ported to iOS
+This [awesome list](https://github.com/sindresorhus/awesome#readme) is a compilation of PC/Console games ported to iOS
 
 ## Games
 
