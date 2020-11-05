@@ -36,5 +36,7 @@ jobs:
         python main.py
     - name: Commit changes
       run: |
+        git config --global user.email "pyro_quiro@hotmail.com"
+        git config --global user.name "Albert Quiroga"
         git commit README.md -m 'Re-build README.md'
         git push origin
