@@ -33,7 +33,7 @@ Name | App ID | Average Rating | Price (USD)
 [Rebel Inc.](https://apps.apple.com/ie/app/thronebreaker/id1439187947) | 1439187947 | 4.79 | 1.99$ 
 [Plague Inc.](https://apps.apple.com/ie/app/thronebreaker/id525818839) | 525818839 | 4.81 | 0.99$ 
 [Don't Starve: Shipwrecked](https://apps.apple.com/ie/app/thronebreaker/id1147297267) | 1147297267 | 4.14 | 4.99$ 
-[Worms3](https://apps.apple.com/ie/app/thronebreaker/id596677177) | 596677177 | 3.85 | 4.99$ 
+[Worms3](https://apps.apple.com/ie/app/thronebreaker/id596677177) | 596677177 | 3.85 | 0.99$ 
 [Human: Fall Flat](https://apps.apple.com/ie/app/thronebreaker/id1438091392) | 1438091392 | 4.23 | 4.99$ 
 [FINALFANTASY CRYSTALCHRONICLES](https://apps.apple.com/ie/app/thronebreaker/id1478870957) | 1478870957 | 3.67 | 0.0$ 
 [THE LAST REMNANT Remastered](https://apps.apple.com/ie/app/thronebreaker/id1357536697) | 1357536697 | 3.36 | 19.99$ 
@@ -66,7 +66,7 @@ Name | App ID | Average Rating | Price (USD)
 [](https://apps.apple.com/ie/app/thronebreaker/id1187029452) | 1187029452 |  | $ 
 [Secret of Mana](https://apps.apple.com/ie/app/thronebreaker/id407949800) | 407949800 | 2.75 | 7.99$ 
 [LEGO® Star Wars™: TCS](https://apps.apple.com/ie/app/thronebreaker/id727420266) | 727420266 | 4.25 | 0.0$ 
-[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/thronebreaker/id1235863443) | 1235863443 | 3.34 | 0.0$ 
+[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/thronebreaker/id1235863443) | 1235863443 | 3.33 | 0.0$ 
 [The Bard's Tale](https://apps.apple.com/ie/app/thronebreaker/id480375355) | 480375355 | 4.51 | 2.99$ 
 [Game Dev Tycoon](https://apps.apple.com/ie/app/thronebreaker/id1162580001) | 1162580001 | 4.9 | 4.99$ 
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/thronebreaker/id1113736426) | 1113736426 | 4.34 | 5.99$ 
