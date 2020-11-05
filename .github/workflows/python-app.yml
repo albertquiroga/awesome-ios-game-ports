@@ -34,3 +34,7 @@ jobs:
     - name: Generate README file
       run: |
         python main.py
+    - name: Commit changes
+      run: |
+        git commit README.md -m 'Re-build README.md'
+        git push origin
