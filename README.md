@@ -28,7 +28,7 @@ Name | App ID | Average Rating | Price (USD)
 [Thumper: Pocket Edition](https://apps.apple.com/ie/app/thronebreaker/id1287138671) | 1287138671 | 4.62 | 4.99$ 
 [TheWorldEndswithYou: SoloRemix](https://apps.apple.com/ie/app/thronebreaker/id544695089) | 544695089 | 4.09 | 17.99$ 
 [TheWorldEndswithYouSoloRemixHD](https://apps.apple.com/ie/app/thronebreaker/id545042359) | 545042359 | 4.25 | 19.99$ 
-[Neverwinter Nights](https://apps.apple.com/ie/app/thronebreaker/id1466096721) | 1466096721 | 4.03 | 9.99$ 
+[Neverwinter Nights](https://apps.apple.com/ie/app/thronebreaker/id1466096721) | 1466096721 | 3.99 | 9.99$ 
 [](https://apps.apple.com/ie/app/thronebreaker/id1298609025) | 1298609025 |  | $ 
 [Rebel Inc.](https://apps.apple.com/ie/app/thronebreaker/id1439187947) | 1439187947 | 4.79 | 1.99$ 
 [Plague Inc.](https://apps.apple.com/ie/app/thronebreaker/id525818839) | 525818839 | 4.81 | 0.99$ 
@@ -66,7 +66,7 @@ Name | App ID | Average Rating | Price (USD)
 [](https://apps.apple.com/ie/app/thronebreaker/id1187029452) | 1187029452 |  | $ 
 [Secret of Mana](https://apps.apple.com/ie/app/thronebreaker/id407949800) | 407949800 | 2.75 | 7.99$ 
 [LEGO® Star Wars™: TCS](https://apps.apple.com/ie/app/thronebreaker/id727420266) | 727420266 | 4.25 | 0.0$ 
-[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/thronebreaker/id1235863443) | 1235863443 | 3.33 | 0.0$ 
+[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/thronebreaker/id1235863443) | 1235863443 | 3.34 | 0.0$ 
 [The Bard's Tale](https://apps.apple.com/ie/app/thronebreaker/id480375355) | 480375355 | 4.51 | 2.99$ 
 [Game Dev Tycoon](https://apps.apple.com/ie/app/thronebreaker/id1162580001) | 1162580001 | 4.9 | 4.99$ 
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/thronebreaker/id1113736426) | 1113736426 | 4.34 | 5.99$ 
