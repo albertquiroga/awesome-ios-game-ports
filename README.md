@@ -18,6 +18,11 @@ Name | App ID | Average Rating | Price (USD)
 [FINAL FANTASY TACTICS](https://apps.apple.com/ie/app/thronebreaker/id500098096) | 500098096 | 4.01 | 15.99$ 
 [Bridge Constructor Portal](https://apps.apple.com/ie/app/thronebreaker/id1311353234) | 1311353234 | 4.77 | 4.99$ 
 [Don't Starve: Pocket Edition](https://apps.apple.com/ie/app/thronebreaker/id1012298403) | 1012298403 | 4.55 | 4.99$ 
+[Grand Theft Auto III](https://apps.apple.com/ie/app/thronebreaker/id479662730) | 479662730 | 4.49 | 4.99$ 
+[Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/thronebreaker/id578448682) | 578448682 | 4.42 | 4.99$ 
+[Bully: Anniversary Edition](https://apps.apple.com/ie/app/thronebreaker/id1148321705) | 1148321705 | 4.72 | 6.99$ 
+[GTA: Liberty City Stories](https://apps.apple.com/ie/app/thronebreaker/id1061802598) | 1061802598 | 4.32 | 6.99$ 
+[GTA: Chinatown Wars](https://apps.apple.com/ie/app/thronebreaker/id344186162) | 344186162 | 3.73 | 4.99$ 
 [Grand Theft Auto: San Andreas](https://apps.apple.com/ie/app/thronebreaker/id763692274) | 763692274 | 4.62 | 6.99$ 
 [This War of Mine](https://apps.apple.com/ie/app/thronebreaker/id982175678) | 982175678 | 4.4 | 14.99$ 
 [The Talos Principle](https://apps.apple.com/ie/app/thronebreaker/id1250484428) | 1250484428 | 4.58 | 4.99$ 
@@ -56,11 +61,6 @@ Name | App ID | Average Rating | Price (USD)
 [](https://apps.apple.com/ie/app/thronebreaker/id1376284772) | 1376284772 |  | $ 
 [FINAL FANTASY VII](https://apps.apple.com/ie/app/thronebreaker/id1021566244) | 1021566244 | 4.18 | 15.99$ 
 [XCOM®: Enemy Within](https://apps.apple.com/ie/app/thronebreaker/id881270303) | 881270303 | 4.31 | 4.99$ 
-[Grand Theft Auto III](https://apps.apple.com/ie/app/thronebreaker/id479662730) | 479662730 | 4.49 | 4.99$ 
-[Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/thronebreaker/id578448682) | 578448682 | 4.42 | 4.99$ 
-[Bully: Anniversary Edition](https://apps.apple.com/ie/app/thronebreaker/id1148321705) | 1148321705 | 4.72 | 6.99$ 
-[GTA: Liberty City Stories](https://apps.apple.com/ie/app/thronebreaker/id1061802598) | 1061802598 | 4.32 | 6.99$ 
-[GTA: Chinatown Wars](https://apps.apple.com/ie/app/thronebreaker/id344186162) | 344186162 | 3.73 | 4.99$ 
 [Max Payne Mobile](https://apps.apple.com/ie/app/thronebreaker/id512142109) | 512142109 | 4.44 | 2.99$ 
 [MEGA MAN X](https://apps.apple.com/ie/app/thronebreaker/id469343097) | 469343097 | 4.34 | 4.99$ 
 [](https://apps.apple.com/ie/app/thronebreaker/id1187029452) | 1187029452 |  | $ 
