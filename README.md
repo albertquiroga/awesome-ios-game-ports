@@ -1,5 +1,7 @@
 # Awesome iOS Game Ports
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 This [awesome list](https://github.com/sindresorhus/awesome#readme) is a compilation of PC/Console games ported to iOS
 
 ## Games
