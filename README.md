@@ -34,7 +34,7 @@ Name | App ID | Average Rating | Price (USD)
 [TheWorldEndswithYou: SoloRemix](https://apps.apple.com/ie/app/thronebreaker/id544695089) | 544695089 | 4.09 | 17.99$ 
 [TheWorldEndswithYouSoloRemixHD](https://apps.apple.com/ie/app/thronebreaker/id545042359) | 545042359 | 4.25 | 19.99$ 
 [Neverwinter Nights](https://apps.apple.com/ie/app/thronebreaker/id1466096721) | 1466096721 | 3.92 | 9.99$ 
-[](https://apps.apple.com/ie/app/thronebreaker/id1298609025) | 1298609025 |  | $ 
+[ROME: Total War](https://apps.apple.com/ie/app/thronebreaker/id1106831630) | 1106831630 | 4.82 | 9.99$ 
 [Rebel Inc.](https://apps.apple.com/ie/app/thronebreaker/id1439187947) | 1439187947 | 4.79 | 1.99$ 
 [Plague Inc.](https://apps.apple.com/ie/app/thronebreaker/id525818839) | 525818839 | 4.81 | 0.99$ 
 [Don't Starve: Shipwrecked](https://apps.apple.com/ie/app/thronebreaker/id1147297267) | 1147297267 | 4.14 | 4.99$ 
@@ -52,18 +52,21 @@ Name | App ID | Average Rating | Price (USD)
 [Company of Heroes](https://apps.apple.com/ie/app/thronebreaker/id1464645812) | 1464645812 | 4.7 | 13.99$ 
 [Old School RuneScape](https://apps.apple.com/ie/app/thronebreaker/id1269648762) | 1269648762 | 4.81 | 0.0$ 
 [Minecraft](https://apps.apple.com/ie/app/thronebreaker/id479516143) | 479516143 | 4.48 | 6.99$ 
-[](https://apps.apple.com/ie/app/thronebreaker/id1386738991) | 1386738991 |  | $ 
+[Goat Simulator](https://apps.apple.com/ie/app/thronebreaker/id868692227) | 868692227 | 4.45 | 2.99$ 
 [Banner Saga 2](https://apps.apple.com/ie/app/thronebreaker/id1107741196) | 1107741196 | 4.75 | 9.99$ 
 [Bastion](https://apps.apple.com/ie/app/thronebreaker/id1467063160) | 1467063160 | 4.64 | 0.0$ 
 [FTL: Faster Than Light](https://apps.apple.com/ie/app/thronebreaker/id833951143) | 833951143 | 4.45 | 9.99$ 
 [Papers, Please](https://apps.apple.com/ie/app/thronebreaker/id935216956) | 935216956 | 4.77 | 7.99$ 
 [Surgeon Simulator](https://apps.apple.com/ie/app/thronebreaker/id814977594) | 814977594 | 3.94 | 4.99$ 
-[](https://apps.apple.com/ie/app/thronebreaker/id1376284772) | 1376284772 |  | $ 
+[Baldur's Gate](https://apps.apple.com/ie/app/thronebreaker/id515114051) | 515114051 | 3.84 | 9.99$ 
+[Baldur's Gate II: EE](https://apps.apple.com/ie/app/thronebreaker/id633625517) | 633625517 | 4.25 | 9.99$ 
+[Siege of Dragonspear](https://apps.apple.com/ie/app/thronebreaker/id1298734617) | 1298734617 | 4.13 | 9.99$ 
+[Icewind Dale](https://apps.apple.com/ie/app/thronebreaker/id909472985) | 909472985 | 4.18 | 9.99$ 
+[Planescape: Torment](https://apps.apple.com/ie/app/thronebreaker/id1138916291) | 1138916291 | 4.06 | 9.99$ 
 [FINAL FANTASY VII](https://apps.apple.com/ie/app/thronebreaker/id1021566244) | 1021566244 | 4.18 | 15.99$ 
 [XCOM®: Enemy Within](https://apps.apple.com/ie/app/thronebreaker/id881270303) | 881270303 | 4.32 | 4.99$ 
 [Max Payne Mobile](https://apps.apple.com/ie/app/thronebreaker/id512142109) | 512142109 | 4.44 | 2.99$ 
 [MEGA MAN X](https://apps.apple.com/ie/app/thronebreaker/id469343097) | 469343097 | 4.34 | 4.99$ 
-[](https://apps.apple.com/ie/app/thronebreaker/id1187029452) | 1187029452 |  | $ 
 [Secret of Mana](https://apps.apple.com/ie/app/thronebreaker/id407949800) | 407949800 | 2.75 | 7.99$ 
 [LEGO® Star Wars™: TCS](https://apps.apple.com/ie/app/thronebreaker/id727420266) | 727420266 | 4.25 | 0.0$ 
 [Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/thronebreaker/id1235863443) | 1235863443 | 3.33 | 0.0$ 
@@ -73,9 +76,15 @@ Name | App ID | Average Rating | Price (USD)
 [ARK: Survival Evolved](https://apps.apple.com/ie/app/thronebreaker/id1280480538) | 1280480538 | 4.44 | 0.0$ 
 [Brothers: A Tale of Two Sons](https://apps.apple.com/ie/app/thronebreaker/id1029588869) | 1029588869 | 4.07 | 2.99$ 
 [Iris and the Giant](https://apps.apple.com/ie/app/thronebreaker/id1489491274) | 1489491274 | 4.43 | 5.99$ 
-[Forager](https://apps.apple.com/ie/app/thronebreaker/id1525624394) | 1525624394 | 4.7 | 7.99$ 
+[Forager](https://apps.apple.com/ie/app/thronebreaker/id1525624394) | 1525624394 | 4.71 | 7.99$ 
 [Getting Over It](https://apps.apple.com/ie/app/thronebreaker/id1319618742) | 1319618742 | 4.22 | 4.99$ 
 [Journey](https://apps.apple.com/ie/app/thronebreaker/id1445593893) | 1445593893 | 4.05 | 4.99$ 
 [Hyper Light Drifter](https://apps.apple.com/ie/app/thronebreaker/id1453875289) | 1453875289 | 4.87 | 4.99$ 
 [Element - RTS](https://apps.apple.com/ie/app/thronebreaker/id749488884) | 749488884 | 4.66 | 1.99$ 
 [Company of Heroes](https://apps.apple.com/ie/app/thronebreaker/id1464645812) | 1464645812 | 4.7 | 13.99$ 
+[MEGA MAN MOBILE](https://apps.apple.com/ie/app/thronebreaker/id1149684511) | 1149684511 | 3.25 | 1.99$ 
+[MEGA MAN 2 MOBILE](https://apps.apple.com/ie/app/thronebreaker/id1171577661) | 1171577661 | 2.91 | 1.99$ 
+[MEGA MAN 3 MOBILE](https://apps.apple.com/ie/app/thronebreaker/id1170971115) | 1170971115 | 3.02 | 1.99$ 
+[MEGA MAN 4 MOBILE](https://apps.apple.com/ie/app/thronebreaker/id1170985923) | 1170985923 | 2.79 | 1.99$ 
+[MEGA MAN 5 MOBILE](https://apps.apple.com/ie/app/thronebreaker/id1174205762) | 1174205762 | 4.04 | 1.99$ 
+[MEGA MAN 6 MOBILE](https://apps.apple.com/ie/app/thronebreaker/id1174207746) | 1174207746 | 4.06 | 1.99$ 
