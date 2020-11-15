@@ -73,3 +73,9 @@ Name | App ID | Average Rating | Price (USD)
 [ARK: Survival Evolved](https://apps.apple.com/ie/app/thronebreaker/id1280480538) | 1280480538 | 4.44 | 0.0$ 
 [Brothers: A Tale of Two Sons](https://apps.apple.com/ie/app/thronebreaker/id1029588869) | 1029588869 | 4.07 | 2.99$ 
 [Iris and the Giant](https://apps.apple.com/ie/app/thronebreaker/id1489491274) | 1489491274 | 4.43 | 5.99$ 
+[Forager](https://apps.apple.com/ie/app/thronebreaker/id1525624394) | 1525624394 | 4.7 | 7.99$ 
+[Getting Over It](https://apps.apple.com/ie/app/thronebreaker/id1319618742) | 1319618742 | 4.22 | 4.99$ 
+[Journey](https://apps.apple.com/ie/app/thronebreaker/id1445593893) | 1445593893 | 4.05 | 4.99$ 
+[Hyper Light Drifter](https://apps.apple.com/ie/app/thronebreaker/id1453875289) | 1453875289 | 4.87 | 4.99$ 
+[Element - RTS](https://apps.apple.com/ie/app/thronebreaker/id749488884) | 749488884 | 4.66 | 1.99$ 
+[Company of Heroes](https://apps.apple.com/ie/app/thronebreaker/id1464645812) | 1464645812 | 4.7 | 13.99$ 
