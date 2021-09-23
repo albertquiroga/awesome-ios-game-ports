@@ -1,11 +1,14 @@
-import requests
 import logging
+import re
+import requests
 
 from jinja2 import FileSystemLoader, Environment
 
 logging.basicConfig(level=logging.INFO)
 
-APP_IDS_FILE_PATH = 'ids.txt'
+APP_IDS_FILE_PATH = 'ids.tsv'
+SEPARATOR_CHAR = '\t'
+VALIDATION_REGEX = "[0-9]+\t\".*\""
 
 BASE_ITUNES_API_URL = 'https://itunes.apple.com/lookup?country=US&id='
 
@@ -20,7 +23,7 @@ class App:
     """
     App object representing an App Store applicaton
     """
-    base_app_store_url = 'https://apps.apple.com/ie/app/thronebreaker/id'
+    base_app_store_url = 'https://apps.apple.com/ie/app/awesome/id'
 
     def __init__(self, app_id: str, name: str = '', price: str = '', url: str = '', avg_score: float = ''):
         self.id = app_id
@@ -43,7 +46,7 @@ def process_request(app_id: str, response: dict) -> App:
     :param response: Response of the iTunes API
     :return: App object representing the application
     """
-    if response['resultCount'] > 0:
+    if response.get('resultCount', 0) > 0:
         app = response_to_app(app_id, response)
         logging.info(app)
         return app
@@ -59,20 +62,39 @@ def response_to_app(app_id, response) -> App:
     :param response: JSON dictionary representing the response of the iTunes API
     :return: App object representing the application
     """
-    result = response['results'][0]
-    price = result['price']
+    result = response.get('results', list())[0]
+    price = result.get('formattedPrice', 'Arcade') # If no price, it must be an Apple Arcade game
     name = result.get('trackName')
     avg_score = round(result.get('averageUserRatingForCurrentVersion'), 2)
     return App(app_id=app_id, name=name, price=price, avg_score=avg_score)
 
 
-def process_app_id(app_id: str) -> App:
+def filter_invalid_entries(entries: list) -> list:
+    """
+    Given a list of entries, it will filter out those that do not comply with the 
+    regular expression defined in the VALIDATION_REGEX constant, and notify via
+    logging
+    :param entries: List of app entries
+    :return: List of valid entries
+    """
+    def validate_entry(entry: str) -> bool:
+        return bool(re.match(VALIDATION_REGEX, entry))
+
+    filtered_entries = list(filter(lambda entry: validate_entry(entry), entries))
+    if len(filtered_entries) < len(entries):
+        logging.warning(f"Ignored {len(entries) - len(filtered_entries)} invalid entries from file")
+
+    return filtered_entries
+
+
+def process_entry(entry: str) -> App:
     """
     Given an app ID, turns that into an App object
-    :param app_id: App ID in string format
+    :param entry: App ID in string format
     :return: App object representing the application
     """
-    app_id = app_id.strip()
+    entry = entry.strip()
+    app_id = entry.split(SEPARATOR_CHAR)[0]
     full_url = BASE_ITUNES_API_URL + app_id
     response = requests.get(full_url).json()
     return process_request(app_id, response)
@@ -85,9 +107,12 @@ def parse_app_ids(file_path: str) -> list:
     :return: List of App objects representing those apps
     """
     logging.info(f'Parsing app IDs from {file_path}...')
-    with open(file_path) as fp:
-        results = list(map(lambda app_id: process_app_id(app_id), fp))
-        return results
+    with open(file_path) as f:
+        entries = f.readlines()
+        entries.pop(0) # Remove header
+        valid_entries = filter_invalid_entries(entries)
+        apps = list(map(lambda entry: process_entry(entry), valid_entries))
+        return sorted(apps, key= lambda app: app.name)
 
 
 def generate_readme(output_path: str, apps_list: list):
