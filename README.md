@@ -13,7 +13,7 @@ Name | App ID | Average Rating | Price (USD)
 [GRIS](https://apps.apple.com/ie/app/thronebreaker/id1445379072) | 1445379072 | 4.41 | 4.99$ 
 [Playdead's LIMBO](https://apps.apple.com/ie/app/thronebreaker/id656951157) | 656951157 | 4.56 | 3.99$ 
 [Transistor](https://apps.apple.com/ie/app/thronebreaker/id948857526) | 948857526 | 4.42 | 4.99$ 
-[Slay the Spire](https://apps.apple.com/ie/app/thronebreaker/id1491530147) | 1491530147 | 4.07 | 9.99$ 
+[Slay the Spire](https://apps.apple.com/ie/app/thronebreaker/id1491530147) | 1491530147 | 4.08 | 9.99$ 
 [Terraria](https://apps.apple.com/ie/app/thronebreaker/id640364616) | 640364616 | 4.45 | 4.99$ 
 [Stardew Valley](https://apps.apple.com/ie/app/thronebreaker/id1406710800) | 1406710800 | 4.84 | 4.99$ 
 [Bridge Constructor Portal](https://apps.apple.com/ie/app/thronebreaker/id1311353234) | 1311353234 | 4.77 | 4.99$ 
@@ -42,7 +42,7 @@ Name | App ID | Average Rating | Price (USD)
 [Life Is Strange](https://apps.apple.com/ie/app/thronebreaker/id1180101534) | 1180101534 | 4.04 | 0.0$ 
 [CHRONO TRIGGER (Upgrade Ver.)](https://apps.apple.com/ie/app/thronebreaker/id479431697) | 479431697 | 4.46 | 9.99$ 
 [Dead Cells](https://apps.apple.com/ie/app/thronebreaker/id1389752090) | 1389752090 | 4.82 | 4.99$ 
-[Star Wars™: KOTOR](https://apps.apple.com/ie/app/thronebreaker/id611436052) | 611436052 | 4.27 | 9.99$ 
+[Star Wars™: KOTOR](https://apps.apple.com/ie/app/thronebreaker/id611436052) | 611436052 | 4.26 | 9.99$ 
 [XCOM 2 Collection](https://apps.apple.com/ie/app/thronebreaker/id1288508230) | 1288508230 | 4.13 | 24.99$ 
 [Tropico](https://apps.apple.com/ie/app/thronebreaker/id1264531625) | 1264531625 | 4.72 | 11.99$ 
 [Company of Heroes](https://apps.apple.com/ie/app/thronebreaker/id1464645812) | 1464645812 | 4.74 | 13.99$ 
@@ -87,7 +87,7 @@ Name | App ID | Average Rating | Price (USD)
 [](https://apps.apple.com/ie/app/thronebreaker/id354974729) | 354974729 |  | $ 
 [FINAL FANTASY III (3D REMAKE)](https://apps.apple.com/ie/app/thronebreaker/id424591347) | 424591347 | 4.2 | 14.99$ 
 [FINAL FANTASY IV (3D REMAKE)](https://apps.apple.com/ie/app/thronebreaker/id575119311) | 575119311 | 4.46 | 14.99$ 
-[FF IV: THE AFTER YEARS](https://apps.apple.com/ie/app/thronebreaker/id683029090) | 683029090 | 4.54 | 14.99$ 
+[FF IV: THE AFTER YEARS](https://apps.apple.com/ie/app/thronebreaker/id683029090) | 683029090 | 4.56 | 14.99$ 
 [](https://apps.apple.com/ie/app/thronebreaker/id609577016) | 609577016 |  | $ 
 [](https://apps.apple.com/ie/app/thronebreaker/id719401490) | 719401490 |  | $ 
 [FINAL FANTASY VII](https://apps.apple.com/ie/app/thronebreaker/id1021566244) | 1021566244 | 4.14 | 15.99$ 
@@ -100,3 +100,4 @@ Name | App ID | Average Rating | Price (USD)
 [TheWorldEndswithYouSoloRemixHD](https://apps.apple.com/ie/app/thronebreaker/id545042359) | 545042359 | 4.24 | 19.99$ 
 [Mini Metro](https://apps.apple.com/ie/app/thronebreaker/id837860959) | 837860959 | 4.86 | 3.99$ 
 [Dungeon of the Endless: Apogee](https://apps.apple.com/ie/app/thronebreaker/id1526466468) | 1526466468 | 4.27 | 7.99$ 
+[Castlevania: SotN](https://apps.apple.com/ie/app/thronebreaker/id1435456830) | 1435456830 | 3.89 | 2.99$ 
