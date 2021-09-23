@@ -44,7 +44,8 @@ Name | App ID | Average Rating | Price (USD)
 [FINAL FANTASY VIII Remastered](https://apps.apple.com/ie/app/awesome/id1326740784) | 1326740784 | 4.08 | $20.99
 [FINALFANTASY CRYSTALCHRONICLES](https://apps.apple.com/ie/app/awesome/id1478870957) | 1478870957 | 3.63 | Free
 [FTL: Faster Than Light](https://apps.apple.com/ie/app/awesome/id833951143) | 833951143 | 4.49 | $9.99
-[Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.47 | $7.99
+[Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.46 | $7.99
+[GRID™ Autosport](https://apps.apple.com/ie/app/awesome/id1179421849) | 1179421849 | 4.14 | $9.99
 [GRIS](https://apps.apple.com/ie/app/awesome/id1445379072) | 1445379072 | 4.41 | $4.99
 [GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 3.78 | $4.99
 [GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.4 | $6.99
@@ -60,6 +61,7 @@ Name | App ID | Average Rating | Price (USD)
 [Iris and the Giant](https://apps.apple.com/ie/app/awesome/id1489491274) | 1489491274 | 4.14 | $5.99
 [Journey](https://apps.apple.com/ie/app/awesome/id1445593893) | 1445593893 | 4.1 | $4.99
 [LEGO® Star Wars™: TCS](https://apps.apple.com/ie/app/awesome/id727420266) | 727420266 | 4.26 | Free
+[Legends of Runeterra](https://apps.apple.com/ie/app/awesome/id1480617557) | 1480617557 | 4.85 | Free
 [Life Is Strange](https://apps.apple.com/ie/app/awesome/id1180101534) | 1180101534 | 4.04 | Free
 [Life is Strange: Before Storm](https://apps.apple.com/ie/app/awesome/id1293250289) | 1293250289 | 3.6 | Free
 [MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.31 | $4.99
@@ -77,10 +79,13 @@ Name | App ID | Average Rating | Price (USD)
 [ROME: Total War](https://apps.apple.com/ie/app/awesome/id1106831630) | 1106831630 | 4.83 | $9.99
 [Rebel Inc.](https://apps.apple.com/ie/app/awesome/id1439187947) | 1439187947 | 4.79 | $1.99
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/awesome/id1113736426) | 1113736426 | 4.31 | $5.99
+[RuneScape](https://apps.apple.com/ie/app/awesome/id1332022656) | 1332022656 | 4.1 | Free
 [Secret of Mana](https://apps.apple.com/ie/app/awesome/id407949800) | 407949800 | 2.76 | $7.99
 [Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.26 | Free
 [Siege of Dragonspear](https://apps.apple.com/ie/app/awesome/id1298734617) | 1298734617 | 4.15 | $9.99
 [Slay the Spire](https://apps.apple.com/ie/app/awesome/id1491530147) | 1491530147 | 4.07 | $9.99
+[SpongeBob SquarePants](https://apps.apple.com/ie/app/awesome/id1523633394) | 1523633394 | 4.46 | $8.99
+[Star Traders: Frontiers](https://apps.apple.com/ie/app/awesome/id1442583232) | 1442583232 | 4.66 | $6.99
 [Star Wars™: KOTOR](https://apps.apple.com/ie/app/awesome/id611436052) | 611436052 | 4.27 | $9.99
 [Star Wars™: KOTOR II](https://apps.apple.com/ie/app/awesome/id963230767) | 963230767 | 4.31 | $14.99
 [Stardew Valley](https://apps.apple.com/ie/app/awesome/id1406710800) | 1406710800 | 4.84 | $4.99
