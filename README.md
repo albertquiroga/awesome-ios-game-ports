@@ -72,14 +72,16 @@ Name | App ID | Average Rating | Price (USD)
 [GRIS](https://apps.apple.com/ie/app/awesome/id1445379072) | 1445379072 | 4.41 | $4.99
 [GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 3.78 | $4.99
 [GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.4 | $6.99
+[GWENT: The Witcher Card Game](https://apps.apple.com/ie/app/awesome/id1466943149) | 1466943149 | 4.77 | Free
 [Game Dev Tycoon](https://apps.apple.com/ie/app/awesome/id1162580001) | 1162580001 | 4.9 | $4.99
 [Getting Over It](https://apps.apple.com/ie/app/awesome/id1319618742) | 1319618742 | 4.24 | $4.99
-[Goat Simulator](https://apps.apple.com/ie/app/awesome/id868692227) | 868692227 | 4.46 | $2.99
+[Goat Simulator](https://apps.apple.com/ie/app/awesome/id868692227) | 868692227 | 4.46 | $6.99
 [Grand Theft Auto III](https://apps.apple.com/ie/app/awesome/id479662730) | 479662730 | 4.52 | $4.99
 [Grand Theft Auto: San Andreas](https://apps.apple.com/ie/app/awesome/id763692274) | 763692274 | 4.63 | $6.99
 [Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.46 | $4.99
 [Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071 | 4.05 | $4.99
 [Halcyon 6: Starbase Commander](https://apps.apple.com/ie/app/awesome/id1264707038) | 1264707038 | 4.43 | $6.99
+[Hearthstone](https://apps.apple.com/ie/app/awesome/id625257520) | 625257520 | 3.59 | Free
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.19 | $4.99
 [Hyper Light Drifter](https://apps.apple.com/ie/app/awesome/id1453875289) | 1453875289 | 4.87 | $4.99
 [Icewind Dale](https://apps.apple.com/ie/app/awesome/id909472985) | 909472985 | 4.2 | $9.99
@@ -90,6 +92,7 @@ Name | App ID | Average Rating | Price (USD)
 [Jade Empire™: Special Edition](https://apps.apple.com/ie/app/awesome/id1108475553) | 1108475553 | 4.26 | $9.99
 [Journey](https://apps.apple.com/ie/app/awesome/id1445593893) | 1445593893 | 4.1 | $4.99
 [LEGO® Star Wars™: TCS](https://apps.apple.com/ie/app/awesome/id727420266) | 727420266 | 4.26 | Free
+[League of Legends: Wild Rift](https://apps.apple.com/ie/app/awesome/id1480616990) | 1480616990 | 4.03 | Free
 [Legends of Runeterra](https://apps.apple.com/ie/app/awesome/id1480617557) | 1480617557 | 4.85 | Free
 [Life Is Strange](https://apps.apple.com/ie/app/awesome/id1180101534) | 1180101534 | 4.04 | Free
 [Life is Strange: Before Storm](https://apps.apple.com/ie/app/awesome/id1293250289) | 1293250289 | 3.6 | Free
@@ -133,6 +136,7 @@ Name | App ID | Average Rating | Price (USD)
 [SteamWorld Heist](https://apps.apple.com/ie/app/awesome/id1093396572) | 1093396572 | 4.63 | $4.99
 [Sunless Sea](https://apps.apple.com/ie/app/awesome/id1133500069) | 1133500069 | 4.39 | $9.99
 [Surgeon Simulator](https://apps.apple.com/ie/app/awesome/id814977594) | 814977594 | 3.92 | $4.99
+[TFT: Teamfight Tactics](https://apps.apple.com/ie/app/awesome/id1480616748) | 1480616748 | 4.08 | Free
 [THE LAST REMNANT Remastered](https://apps.apple.com/ie/app/awesome/id1357536697) | 1357536697 | 3.34 | $19.99
 [Tales of the Neon Sea](https://apps.apple.com/ie/app/awesome/id1517566159) | 1517566159 | 3.95 | Free
 [Terraria](https://apps.apple.com/ie/app/awesome/id640364616) | 640364616 | 4.45 | $4.99
@@ -159,7 +163,7 @@ Name | App ID | Average Rating | Price (USD)
 [Undead Horde](https://apps.apple.com/ie/app/awesome/id1388267373) | 1388267373 | 4.53 | $5.99
 [What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 3.94 | $4.99
 [White Night](https://apps.apple.com/ie/app/awesome/id1243555377) | 1243555377 | 3.69 | $4.99
-[Worms3](https://apps.apple.com/ie/app/awesome/id596677177) | 596677177 | 3.82 | $4.99
+[Worms3](https://apps.apple.com/ie/app/awesome/id596677177) | 596677177 | 3.82 | $0.99
 [XCOM 2 Collection](https://apps.apple.com/ie/app/awesome/id1288508230) | 1288508230 | 4.13 | $24.99
 [XCOM®: Enemy Within](https://apps.apple.com/ie/app/awesome/id881270303) | 881270303 | 4.33 | $4.99
 
