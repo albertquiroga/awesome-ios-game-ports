@@ -9,6 +9,7 @@ This [awesome list](https://github.com/sindresorhus/awesome#readme) is a compila
 Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
 [ARK: Survival Evolved](https://apps.apple.com/ie/app/awesome/id1280480538) | 1280480538 | 4.45 | Free
+[Actraiser Renaissance](https://apps.apple.com/ie/app/awesome/id1532193171) | 1532193171 | 0 | $19.99
 [Baba Is You](https://apps.apple.com/ie/app/awesome/id1517281887) | 1517281887 | 4.69 | $6.99
 [Bad North: Jotunn Edition](https://apps.apple.com/ie/app/awesome/id1367121168) | 1367121168 | 3.49 | $4.99
 [Baldur's Gate](https://apps.apple.com/ie/app/awesome/id515114051) | 515114051 | 3.84 | $9.99
@@ -18,7 +19,12 @@ Name | App ID | Average Rating | Price (USD)
 [Bastion](https://apps.apple.com/ie/app/awesome/id1467063160) | 1467063160 | 4.64 | Free
 [Battle Chasers: Nightwar](https://apps.apple.com/ie/app/awesome/id1455088996) | 1455088996 | 4.03 | $9.99
 [Beyond a Steel Sky](https://apps.apple.com/ie/app/awesome/id1474849377) | 1474849377 | 4.22 | Arcade
+[Bridge Constructor](https://apps.apple.com/ie/app/awesome/id503190232) | 503190232 | 4.52 | $1.99
+[Bridge Constructor Medieval](https://apps.apple.com/ie/app/awesome/id814323051) | 814323051 | 4.51 | $1.99
+[Bridge Constructor Playground](https://apps.apple.com/ie/app/awesome/id578203499) | 578203499 | 4.33 | $1.99
 [Bridge Constructor Portal](https://apps.apple.com/ie/app/awesome/id1311353234) | 1311353234 | 4.77 | $4.99
+[Bridge Constructor Stunts](https://apps.apple.com/ie/app/awesome/id1021586545) | 1021586545 | 4.51 | $0.99
+[Bridge Constructor: TWD](https://apps.apple.com/ie/app/awesome/id1510735231) | 1510735231 | 4.83 | $2.99
 [Brothers: A Tale of Two Sons](https://apps.apple.com/ie/app/awesome/id1029588869) | 1029588869 | 4.05 | $2.99
 [Bully: Anniversary Edition](https://apps.apple.com/ie/app/awesome/id1148321705) | 1148321705 | 4.73 | $6.99
 [CHRONO TRIGGER (Upgrade Ver.)](https://apps.apple.com/ie/app/awesome/id479431697) | 479431697 | 4.46 | $9.99
@@ -107,6 +113,7 @@ Name | App ID | Average Rating | Price (USD)
 [NEO Scavenger](https://apps.apple.com/ie/app/awesome/id1132258364) | 1132258364 | 4.26 | Free
 [Neverwinter Nights](https://apps.apple.com/ie/app/awesome/id1466096721) | 1466096721 | 3.88 | $9.99
 [Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.68 | $8.99
+[Oceanhorn ™](https://apps.apple.com/ie/app/awesome/id708196645) | 708196645 | 4.29 | $7.99
 [Oddworld: Munch's Oddysee](https://apps.apple.com/ie/app/awesome/id1001248922) | 1001248922 | 4.4 | $2.99
 [Oddworld: New 'n' Tasty](https://apps.apple.com/ie/app/awesome/id1090133581) | 1090133581 | 4.81 | $4.99
 [Oddworld: Stranger's Wrath](https://apps.apple.com/ie/app/awesome/id923555295) | 923555295 | 4.44 | $2.99
@@ -124,6 +131,7 @@ Name | App ID | Average Rating | Price (USD)
 [RuneScape](https://apps.apple.com/ie/app/awesome/id1332022656) | 1332022656 | 4.1 | Free
 [SNKRX](https://apps.apple.com/ie/app/awesome/id1572602587) | 1572602587 | 4.75 | $2.99
 [Sayonara Wild Hearts](https://apps.apple.com/ie/app/awesome/id1441675161) | 1441675161 | 4.74 | Arcade
+[Scribblenauts Unlimited](https://apps.apple.com/ie/app/awesome/id1030902626) | 1030902626 | 4.26 | $4.99
 [Secret of Mana](https://apps.apple.com/ie/app/awesome/id407949800) | 407949800 | 2.76 | $7.99
 [Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.26 | Free
 [Siege of Dragonspear](https://apps.apple.com/ie/app/awesome/id1298734617) | 1298734617 | 4.15 | $9.99
@@ -159,6 +167,7 @@ Name | App ID | Average Rating | Price (USD)
 [Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.62 | $4.99
 [Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 3.99 | $17.99
 [Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526 | 4.42 | $4.99
+[Trials of Mana](https://apps.apple.com/ie/app/awesome/id1552176109) | 1552176109 | 3.79 | $23.99
 [Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.72 | $11.99
 [Undead Horde](https://apps.apple.com/ie/app/awesome/id1388267373) | 1388267373 | 4.53 | $5.99
 [What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 3.94 | $4.99
