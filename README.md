@@ -60,7 +60,7 @@ Name | App ID | Average Rating | Price (USD)
 [FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.22 | $4.99
 [FF IV: THE AFTER YEARS](https://apps.apple.com/ie/app/awesome/id683029090) | 683029090 | 4.53 | $14.99
 [FINAL FANTASY](https://apps.apple.com/ie/app/awesome/id1492041278) | 1492041278 | 3.72 | $11.99
-[FINAL FANTASY II](https://apps.apple.com/ie/app/awesome/id1492041252) | 1492041252 | 4.04 | $11.99
+[FINAL FANTASY II](https://apps.apple.com/ie/app/awesome/id1492041252) | 1492041252 | 4.02 | $11.99
 [FINAL FANTASY III](https://apps.apple.com/ie/app/awesome/id1492041436) | 1492041436 | 3.82 | $17.99
 [FINAL FANTASY III (3D REMAKE)](https://apps.apple.com/ie/app/awesome/id424591347) | 424591347 | 4.22 | $14.99
 [FINAL FANTASY III for iPad(3D)](https://apps.apple.com/ie/app/awesome/id430823968) | 430823968 | 3.98 | $16.99
@@ -108,6 +108,7 @@ Name | App ID | Average Rating | Price (USD)
 [Lunar Silver Star Story Touch](https://apps.apple.com/ie/app/awesome/id492598036) | 492598036 | 4.58 | $6.99
 [MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.33 | $4.99
 [Max Payne Mobile](https://apps.apple.com/ie/app/awesome/id512142109) | 512142109 | 4.41 | $2.99
+[Mindustry](https://apps.apple.com/ie/app/awesome/id1385258906) | 1385258906 | 4.66 | $0.99
 [Minecraft](https://apps.apple.com/ie/app/awesome/id479516143) | 479516143 | 4.5 | $6.99
 [Mini Metro](https://apps.apple.com/ie/app/awesome/id837860959) | 837860959 | 4.86 | $3.99
 [Mini Motorways](https://apps.apple.com/ie/app/awesome/id1453901000) | 1453901000 | 4.03 | Arcade
@@ -172,7 +173,7 @@ Name | App ID | Average Rating | Price (USD)
 [This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.46 | $6.99
 [This War of Mine](https://apps.apple.com/ie/app/awesome/id982175678) | 982175678 | 4.37 | $13.99
 [Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.62 | $4.99
-[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 3.97 | $17.99
+[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 3.98 | $17.99
 [Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526 | 4.42 | $4.99
 [Trials of Mana](https://apps.apple.com/ie/app/awesome/id1552176109) | 1552176109 | 3.75 | $23.99
 [Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.72 | $11.99
