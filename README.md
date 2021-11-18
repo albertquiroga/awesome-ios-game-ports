@@ -10,6 +10,7 @@ Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
 [ARK: Survival Evolved](https://apps.apple.com/ie/app/awesome/id1280480538) | 1280480538 | 4.45 | Free
 [Actraiser Renaissance](https://apps.apple.com/ie/app/awesome/id1532193171) | 1532193171 | 4 | $19.99
+[Alien: Isolation](https://apps.apple.com/ie/app/awesome/id1573029040) | 1573029040 | 0 | Arcade
 [Baba Is You](https://apps.apple.com/ie/app/awesome/id1517281887) | 1517281887 | 4.71 | $6.99
 [Bad North: Jotunn Edition](https://apps.apple.com/ie/app/awesome/id1367121168) | 1367121168 | 3.51 | $3.99
 [Baldur's Gate](https://apps.apple.com/ie/app/awesome/id515114051) | 515114051 | 3.84 | $9.99
@@ -99,6 +100,7 @@ Name | App ID | Average Rating | Price (USD)
 [Jade Empire™: Special Edition](https://apps.apple.com/ie/app/awesome/id1108475553) | 1108475553 | 4.27 | $9.99
 [Journey](https://apps.apple.com/ie/app/awesome/id1445593893) | 1445593893 | 4.1 | $4.99
 [LEGO® Star Wars™: TCS](https://apps.apple.com/ie/app/awesome/id727420266) | 727420266 | 4.26 | Free
+[Layers of Fear](https://apps.apple.com/ie/app/awesome/id1079035032) | 1079035032 | 0 | $19.99
 [League of Legends: Wild Rift](https://apps.apple.com/ie/app/awesome/id1480616990) | 1480616990 | 4.11 | Free
 [Legends of Runeterra](https://apps.apple.com/ie/app/awesome/id1480617557) | 1480617557 | 4.85 | Free
 [Life Is Strange](https://apps.apple.com/ie/app/awesome/id1180101534) | 1180101534 | 4.03 | Free
@@ -112,6 +114,7 @@ Name | App ID | Average Rating | Price (USD)
 [Moonlighter](https://apps.apple.com/ie/app/awesome/id1455087110) | 1455087110 | 4.61 | $11.99
 [My Time at Portia](https://apps.apple.com/ie/app/awesome/id1555184523) | 1555184523 | 3.92 | $7.99
 [NEO Scavenger](https://apps.apple.com/ie/app/awesome/id1132258364) | 1132258364 | 4.27 | Free
+[Need for Speed™ Most Wanted](https://apps.apple.com/ie/app/awesome/id540925164) | 540925164 | 3.77 | $4.99
 [Neverwinter Nights](https://apps.apple.com/ie/app/awesome/id1466096721) | 1466096721 | 3.88 | $9.99
 [Nexomon](https://apps.apple.com/ie/app/awesome/id1254864644) | 1254864644 | 4.75 | $0.99
 [Nexomon: Extinction](https://apps.apple.com/ie/app/awesome/id1474335542) | 1474335542 | 4.75 | Free
@@ -133,6 +136,7 @@ Name | App ID | Average Rating | Price (USD)
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/awesome/id1113736426) | 1113736426 | 4.31 | $5.99
 [RuneScape](https://apps.apple.com/ie/app/awesome/id1332022656) | 1332022656 | 4.09 | Free
 [SNKRX](https://apps.apple.com/ie/app/awesome/id1572602587) | 1572602587 | 4.7 | $2.99
+[Sanitarium](https://apps.apple.com/ie/app/awesome/id1008783470) | 1008783470 | 4.1 | $3.99
 [Sayonara Wild Hearts](https://apps.apple.com/ie/app/awesome/id1441675161) | 1441675161 | 4.74 | Arcade
 [Scribblenauts Unlimited](https://apps.apple.com/ie/app/awesome/id1030902626) | 1030902626 | 4.26 | $4.99
 [Secret of Mana](https://apps.apple.com/ie/app/awesome/id407949800) | 407949800 | 2.76 | $7.99
@@ -168,7 +172,7 @@ Name | App ID | Average Rating | Price (USD)
 [This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.46 | $6.99
 [This War of Mine](https://apps.apple.com/ie/app/awesome/id982175678) | 982175678 | 4.37 | $13.99
 [Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.62 | $4.99
-[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 3.98 | $17.99
+[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 3.97 | $17.99
 [Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526 | 4.42 | $4.99
 [Trials of Mana](https://apps.apple.com/ie/app/awesome/id1552176109) | 1552176109 | 3.75 | $23.99
 [Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.72 | $11.99
