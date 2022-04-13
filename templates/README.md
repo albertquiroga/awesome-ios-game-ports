@@ -27,7 +27,7 @@ That would require manual review of each game, something I don't have the time (
 I followed the simple criteria below to create this list:
 
 * The game must also be present in the PS Store, the Xbox store or any of the popular PC stores (Steam, GOG, Epic, etc)
-* The must obviously not have any of the aforementioned anti-consumer practices
+* The game must obviously not have any of the aforementioned anti-consumer practices
 
 If you find a game not listed here that you'd like to add, please reach out to me or make a pull request and I'll add it as soon as possible.
 
