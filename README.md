@@ -144,6 +144,7 @@ Name | App ID | Average Rating | Price (USD)
 [Pocket Tanks](https://apps.apple.com/ie/app/awesome/id311544087) | 311544087 | 4.33 | Free
 [Project Highrise](https://apps.apple.com/ie/app/awesome/id1277095117) | 1277095117 | 4.71 | $3.99
 [ROME: Total War](https://apps.apple.com/ie/app/awesome/id1106831630) | 1106831630 | 4.83 | $9.99
+[Rebel Cops](https://apps.apple.com/ie/app/awesome/id1488452530) | 1488452530 | 4.33 | $0.99
 [Rebel Inc.](https://apps.apple.com/ie/app/awesome/id1439187947) | 1439187947 | 4.79 | $1.99
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.52 | $3.99
 [RollerCoaster Tycoon® 3](https://apps.apple.com/ie/app/awesome/id1008692660) | 1008692660 | 3.93 | $4.99
