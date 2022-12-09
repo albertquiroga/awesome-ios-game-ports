@@ -8,169 +8,169 @@ This [awesome list](https://github.com/sindresorhus/awesome#readme) is a compila
 
 Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
+[](https://apps.apple.com/ie/app/awesome/id1357536697) | 1357536697 |  | 
 [](https://apps.apple.com/ie/app/awesome/id1455087110) | 1455087110 |  | 
+[](https://apps.apple.com/ie/app/awesome/id1079035032) | 1079035032 |  | 
 [ARK: Survival Evolved](https://apps.apple.com/ie/app/awesome/id1280480538) | 1280480538 | 4.45 | Free
-[Actraiser Renaissance](https://apps.apple.com/ie/app/awesome/id1532193171) | 1532193171 | 4.12 | $13.99
-[Alien: Isolation](https://apps.apple.com/ie/app/awesome/id1573029040) | 1573029040 | 4.67 | $14.99
-[Baba Is You](https://apps.apple.com/ie/app/awesome/id1517281887) | 1517281887 | 4.52 | $6.99
-[Bad North: Jotunn Edition](https://apps.apple.com/ie/app/awesome/id1367121168) | 1367121168 | 3.58 | $3.99
-[Baldur's Gate](https://apps.apple.com/ie/app/awesome/id515114051) | 515114051 | 3.85 | $9.99
-[Baldur's Gate II: EE](https://apps.apple.com/ie/app/awesome/id633625517) | 633625517 | 4.25 | $9.99
+[Actraiser Renaissance](https://apps.apple.com/ie/app/awesome/id1532193171) | 1532193171 | 3.94 | $19.99
+[Alien: Isolation](https://apps.apple.com/ie/app/awesome/id1573029040) | 1573029040 | 4.61 | $14.99
+[Baba Is You](https://apps.apple.com/ie/app/awesome/id1517281887) | 1517281887 | 4.49 | $6.99
+[Bad North: Jotunn Edition](https://apps.apple.com/ie/app/awesome/id1367121168) | 1367121168 | 3.6 | $3.99
+[Baldur's Gate](https://apps.apple.com/ie/app/awesome/id515114051) | 515114051 | 3.84 | $9.99
+[Baldur's Gate II: EE](https://apps.apple.com/ie/app/awesome/id633625517) | 633625517 | 4.24 | $9.99
 [Banner Saga](https://apps.apple.com/ie/app/awesome/id911006986) | 911006986 | 4.79 | $9.99
-[Banner Saga 2](https://apps.apple.com/ie/app/awesome/id1107741196) | 1107741196 | 4.73 | $9.99
-[Bastion](https://apps.apple.com/ie/app/awesome/id1467063160) | 1467063160 | 4.66 | Free
+[Banner Saga 2](https://apps.apple.com/ie/app/awesome/id1107741196) | 1107741196 | 4.72 | $9.99
+[Bastion](https://apps.apple.com/ie/app/awesome/id1467063160) | 1467063160 | 4.65 | Free
 [Battle Chasers: Nightwar](https://apps.apple.com/ie/app/awesome/id1455088996) | 1455088996 | 4.03 | $9.99
-[Beyond a Steel Sky](https://apps.apple.com/ie/app/awesome/id1474849377) | 1474849377 | 4.26 | Arcade
-[Brawlhalla](https://apps.apple.com/ie/app/awesome/id1491520571) | 1491520571 | 4.16 | Free
-[Bridge Constructor](https://apps.apple.com/ie/app/awesome/id503190232) | 503190232 | 4.49 | $1.99
+[Beyond a Steel Sky](https://apps.apple.com/ie/app/awesome/id1474849377) | 1474849377 | 4.27 | Arcade
+[Brawlhalla](https://apps.apple.com/ie/app/awesome/id1491520571) | 1491520571 | 4.15 | Free
+[Bridge Constructor](https://apps.apple.com/ie/app/awesome/id503190232) | 503190232 | 4.5 | $1.99
 [Bridge Constructor Medieval](https://apps.apple.com/ie/app/awesome/id814323051) | 814323051 | 4.53 | $1.99
 [Bridge Constructor Playground](https://apps.apple.com/ie/app/awesome/id578203499) | 578203499 | 4.34 | $1.99
 [Bridge Constructor Portal](https://apps.apple.com/ie/app/awesome/id1311353234) | 1311353234 | 4.77 | $4.99
-[Bridge Constructor Stunts](https://apps.apple.com/ie/app/awesome/id1021586545) | 1021586545 | 4.37 | $1.99
+[Bridge Constructor Stunts](https://apps.apple.com/ie/app/awesome/id1021586545) | 1021586545 | 4.34 | $1.99
 [Bridge Constructor: TWD](https://apps.apple.com/ie/app/awesome/id1510735231) | 1510735231 | 4.84 | $2.99
 [Brothers: A Tale of Two Sons](https://apps.apple.com/ie/app/awesome/id1029588869) | 1029588869 | 4.06 | $2.99
 [Bully: Anniversary Edition](https://apps.apple.com/ie/app/awesome/id1148321705) | 1148321705 | 4.74 | $6.99
-[CHRONO TRIGGER (Upgrade Ver.)](https://apps.apple.com/ie/app/awesome/id479431697) | 479431697 | 4.47 | $4.99
-[Castlevania: SotN](https://apps.apple.com/ie/app/awesome/id1435456830) | 1435456830 | 3.88 | $2.99
-[Civilization Revolution 2](https://apps.apple.com/ie/app/awesome/id864880531) | 864880531 | 4.22 | $4.99
+[CHRONO TRIGGER (Upgrade Ver.)](https://apps.apple.com/ie/app/awesome/id479431697) | 479431697 | 4.47 | $9.99
+[Castlevania: SotN](https://apps.apple.com/ie/app/awesome/id1435456830) | 1435456830 | 3.9 | $2.99
+[Civilization Revolution 2](https://apps.apple.com/ie/app/awesome/id864880531) | 864880531 | 4.23 | $4.99
 [Company of Heroes](https://apps.apple.com/ie/app/awesome/id1464645812) | 1464645812 | 4.75 | $13.99
 [Creatures of Aether](https://apps.apple.com/ie/app/awesome/id1525439109) | 1525439109 | 4.68 | Free
 [Crying Suns](https://apps.apple.com/ie/app/awesome/id1511788295) | 1511788295 | 4.83 | $8.99
-[Crypt of the NecroDancer](https://apps.apple.com/ie/app/awesome/id1085123968) | 1085123968 | 3.84 | $3.99
+[Crypt of the NecroDancer](https://apps.apple.com/ie/app/awesome/id1085123968) | 1085123968 | 3.85 | $3.99
 [Cultist Simulator](https://apps.apple.com/ie/app/awesome/id1439886655) | 1439886655 | 4.8 | $6.99
 [DOOM](https://apps.apple.com/ie/app/awesome/id336347946) | 336347946 | 3.73 | $4.99
 [DOOM II](https://apps.apple.com/ie/app/awesome/id1470090748) | 1470090748 | 3.69 | $4.99
-[DRAGON QUEST](https://apps.apple.com/ie/app/awesome/id911201894) | 911201894 | 4.48 | $2.99
-[DRAGON QUEST II](https://apps.apple.com/ie/app/awesome/id911205290) | 911205290 | 4.47 | $4.99
-[DRAGON QUEST III](https://apps.apple.com/ie/app/awesome/id911208088) | 911208088 | 4.35 | $9.99
-[DRAGON QUEST IV](https://apps.apple.com/ie/app/awesome/id847381935) | 847381935 | 4.43 | $14.99
-[DRAGON QUEST V](https://apps.apple.com/ie/app/awesome/id933113994) | 933113994 | 4.54 | $14.99
-[DRAGON QUEST VI](https://apps.apple.com/ie/app/awesome/id949745100) | 949745100 | 4.18 | $14.99
-[DRAGON QUEST VIII](https://apps.apple.com/ie/app/awesome/id862972069) | 862972069 | 3.82 | $19.99
-[Dandara Trials of Fear Edition](https://apps.apple.com/ie/app/awesome/id1168013926) | 1168013926 | 4.42 | $3.99
+[DRAGON QUEST](https://apps.apple.com/ie/app/awesome/id911201894) | 911201894 | 4.49 | $2.99
+[DRAGON QUEST II](https://apps.apple.com/ie/app/awesome/id911205290) | 911205290 | 4.45 | $4.99
+[DRAGON QUEST III](https://apps.apple.com/ie/app/awesome/id911208088) | 911208088 | 4.36 | $9.99
+[DRAGON QUEST IV](https://apps.apple.com/ie/app/awesome/id847381935) | 847381935 | 4.44 | $14.99
+[DRAGON QUEST V](https://apps.apple.com/ie/app/awesome/id933113994) | 933113994 | 4.55 | $14.99
+[DRAGON QUEST VI](https://apps.apple.com/ie/app/awesome/id949745100) | 949745100 | 4.21 | $14.99
+[DRAGON QUEST VIII](https://apps.apple.com/ie/app/awesome/id862972069) | 862972069 | 3.83 | $19.99
+[Dandara Trials of Fear Edition](https://apps.apple.com/ie/app/awesome/id1168013926) | 1168013926 | 4.43 | $3.99
 [Darkest Dungeon:Tablet Edition](https://apps.apple.com/ie/app/awesome/id1199831446) | 1199831446 | 3.4 | $4.99
-[Dead Cells](https://apps.apple.com/ie/app/awesome/id1389752090) | 1389752090 | 4.82 | $5.99
+[Dead Cells](https://apps.apple.com/ie/app/awesome/id1389752090) | 1389752090 | 4.75 | $8.99
 [Dear Esther](https://apps.apple.com/ie/app/awesome/id1476531719) | 1476531719 | 4.12 | $1.99
-[Dicey Dungeons](https://apps.apple.com/ie/app/awesome/id1368013995) | 1368013995 | 4.68 | $4.99
-[Disgaea 1 Complete](https://apps.apple.com/ie/app/awesome/id1479933497) | 1479933497 | 4.47 | $32.99
-[Divinity - Original Sin 2](https://apps.apple.com/ie/app/awesome/id1458655678) | 1458655678 | 4.7 | $24.99
+[Dicey Dungeons](https://apps.apple.com/ie/app/awesome/id1368013995) | 1368013995 | 4.65 | $4.99
+[Disgaea 1 Complete](https://apps.apple.com/ie/app/awesome/id1479933497) | 1479933497 | 4.46 | $32.99
+[Divinity - Original Sin 2](https://apps.apple.com/ie/app/awesome/id1458655678) | 1458655678 | 4.68 | $12.99
 [Don't Starve: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1012298403) | 1012298403 | 4.52 | $4.99
 [Don't Starve: Shipwrecked](https://apps.apple.com/ie/app/awesome/id1147297267) | 1147297267 | 4.17 | $4.99
 [Donut County](https://apps.apple.com/ie/app/awesome/id1292099839) | 1292099839 | 3.93 | $4.99
-[Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 3.98 | $1.99
-[Dungeon of the Endless: Apogee](https://apps.apple.com/ie/app/awesome/id1526466468) | 1526466468 | 4.36 | $7.99
+[Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4 | $1.99
+[Dungeon of the Endless: Apogee](https://apps.apple.com/ie/app/awesome/id1526466468) | 1526466468 | 4.35 | $7.99
 [Element - RTS](https://apps.apple.com/ie/app/awesome/id749488884) | 749488884 | 4.63 | $2.99
-[Escapists 2: Pocket Breakout](https://apps.apple.com/ie/app/awesome/id1356167732) | 1356167732 | 4.69 | $6.99
-[Evoland](https://apps.apple.com/ie/app/awesome/id946477821) | 946477821 | 4.22 | $2.99
-[Evoland 2](https://apps.apple.com/ie/app/awesome/id1291427111) | 1291427111 | 4.58 | $4.99
-[FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.24 | $4.99
-[FF IV: THE AFTER YEARS](https://apps.apple.com/ie/app/awesome/id683029090) | 683029090 | 4.4 | $6.99
-[FINAL FANTASY](https://apps.apple.com/ie/app/awesome/id1492041278) | 1492041278 | 3.59 | $8.99
-[FINAL FANTASY II](https://apps.apple.com/ie/app/awesome/id1492041252) | 1492041252 | 3.91 | $8.99
-[FINAL FANTASY III](https://apps.apple.com/ie/app/awesome/id1492041436) | 1492041436 | 3.82 | $13.99
-[FINAL FANTASY III (3D REMAKE)](https://apps.apple.com/ie/app/awesome/id424591347) | 424591347 | 4.23 | $6.99
-[FINAL FANTASY III for iPad(3D)](https://apps.apple.com/ie/app/awesome/id430823968) | 430823968 | 4.04 | $7.99
-[FINAL FANTASY IV](https://apps.apple.com/ie/app/awesome/id1492041417) | 1492041417 | 3.53 | $13.99
-[FINAL FANTASY IV (3D REMAKE)](https://apps.apple.com/ie/app/awesome/id575119311) | 575119311 | 4.44 | $6.99
-[FINAL FANTASY TACTICS](https://apps.apple.com/ie/app/awesome/id500098096) | 500098096 | 3.89 | $7.99
-[FINAL FANTASY TACTICS :WotL](https://apps.apple.com/ie/app/awesome/id446760220) | 446760220 | 3.89 | $6.99
+[Escapists 2: Pocket Breakout](https://apps.apple.com/ie/app/awesome/id1356167732) | 1356167732 | 4.7 | $6.99
+[Evoland](https://apps.apple.com/ie/app/awesome/id946477821) | 946477821 | 4.2 | $2.99
+[Evoland 2](https://apps.apple.com/ie/app/awesome/id1291427111) | 1291427111 | 4.59 | $4.99
+[FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.23 | $4.99
+[FF IV: THE AFTER YEARS](https://apps.apple.com/ie/app/awesome/id683029090) | 683029090 | 4.37 | $14.99
+[FINAL FANTASY](https://apps.apple.com/ie/app/awesome/id1492041278) | 1492041278 | 3.58 | $11.99
+[FINAL FANTASY II](https://apps.apple.com/ie/app/awesome/id1492041252) | 1492041252 | 3.94 | $11.99
+[FINAL FANTASY III](https://apps.apple.com/ie/app/awesome/id1492041436) | 1492041436 | 3.83 | $17.99
+[FINAL FANTASY III (3D REMAKE)](https://apps.apple.com/ie/app/awesome/id424591347) | 424591347 | 4.17 | $14.99
+[FINAL FANTASY III for iPad(3D)](https://apps.apple.com/ie/app/awesome/id430823968) | 430823968 | 4.02 | $16.99
+[FINAL FANTASY IV](https://apps.apple.com/ie/app/awesome/id1492041417) | 1492041417 | 3.5 | $17.99
+[FINAL FANTASY IV (3D REMAKE)](https://apps.apple.com/ie/app/awesome/id575119311) | 575119311 | 4.44 | $14.99
+[FINAL FANTASY TACTICS](https://apps.apple.com/ie/app/awesome/id500098096) | 500098096 | 3.87 | $15.99
+[FINAL FANTASY TACTICS :WotL](https://apps.apple.com/ie/app/awesome/id446760220) | 446760220 | 3.88 | $13.99
 [FINAL FANTASY VII](https://apps.apple.com/ie/app/awesome/id1021566244) | 1021566244 | 4.15 | $15.99
-[FINAL FANTASY VIII Remastered](https://apps.apple.com/ie/app/awesome/id1326740784) | 1326740784 | 4.07 | $10.99
-[FINALFANTASY CRYSTALCHRONICLES](https://apps.apple.com/ie/app/awesome/id1478870957) | 1478870957 | 3.62 | Free
-[FTL: Faster Than Light](https://apps.apple.com/ie/app/awesome/id833951143) | 833951143 | 4.49 | $9.99
+[FINAL FANTASY VIII Remastered](https://apps.apple.com/ie/app/awesome/id1326740784) | 1326740784 | 4.06 | $20.99
+[FINALFANTASY CRYSTALCHRONICLES](https://apps.apple.com/ie/app/awesome/id1478870957) | 1478870957 | 3.61 | Free
+[FTL: Faster Than Light](https://apps.apple.com/ie/app/awesome/id833951143) | 833951143 | 4.5 | $9.99
 [Fallout Shelter](https://apps.apple.com/ie/app/awesome/id991153141) | 991153141 | 4.76 | Free
 [Florence](https://apps.apple.com/ie/app/awesome/id1297430468) | 1297430468 | 4.56 | $2.99
-[Flower](https://apps.apple.com/ie/app/awesome/id1279174518) | 1279174518 | 4.05 | $4.99
-[Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.4 | $7.99
-[GRID™ Autosport](https://apps.apple.com/ie/app/awesome/id1179421849) | 1179421849 | 4.35 | $9.99
-[GRIS](https://apps.apple.com/ie/app/awesome/id1445379072) | 1445379072 | 4.41 | $4.99
-[GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 3.81 | $4.99
-[GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.43 | $6.99
-[GWENT: Rogue Mage](https://apps.apple.com/ie/app/awesome/id1574504250) | 1574504250 | 3.64 | $9.99
+[Flower](https://apps.apple.com/ie/app/awesome/id1279174518) | 1279174518 | 4.07 | $4.99
+[Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.38 | $7.99
+[GRID™ Autosport](https://apps.apple.com/ie/app/awesome/id1179421849) | 1179421849 | 4.38 | $9.99
+[GRIS](https://apps.apple.com/ie/app/awesome/id1445379072) | 1445379072 | 4.42 | $4.99
+[GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 3.8 | $4.99
+[GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.44 | $6.99
+[GWENT: Rogue Mage](https://apps.apple.com/ie/app/awesome/id1574504250) | 1574504250 | 3.61 | $9.99
 [GWENT: The Witcher Card Game](https://apps.apple.com/ie/app/awesome/id1466943149) | 1466943149 | 4.76 | Free
 [Game Dev Tycoon](https://apps.apple.com/ie/app/awesome/id1162580001) | 1162580001 | 4.9 | $4.99
-[Getting Over It](https://apps.apple.com/ie/app/awesome/id1319618742) | 1319618742 | 4.26 | $4.99
+[Getting Over It](https://apps.apple.com/ie/app/awesome/id1319618742) | 1319618742 | 4.27 | $4.99
 [Goat Simulator](https://apps.apple.com/ie/app/awesome/id868692227) | 868692227 | 4.45 | $6.99
-[Grand Theft Auto III](https://apps.apple.com/ie/app/awesome/id479662730) | 479662730 | 4.54 | $4.99
-[Grand Theft Auto: San Andreas](https://apps.apple.com/ie/app/awesome/id763692274) | 763692274 | 4.64 | $6.99
-[Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.48 | $4.99
-[Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071 | 4.08 | $4.99
+[Grand Theft Auto III](https://apps.apple.com/ie/app/awesome/id479662730) | 479662730 | 4.55 | $4.99
+[Grand Theft Auto: San Andreas](https://apps.apple.com/ie/app/awesome/id763692274) | 763692274 | 4.65 | $6.99
+[Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.49 | $4.99
+[Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071 | 4.11 | $4.99
 [Halcyon 6: Starbase Commander](https://apps.apple.com/ie/app/awesome/id1264707038) | 1264707038 | 4.45 | $6.99
-[Hearthstone](https://apps.apple.com/ie/app/awesome/id625257520) | 625257520 | 3.81 | Free
-[Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.15 | $4.99
-[Huntdown](https://apps.apple.com/ie/app/awesome/id1198183067) | 1198183067 | 4.86 | $6.99
+[Hearthstone](https://apps.apple.com/ie/app/awesome/id625257520) | 625257520 | 3.84 | Free
+[Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.14 | $4.99
+[Huntdown](https://apps.apple.com/ie/app/awesome/id1198183067) | 1198183067 | 4.87 | $6.99
 [Hyper Light Drifter](https://apps.apple.com/ie/app/awesome/id1453875289) | 1453875289 | 4.87 | $4.99
-[Icewind Dale](https://apps.apple.com/ie/app/awesome/id909472985) | 909472985 | 4.14 | $9.99
+[Icewind Dale](https://apps.apple.com/ie/app/awesome/id909472985) | 909472985 | 4.13 | $9.99
 [If Found...](https://apps.apple.com/ie/app/awesome/id1440072561) | 1440072561 | 4.35 | $4.99
 [Invisible, Inc.](https://apps.apple.com/ie/app/awesome/id1147331964) | 1147331964 | 4.73 | $4.99
 [Iris and the Giant](https://apps.apple.com/ie/app/awesome/id1489491274) | 1489491274 | 3.75 | $5.99
-[JYDGE](https://apps.apple.com/ie/app/awesome/id1212865786) | 1212865786 | 4.68 | $8.99
+[JYDGE](https://apps.apple.com/ie/app/awesome/id1212865786) | 1212865786 | 4.67 | $8.99
 [Jade Empire™: Special Edition](https://apps.apple.com/ie/app/awesome/id1108475553) | 1108475553 | 4.26 | $9.99
 [Journey](https://apps.apple.com/ie/app/awesome/id1445593893) | 1445593893 | 4.13 | $4.99
-[Kingdom Two Crowns](https://apps.apple.com/ie/app/awesome/id1477991646) | 1477991646 | 4.42 | $6.99
+[Kingdom Two Crowns](https://apps.apple.com/ie/app/awesome/id1477991646) | 1477991646 | 4.45 | $6.99
 [LEGO® Star Wars™: TCS](https://apps.apple.com/ie/app/awesome/id727420266) | 727420266 | 4.26 | Free
-[Layers of Fear](https://apps.apple.com/ie/app/awesome/id1079035032) | 1079035032 | 0 | $19.99
-[League of Legends: Wild Rift](https://apps.apple.com/ie/app/awesome/id1480616990) | 1480616990 | 4.16 | Free
-[Legend of Mana](https://apps.apple.com/ie/app/awesome/id1563156209) | 1563156209 | 4.43 | $16.99
+[League of Legends: Wild Rift](https://apps.apple.com/ie/app/awesome/id1480616990) | 1480616990 | 4.15 | Free
+[Legend of Mana](https://apps.apple.com/ie/app/awesome/id1563156209) | 1563156209 | 4 | $27.99
 [Legends of Runeterra](https://apps.apple.com/ie/app/awesome/id1480617557) | 1480617557 | 4.85 | Free
 [Life Is Strange](https://apps.apple.com/ie/app/awesome/id1180101534) | 1180101534 | 4.01 | Free
 [Life is Strange: Before Storm](https://apps.apple.com/ie/app/awesome/id1293250289) | 1293250289 | 3.6 | Free
 [Lunar Silver Star Story Touch](https://apps.apple.com/ie/app/awesome/id492598036) | 492598036 | 4.6 | $6.99
-[MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.29 | $4.99
+[MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.28 | $4.99
 [Max Payne Mobile](https://apps.apple.com/ie/app/awesome/id512142109) | 512142109 | 4.4 | $2.99
-[Mindustry](https://apps.apple.com/ie/app/awesome/id1385258906) | 1385258906 | 4.61 | $0.99
+[Mindustry](https://apps.apple.com/ie/app/awesome/id1385258906) | 1385258906 | 4.61 | $1.99
 [Minecraft](https://apps.apple.com/ie/app/awesome/id479516143) | 479516143 | 4.5 | $6.99
 [Mini Metro](https://apps.apple.com/ie/app/awesome/id837860959) | 837860959 | 4.86 | $3.99
 [Mini Motorways](https://apps.apple.com/ie/app/awesome/id1453901000) | 1453901000 | 4.05 | Arcade
-[My Time at Portia](https://apps.apple.com/ie/app/awesome/id1555184523) | 1555184523 | 3.84 | $7.99
+[My Time at Portia](https://apps.apple.com/ie/app/awesome/id1555184523) | 1555184523 | 3.82 | $7.99
 [NEO Scavenger](https://apps.apple.com/ie/app/awesome/id1132258364) | 1132258364 | 4.29 | Free
 [NETFLIX Moonlighter](https://apps.apple.com/ie/app/awesome/id1612148433) | 1612148433 | 4.72 | Free
-[Need for Speed™ Most Wanted](https://apps.apple.com/ie/app/awesome/id540925164) | 540925164 | 3.74 | $4.99
-[Neverwinter Nights](https://apps.apple.com/ie/app/awesome/id1466096721) | 1466096721 | 3.93 | $9.99
-[Nexomon](https://apps.apple.com/ie/app/awesome/id1254864644) | 1254864644 | 4.74 | $0.99
+[Need for Speed™ Most Wanted](https://apps.apple.com/ie/app/awesome/id540925164) | 540925164 | 3.73 | $4.99
+[Neverwinter Nights](https://apps.apple.com/ie/app/awesome/id1466096721) | 1466096721 | 3.97 | $9.99
+[Nexomon](https://apps.apple.com/ie/app/awesome/id1254864644) | 1254864644 | 4.75 | $0.99
 [Nexomon: Extinction](https://apps.apple.com/ie/app/awesome/id1474335542) | 1474335542 | 4.77 | Free
-[Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.66 | $8.99
-[Oceanhorn ™](https://apps.apple.com/ie/app/awesome/id708196645) | 708196645 | 4.27 | $7.99
-[Oddworld: Munch's Oddysee](https://apps.apple.com/ie/app/awesome/id1001248922) | 1001248922 | 4.4 | $2.99
+[Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.66 | $7.99
+[Oceanhorn ™](https://apps.apple.com/ie/app/awesome/id708196645) | 708196645 | 4.28 | $6.99
+[Oddworld: Munch's Oddysee](https://apps.apple.com/ie/app/awesome/id1001248922) | 1001248922 | 4.42 | $2.99
 [Oddworld: New 'n' Tasty](https://apps.apple.com/ie/app/awesome/id1090133581) | 1090133581 | 4.82 | $4.99
-[Oddworld: Stranger's Wrath](https://apps.apple.com/ie/app/awesome/id923555295) | 923555295 | 4.47 | $2.99
+[Oddworld: Stranger's Wrath](https://apps.apple.com/ie/app/awesome/id923555295) | 923555295 | 4.49 | $2.99
 [Old School RuneScape](https://apps.apple.com/ie/app/awesome/id1269648762) | 1269648762 | 4.79 | Free
-[Papers, Please](https://apps.apple.com/ie/app/awesome/id935216956) | 935216956 | 4.77 | $4.99
-[Pascal's Wager](https://apps.apple.com/ie/app/awesome/id1476649036) | 1476649036 | 4.22 | $6.99
+[Papers, Please](https://apps.apple.com/ie/app/awesome/id935216956) | 935216956 | 4.76 | $4.99
+[Pascal's Wager](https://apps.apple.com/ie/app/awesome/id1476649036) | 1476649036 | 4.21 | $6.99
 [Plague Inc.](https://apps.apple.com/ie/app/awesome/id525818839) | 525818839 | 4.81 | $0.99
-[Planescape: Torment](https://apps.apple.com/ie/app/awesome/id1138916291) | 1138916291 | 4.07 | $9.99
+[Planescape: Torment](https://apps.apple.com/ie/app/awesome/id1138916291) | 1138916291 | 4.1 | $9.99
 [Playdead's INSIDE](https://apps.apple.com/ie/app/awesome/id1201642309) | 1201642309 | 4.33 | Free
-[Playdead's LIMBO](https://apps.apple.com/ie/app/awesome/id656951157) | 656951157 | 4.55 | $3.99
-[Pocket Tanks](https://apps.apple.com/ie/app/awesome/id311544087) | 311544087 | 4.33 | Free
-[Project Highrise](https://apps.apple.com/ie/app/awesome/id1277095117) | 1277095117 | 4.71 | $3.99
+[Playdead's LIMBO](https://apps.apple.com/ie/app/awesome/id656951157) | 656951157 | 4.56 | $3.99
+[Pocket Tanks](https://apps.apple.com/ie/app/awesome/id311544087) | 311544087 | 4.32 | Free
+[Project Highrise](https://apps.apple.com/ie/app/awesome/id1277095117) | 1277095117 | 4.72 | $3.99
 [ROME: Total War](https://apps.apple.com/ie/app/awesome/id1106831630) | 1106831630 | 4.83 | $9.99
-[Rebel Cops](https://apps.apple.com/ie/app/awesome/id1488452530) | 1488452530 | 4.33 | $0.99
+[Rebel Cops](https://apps.apple.com/ie/app/awesome/id1488452530) | 1488452530 | 4.33 | $7.99
 [Rebel Inc.](https://apps.apple.com/ie/app/awesome/id1439187947) | 1439187947 | 4.79 | $1.99
-[Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.52 | $3.99
-[RollerCoaster Tycoon® 3](https://apps.apple.com/ie/app/awesome/id1008692660) | 1008692660 | 3.93 | $4.99
+[Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.53 | $3.99
+[RollerCoaster Tycoon® 3](https://apps.apple.com/ie/app/awesome/id1008692660) | 1008692660 | 3.92 | $4.99
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/awesome/id1113736426) | 1113736426 | 4.31 | $5.99
-[RuneScape](https://apps.apple.com/ie/app/awesome/id1332022656) | 1332022656 | 4.06 | Free
-[SNKRX](https://apps.apple.com/ie/app/awesome/id1572602587) | 1572602587 | 4.73 | $2.99
-[Sanitarium](https://apps.apple.com/ie/app/awesome/id1008783470) | 1008783470 | 4.15 | $3.99
+[RuneScape](https://apps.apple.com/ie/app/awesome/id1332022656) | 1332022656 | 4.05 | Free
+[SNKRX](https://apps.apple.com/ie/app/awesome/id1572602587) | 1572602587 | 4.74 | $2.99
+[Sanitarium](https://apps.apple.com/ie/app/awesome/id1008783470) | 1008783470 | 4.14 | $3.99
 [Sayonara Wild Hearts](https://apps.apple.com/ie/app/awesome/id1441675161) | 1441675161 | 4.74 | Arcade
-[Scribblenauts Unlimited](https://apps.apple.com/ie/app/awesome/id1030902626) | 1030902626 | 4.25 | $4.99
-[Secret of Mana](https://apps.apple.com/ie/app/awesome/id407949800) | 407949800 | 2.82 | $3.99
-[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.21 | Free
-[Siege of Dragonspear](https://apps.apple.com/ie/app/awesome/id1298734617) | 1298734617 | 4.12 | $9.99
+[Scribblenauts Unlimited](https://apps.apple.com/ie/app/awesome/id1030902626) | 1030902626 | 4.24 | $4.99
+[Secret of Mana](https://apps.apple.com/ie/app/awesome/id407949800) | 407949800 | 2.86 | $7.99
+[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.2 | Free
+[Siege of Dragonspear](https://apps.apple.com/ie/app/awesome/id1298734617) | 1298734617 | 4.13 | $9.99
 [Slay the Spire](https://apps.apple.com/ie/app/awesome/id1491530147) | 1491530147 | 4.12 | $9.99
-[SpongeBob SquarePants](https://apps.apple.com/ie/app/awesome/id1523633394) | 1523633394 | 4.45 | $9.99
-[Star Traders: Frontiers](https://apps.apple.com/ie/app/awesome/id1442583232) | 1442583232 | 4.66 | $6.99
-[Star Wars™: KOTOR](https://apps.apple.com/ie/app/awesome/id611436052) | 611436052 | 4.27 | $9.99
-[Star Wars™: KOTOR II](https://apps.apple.com/ie/app/awesome/id963230767) | 963230767 | 4.21 | $14.99
+[SpongeBob SquarePants](https://apps.apple.com/ie/app/awesome/id1523633394) | 1523633394 | 4.46 | $9.99
+[Star Traders: Frontiers](https://apps.apple.com/ie/app/awesome/id1442583232) | 1442583232 | 4.65 | $6.99
+[Star Wars™: KOTOR](https://apps.apple.com/ie/app/awesome/id611436052) | 611436052 | 4.26 | $9.99
+[Star Wars™: KOTOR II](https://apps.apple.com/ie/app/awesome/id963230767) | 963230767 | 4.2 | $14.99
 [Stardew Valley](https://apps.apple.com/ie/app/awesome/id1406710800) | 1406710800 | 4.85 | $4.99
 [SteamWorld Heist](https://apps.apple.com/ie/app/awesome/id1093396572) | 1093396572 | 4.63 | $4.99
 [Sunless Sea](https://apps.apple.com/ie/app/awesome/id1133500069) | 1133500069 | 4.34 | $9.99
 [Surgeon Simulator](https://apps.apple.com/ie/app/awesome/id814977594) | 814977594 | 3.89 | $4.99
-[TFT: Teamfight Tactics](https://apps.apple.com/ie/app/awesome/id1480616748) | 1480616748 | 4.01 | Free
-[THE LAST REMNANT Remastered](https://apps.apple.com/ie/app/awesome/id1357536697) | 1357536697 | 3.46 | $13.99
-[Tales of the Neon Sea](https://apps.apple.com/ie/app/awesome/id1517566159) | 1517566159 | 4.24 | Free
+[TFT: Teamfight Tactics](https://apps.apple.com/ie/app/awesome/id1480616748) | 1480616748 | 4.22 | Free
+[Tales of the Neon Sea](https://apps.apple.com/ie/app/awesome/id1517566159) | 1517566159 | 4.25 | Free
 [Terraria](https://apps.apple.com/ie/app/awesome/id640364616) | 640364616 | 4.45 | $4.99
-[Tesla Force](https://apps.apple.com/ie/app/awesome/id1572242486) | 1572242486 | 4.62 | $5.99
+[Tesla Force](https://apps.apple.com/ie/app/awesome/id1572242486) | 1572242486 | 4.63 | $5.99
 [Tesla vs Lovecraft](https://apps.apple.com/ie/app/awesome/id1212868423) | 1212868423 | 3.99 | $8.99
 [Teslagrad](https://apps.apple.com/ie/app/awesome/id1374372468) | 1374372468 | 4.4 | $6.99
 [The Bard's Tale](https://apps.apple.com/ie/app/awesome/id480375355) | 480375355 | 4.44 | $2.99
@@ -178,24 +178,25 @@ Name | App ID | Average Rating | Price (USD)
 [The Pathless](https://apps.apple.com/ie/app/awesome/id1441675155) | 1441675155 | 4.22 | Arcade
 [The Talos Principle](https://apps.apple.com/ie/app/awesome/id1250484428) | 1250484428 | 4.59 | $4.99
 [The Unfinished Swan](https://apps.apple.com/ie/app/awesome/id1490196582) | 1490196582 | 3.69 | $4.99
-[The Witcher Tales](https://apps.apple.com/ie/app/awesome/id1564265387) | 1564265387 | 3.03 | Free
-[The Witness](https://apps.apple.com/ie/app/awesome/id1230231705) | 1230231705 | 3.99 | $9.99
-[TheWorldEndswithYou: SoloRemix](https://apps.apple.com/ie/app/awesome/id544695089) | 544695089 | 4.08 | $17.99
-[TheWorldEndswithYouSoloRemixHD](https://apps.apple.com/ie/app/awesome/id545042359) | 545042359 | 4.23 | $19.99
+[The Witcher Tales](https://apps.apple.com/ie/app/awesome/id1564265387) | 1564265387 | 3.17 | Free
+[The Witness](https://apps.apple.com/ie/app/awesome/id1230231705) | 1230231705 | 4.0 | $9.99
+[TheWorldEndswithYou: SoloRemix](https://apps.apple.com/ie/app/awesome/id544695089) | 544695089 | 4.09 | $17.99
+[TheWorldEndswithYouSoloRemixHD](https://apps.apple.com/ie/app/awesome/id545042359) | 545042359 | 4.22 | $19.99
 [Thimbleweed Park](https://apps.apple.com/ie/app/awesome/id1228969539) | 1228969539 | 4.84 | $9.99
-[This Is the Police](https://apps.apple.com/ie/app/awesome/id1435461053) | 1435461053 | 4.27 | $6.99
-[This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.29 | $6.99
-[This War of Mine](https://apps.apple.com/ie/app/awesome/id982175678) | 982175678 | 4.42 | $13.99
-[Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.61 | $4.99
-[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 4.09 | $19.99
-[Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526 | 4.42 | $4.99
-[Trials of Mana](https://apps.apple.com/ie/app/awesome/id1552176109) | 1552176109 | 3.46 | $10.99
-[Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.73 | $11.99
-[Undead Horde](https://apps.apple.com/ie/app/awesome/id1388267373) | 1388267373 | 4.52 | $5.99
-[What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 3.99 | $4.99
+[This Is the Police](https://apps.apple.com/ie/app/awesome/id1435461053) | 1435461053 | 4.23 | $7.99
+[This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.3 | $1.99
+[This War of Mine](https://apps.apple.com/ie/app/awesome/id982175678) | 982175678 | 4.41 | $13.99
+[Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.62 | $4.99
+[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 4.13 | $19.99
+[Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526 | 4.43 | $4.99
+[Trials of Mana](https://apps.apple.com/ie/app/awesome/id1552176109) | 1552176109 | 3.67 | $23.99
+[Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.74 | $11.99
+[Undead Horde](https://apps.apple.com/ie/app/awesome/id1388267373) | 1388267373 | 4.54 | $5.99
+[Vampire Survivors](https://apps.apple.com/ie/app/awesome/id6444525702) | 6444525702 | 0 | Free
+[What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 4.02 | $4.99
 [White Night](https://apps.apple.com/ie/app/awesome/id1243555377) | 1243555377 | 3.71 | $4.99
-[Worms3](https://apps.apple.com/ie/app/awesome/id596677177) | 596677177 | 3.77 | $4.99
-[XCOM 2 Collection](https://apps.apple.com/ie/app/awesome/id1288508230) | 1288508230 | 4.13 | $19.99
+[Worms3](https://apps.apple.com/ie/app/awesome/id596677177) | 596677177 | 3.76 | $4.99
+[XCOM 2 Collection](https://apps.apple.com/ie/app/awesome/id1288508230) | 1288508230 | 4.12 | $19.99
 [XCOM®: Enemy Within](https://apps.apple.com/ie/app/awesome/id881270303) | 881270303 | 4.34 | $4.99
 
 ## FAQ
