@@ -94,6 +94,7 @@ def process_entry(entry: str) -> App:
     :return: App object representing the application
     """
     entry = entry.strip()
+    logging.info(f'Processing entry: {entry}')
     app_id = entry.split(SEPARATOR_CHAR)[0]
     full_url = BASE_ITUNES_API_URL + app_id
     response = requests.get(full_url).json()
