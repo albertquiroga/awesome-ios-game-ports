@@ -1,7 +1,6 @@
 import logging
 import re
 import requests
-from simplejson.errors import JSONDecodeError
 
 from jinja2 import FileSystemLoader, Environment
 
@@ -116,7 +115,7 @@ def get_api_response(url: str) -> dict:
         try:
             response = requests.get(url).json()
             break
-        except JSONDecodeError:
+        except:
             logging.error(f'Error when parsing API response. Retrying... ({attempts})')
             attempts-=1
 
