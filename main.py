@@ -1,6 +1,7 @@
 import logging
 import re
 import requests
+from simplejson.errors import JSONDecodeError
 
 from jinja2 import FileSystemLoader, Environment
 
@@ -97,8 +98,29 @@ def process_entry(entry: str) -> App:
     logging.info(f'Processing entry: {entry}')
     app_id = entry.split(SEPARATOR_CHAR)[0]
     full_url = BASE_ITUNES_API_URL + app_id
-    response = requests.get(full_url).json()
+    response = get_api_response(full_url)
     return process_request(app_id, response)
+
+
+def get_api_response(url: str) -> dict:
+    """
+    Given a URL, will try to run an HTTP GET on it and parse the response
+    into a dictionary. The Apple API is sometimes failing to respond,
+    so this method will try 3 times before giving up.
+    :param url: URL to run GET to
+    :return: JSON dictionary containing the API response
+    """
+    response = {}
+    attempts = 3
+    while attempts:
+        try:
+            response = requests.get(url).json()
+            break
+        except JSONDecodeError:
+            logging.error(f'Error when parsing API response. Retrying... ({attempts})')
+            attempts-=1
+
+    return response
 
 
 def parse_app_ids(file_path: str) -> list:
