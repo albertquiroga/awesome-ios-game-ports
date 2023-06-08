@@ -115,7 +115,7 @@ Name | App ID | Average Rating | Price (USD)
 [League of Legends: Wild Rift](https://apps.apple.com/ie/app/awesome/id1480616990) | 1480616990 | 4.13 | Free
 [Legend of Mana](https://apps.apple.com/ie/app/awesome/id1563156209) | 1563156209 | 4.08 | $27.99
 [Legends of Runeterra](https://apps.apple.com/ie/app/awesome/id1480617557) | 1480617557 | 4.85 | Free
-[Life Is Strange](https://apps.apple.com/ie/app/awesome/id1180101534) | 1180101534 | 3.99 | Free
+[Life Is Strange](https://apps.apple.com/ie/app/awesome/id1180101534) | 1180101534 | 3.98 | Free
 [Life is Strange: Before Storm](https://apps.apple.com/ie/app/awesome/id1293250289) | 1293250289 | 3.59 | Free
 [Lunar Silver Star Story Touch](https://apps.apple.com/ie/app/awesome/id492598036) | 492598036 | 4.58 | $9.99
 [MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.26 | $4.99
@@ -147,6 +147,7 @@ Name | App ID | Average Rating | Price (USD)
 [Pocket Tanks](https://apps.apple.com/ie/app/awesome/id311544087) | 311544087 | 4.29 | Free
 [Project Highrise](https://apps.apple.com/ie/app/awesome/id1277095117) | 1277095117 | 4.72 | $3.99
 [ROME: Total War](https://apps.apple.com/ie/app/awesome/id1106831630) | 1106831630 | 4.83 | $9.99
+[Railbound](https://apps.apple.com/ie/app/awesome/id1636439801) | 1636439801 | 4.79 | $4.99
 [Rebel Cops](https://apps.apple.com/ie/app/awesome/id1488452530) | 1488452530 | 4.27 | $3.99
 [Rebel Inc.](https://apps.apple.com/ie/app/awesome/id1439187947) | 1439187947 | 4.79 | $1.99
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.51 | $3.99
