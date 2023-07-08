@@ -149,6 +149,7 @@ Name | App ID | Average Rating | Price (USD)
 [Project Highrise](https://apps.apple.com/ie/app/awesome/id1277095117) | 1277095117 | 4.72 | $3.99
 [ROME: Total War](https://apps.apple.com/ie/app/awesome/id1106831630) | 1106831630 | 4.83 | $9.99
 [Railbound](https://apps.apple.com/ie/app/awesome/id1636439801) | 1636439801 | 4.81 | $4.99
+[Railbound](https://apps.apple.com/ie/app/awesome/id1636439801) | 1636439801 | 4.81 | $4.99
 [Rebel Cops](https://apps.apple.com/ie/app/awesome/id1488452530) | 1488452530 | 4.26 | $7.99
 [Rebel Inc.](https://apps.apple.com/ie/app/awesome/id1439187947) | 1439187947 | 4.79 | $1.99
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.51 | $3.99
@@ -192,7 +193,7 @@ Name | App ID | Average Rating | Price (USD)
 [This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.22 | $7.99
 [This War of Mine](https://apps.apple.com/ie/app/awesome/id982175678) | 982175678 | 4.43 | $13.99
 [Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.61 | $4.99
-[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 4.17 | $19.99
+[Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 4.16 | $19.99
 [Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526 | 4.43 | $4.99
 [Trials of Mana](https://apps.apple.com/ie/app/awesome/id1552176109) | 1552176109 | 3.69 | $22.99
 [Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.75 | $11.99
