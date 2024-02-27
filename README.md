@@ -92,6 +92,7 @@ Name | App ID | Average Rating | Price (USD)
 [Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.3 | $7.99
 [GRID™ Autosport](https://apps.apple.com/ie/app/awesome/id1179421849) | 1179421849 | 4.45 | $9.99
 [GRIS](https://apps.apple.com/ie/app/awesome/id1445379072) | 1445379072 | 4.42 | $4.99
+[Garage: Bad Dream Adventure](https://apps.apple.com/us/app/garage-bad-dream-adventure/id1596022730) | 1596022730 | 4.7 | $4.99
 [GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 3.82 | $4.99
 [GWENT: Rogue Mage](https://apps.apple.com/ie/app/awesome/id1574504250) | 1574504250 | 3.65 | $9.99
 [GWENT: The Witcher Card Game](https://apps.apple.com/ie/app/awesome/id1466943149) | 1466943149 | 4.76 | Free
