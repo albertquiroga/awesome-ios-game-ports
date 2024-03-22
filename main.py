@@ -39,7 +39,7 @@ class App:
         return f'{self.id} | {self.name} | {self.price} | {self.url}'
 
 
-def process_request(app_id: str, response: dict) -> App:
+def process_request(app_id: str, app_name: str, response: dict) -> App:
     """
     Processes the raw response of the iTunes API
     :param app_id: App ID in string format
@@ -52,7 +52,7 @@ def process_request(app_id: str, response: dict) -> App:
         return app
     else:
         logging.warning(f'No result for app id {app_id}, might be a collection')
-        return App(app_id=app_id)
+        return App(app_id=app_id, name=app_name)
 
 
 def response_to_app(app_id, response) -> App:
@@ -96,9 +96,10 @@ def process_entry(entry: str) -> App:
     entry = entry.strip()
     logging.info(f'Processing entry: {entry}')
     app_id = entry.split(SEPARATOR_CHAR)[0]
+    app_name = entry.split(SEPARATOR_CHAR)[1]
     full_url = BASE_ITUNES_API_URL + app_id
     response = get_api_response(full_url)
-    return process_request(app_id, response)
+    return process_request(app_id, app_name, response)
 
 
 def get_api_response(url: str) -> dict:
@@ -145,10 +146,12 @@ def generate_readme(output_path: str, apps_list: list):
     :param apps_list: List of App objects
     :return: None
     """
+    found_apps = list(filter(lambda app: app.price, apps_list))
+    missing_apps = list(filter(lambda app: not app.price, apps_list))
     logging.info(f'Generating README.md file with results...')
     base_template = env.get_template(TEMPLATE_FILE_NAME)
     with open(output_path, "w") as f:
-        f.write(base_template.render(apps_list=apps_list))
+        f.write(base_template.render(apps_list=found_apps, missing_apps=missing_apps))
 
 
 def main():

@@ -12,6 +12,16 @@ Name | App ID | Average Rating | Price (USD)
 [{{ app.name }}]({{ app.url }}) | {{ app.id }} | {{app.avg_score}} | {{ app.price }}
 {% endfor %}
 
+### Missing games
+
+These games used to be in the App Store, but they have been removed at some point
+
+Name | App ID
+--- | ---
+{% for app in missing_apps %}
+[{{ app.name }}]({{ app.url }}) | {{ app.id }}
+{% endfor %}
+
 ## FAQ
 
 ### Why this list?
