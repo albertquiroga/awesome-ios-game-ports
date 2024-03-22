@@ -96,7 +96,7 @@ def process_entry(entry: str) -> App:
     entry = entry.strip()
     logging.info(f'Processing entry: {entry}')
     app_id = entry.split(SEPARATOR_CHAR)[0]
-    app_name = entry.split(SEPARATOR_CHAR)[1]
+    app_name = entry.split(SEPARATOR_CHAR)[1].strip('\"')
     full_url = BASE_ITUNES_API_URL + app_id
     response = get_api_response(full_url)
     return process_request(app_id, app_name, response)
