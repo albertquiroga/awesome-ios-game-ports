@@ -11,6 +11,7 @@ SEPARATOR_CHAR = '\t'
 VALIDATION_REGEX = "[0-9]+\t\".*\""
 
 BASE_ITUNES_API_URL = 'https://itunes.apple.com/lookup?country=US&id='
+NETFLIX_ID = '363590054'
 
 TEMPLATE_FILE_NAME = 'README.md'
 TEMPLATES_PATH = 'templates'
@@ -25,18 +26,19 @@ class App:
     """
     base_app_store_url = 'https://apps.apple.com/ie/app/awesome/id'
 
-    def __init__(self, app_id: str, name: str = '', price: str = '', url: str = '', avg_score: float = ''):
+    def __init__(self, app_id: str, name: str = '', price: str = '', url: str = '', avg_score: float = '', developer: str = ''):
         self.id = app_id
         self.name = name
-        self.price = price
+        self.price = 'Netflix' if developer == NETFLIX_ID else price
         self.url = url if url else self.base_app_store_url + app_id
         self.avg_score = avg_score
+        self.developer = developer
 
     def __str__(self):
-        return f'{self.id} | {self.name} | {self.price} | {self.url}'
+        return f'{self.id} | {self.url} | {self.name} | {self.price} | {self.avg_score} | {self.developer}'
 
     def __repr__(self):
-        return f'{self.id} | {self.name} | {self.price} | {self.url}'
+        return f'{self.id} | {self.url} | {self.name} | {self.price} | {self.avg_score} | {self.developer}'
 
 
 def process_request(app_id: str, app_name: str, response: dict) -> App:
@@ -65,8 +67,9 @@ def response_to_app(app_id, response) -> App:
     result = response.get('results', list())[0]
     price = result.get('formattedPrice', 'Arcade') # If no price, it must be an Apple Arcade game
     name = result.get('trackName')
+    developer = str(result.get('artistId'))
     avg_score = round(result.get('averageUserRatingForCurrentVersion'), 2)
-    return App(app_id=app_id, name=name, price=price, avg_score=avg_score)
+    return App(app_id=app_id, name=name, price=price, avg_score=avg_score, developer=developer)
 
 
 def filter_invalid_entries(entries: list) -> list:
