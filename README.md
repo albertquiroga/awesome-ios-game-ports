@@ -121,7 +121,7 @@ Name | App ID | Average Rating | Price (USD)
 [Minecraft](https://apps.apple.com/ie/app/awesome/id479516143) | 479516143 | 4.49 | $6.99
 [Mini Metro](https://apps.apple.com/ie/app/awesome/id837860959) | 837860959 | 4.86 | $3.99
 [Mini Motorways](https://apps.apple.com/ie/app/awesome/id1453901000) | 1453901000 | 4.08 | Arcade
-[Moonlighter Netflix Edition](https://apps.apple.com/ie/app/awesome/id1612148433) | 1612148433 | 4.35 | Free
+[Moonlighter Netflix Edition](https://apps.apple.com/ie/app/awesome/id1612148433) | 1612148433 | 4.35 | Netflix
 [My Time at Portia](https://apps.apple.com/ie/app/awesome/id1555184523) | 1555184523 | 3.81 | $7.99
 [NEO Scavenger](https://apps.apple.com/ie/app/awesome/id1132258364) | 1132258364 | 4.28 | Free
 [Need for Speed™ Most Wanted](https://apps.apple.com/ie/app/awesome/id540925164) | 540925164 | 3.71 | $4.99
@@ -129,7 +129,7 @@ Name | App ID | Average Rating | Price (USD)
 [Nexomon](https://apps.apple.com/ie/app/awesome/id1254864644) | 1254864644 | 4.75 | $0.99
 [Nexomon: Extinction](https://apps.apple.com/ie/app/awesome/id1474335542) | 1474335542 | 4.77 | Free
 [Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.61 | $7.99
-[OXENFREE: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1613438096) | 1613438096 | 4.45 | Free
+[OXENFREE: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1613438096) | 1613438096 | 4.45 | Netflix
 [Oceanhorn ™](https://apps.apple.com/ie/app/awesome/id708196645) | 708196645 | 4.29 | $6.99
 [Oddworld: Munch's Oddysee](https://apps.apple.com/ie/app/awesome/id1001248922) | 1001248922 | 4.4 | $2.99
 [Oddworld: New 'n' Tasty](https://apps.apple.com/ie/app/awesome/id1090133581) | 1090133581 | 4.82 | $4.99
@@ -204,16 +204,16 @@ These games used to be in the App Store, but they have been removed at some poin
 
 Name | App ID
 --- | ---
-["Banner Saga 2"](https://apps.apple.com/ie/app/awesome/id1107741196) | 1107741196
-["Banner Saga"](https://apps.apple.com/ie/app/awesome/id911006986) | 911006986
-["Halcyon 6: Starbase Commander"](https://apps.apple.com/ie/app/awesome/id1264707038) | 1264707038
-["Layers of Fear"](https://apps.apple.com/ie/app/awesome/id1079035032) | 1079035032
-["Moonlighter"](https://apps.apple.com/ie/app/awesome/id1455087110) | 1455087110
-["THE LAST REMNANT Remastered"](https://apps.apple.com/ie/app/awesome/id1357536697) | 1357536697
-["Tales of the Neon Sea"](https://apps.apple.com/ie/app/awesome/id1517566159) | 1517566159
-["The Pathless"](https://apps.apple.com/ie/app/awesome/id1441675155) | 1441675155
-["TheWorldEndswithYou: SoloRemix"](https://apps.apple.com/ie/app/awesome/id544695089) | 544695089
-["TheWorldEndswithYouSoloRemixHD"](https://apps.apple.com/ie/app/awesome/id545042359) | 545042359
+[Banner Saga](https://apps.apple.com/ie/app/awesome/id911006986) | 911006986
+[Banner Saga 2](https://apps.apple.com/ie/app/awesome/id1107741196) | 1107741196
+[Halcyon 6: Starbase Commander](https://apps.apple.com/ie/app/awesome/id1264707038) | 1264707038
+[Layers of Fear](https://apps.apple.com/ie/app/awesome/id1079035032) | 1079035032
+[Moonlighter](https://apps.apple.com/ie/app/awesome/id1455087110) | 1455087110
+[THE LAST REMNANT Remastered](https://apps.apple.com/ie/app/awesome/id1357536697) | 1357536697
+[Tales of the Neon Sea](https://apps.apple.com/ie/app/awesome/id1517566159) | 1517566159
+[The Pathless](https://apps.apple.com/ie/app/awesome/id1441675155) | 1441675155
+[TheWorldEndswithYou: SoloRemix](https://apps.apple.com/ie/app/awesome/id544695089) | 544695089
+[TheWorldEndswithYouSoloRemixHD](https://apps.apple.com/ie/app/awesome/id545042359) | 545042359
 
 ## FAQ
 
