@@ -83,12 +83,14 @@ Name | App ID | Average Rating | Price (USD)
 [Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.26 | $7.99
 [GRID™ Autosport](https://apps.apple.com/ie/app/awesome/id1179421849) | 1179421849 | 4.49 | $9.99
 [GRIS](https://apps.apple.com/ie/app/awesome/id1445379072) | 1445379072 | 4.42 | $4.99
+[GTA III – NETFLIX](https://apps.apple.com/ie/app/awesome/id6450280668) | 6450280668 | 3.91 | Netflix
 [GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.38 | Free
 [GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.42 | Free
 [GWENT: Rogue Mage](https://apps.apple.com/ie/app/awesome/id1574504250) | 1574504250 | 3.63 | $9.99
 [GWENT: The Witcher Card Game](https://apps.apple.com/ie/app/awesome/id1466943149) | 1466943149 | 4.76 | Free
 [Galaxy on Fire 2™ HD](https://apps.apple.com/ie/app/awesome/id465072566) | 465072566 | 4.66 | Free
 [Game Dev Tycoon](https://apps.apple.com/ie/app/awesome/id1162580001) | 1162580001 | 4.9 | $4.99
+[Game Dev Tycoon NETFLIX](https://apps.apple.com/ie/app/awesome/id6450555421) | 6450555421 | 3.61 | Netflix
 [Garage: Bad Dream Adventure](https://apps.apple.com/ie/app/awesome/id1596022730) | 1596022730 | 4.7 | $4.99
 [Getting Over It](https://apps.apple.com/ie/app/awesome/id1319618742) | 1319618742 | 4.29 | $4.99
 [Goat Simulator](https://apps.apple.com/ie/app/awesome/id868692227) | 868692227 | 4.46 | $7.99
@@ -96,6 +98,7 @@ Name | App ID | Average Rating | Price (USD)
 [Grand Theft Auto: San Andreas](https://apps.apple.com/ie/app/awesome/id763692274) | 763692274 | 4.63 | $6.99
 [Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.52 | $4.99
 [Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071 | 4.11 | $4.99
+[Hades - NETFLIX](https://apps.apple.com/ie/app/awesome/id6450063142) | 6450063142 | 4.45 | Netflix
 [Hearthstone](https://apps.apple.com/ie/app/awesome/id625257520) | 625257520 | 4.07 | Free
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.14 | $4.99
 [Huntdown](https://apps.apple.com/ie/app/awesome/id1198183067) | 1198183067 | 4.89 | $6.99
