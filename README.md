@@ -56,6 +56,7 @@ Name | App ID | Average Rating | Price (USD)
 [Don't Starve: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1012298403) | 1012298403 | 4.52 | $4.99
 [Don't Starve: Shipwrecked](https://apps.apple.com/ie/app/awesome/id1147297267) | 1147297267 | 4.14 | $4.99
 [Donut County](https://apps.apple.com/ie/app/awesome/id1292099839) | 1292099839 | 3.96 | $4.99
+[Downwell+](https://apps.apple.com/ie/app/awesome/id6467505035) | 6467505035 | 4.47 | Arcade
 [Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 3.94 | $1.99
 [Dungeon of the Endless: Apogee](https://apps.apple.com/ie/app/awesome/id1526466468) | 1526466468 | 4.42 | $7.99
 [Element - RTS](https://apps.apple.com/ie/app/awesome/id749488884) | 749488884 | 4.62 | $2.99
@@ -86,11 +87,12 @@ Name | App ID | Average Rating | Price (USD)
 [GTA III – NETFLIX](https://apps.apple.com/ie/app/awesome/id6450280668) | 6450280668 | 3.91 | Netflix
 [GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.38 | Free
 [GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.42 | Free
+[GTA: San Andreas – NETFLIX](https://apps.apple.com/ie/app/awesome/id6450280702) | 6450280702 | 3.73 | Netflix
 [GWENT: Rogue Mage](https://apps.apple.com/ie/app/awesome/id1574504250) | 1574504250 | 3.63 | $9.99
 [GWENT: The Witcher Card Game](https://apps.apple.com/ie/app/awesome/id1466943149) | 1466943149 | 4.76 | Free
 [Galaxy on Fire 2™ HD](https://apps.apple.com/ie/app/awesome/id465072566) | 465072566 | 4.66 | Free
 [Game Dev Tycoon](https://apps.apple.com/ie/app/awesome/id1162580001) | 1162580001 | 4.9 | $4.99
-[Game Dev Tycoon NETFLIX](https://apps.apple.com/ie/app/awesome/id6450555421) | 6450555421 | 3.61 | Netflix
+[Game Dev Tycoon NETFLIX](https://apps.apple.com/ie/app/awesome/id6450555421) | 6450555421 | 3.63 | Netflix
 [Garage: Bad Dream Adventure](https://apps.apple.com/ie/app/awesome/id1596022730) | 1596022730 | 4.7 | $4.99
 [Getting Over It](https://apps.apple.com/ie/app/awesome/id1319618742) | 1319618742 | 4.29 | $4.99
 [Goat Simulator](https://apps.apple.com/ie/app/awesome/id868692227) | 868692227 | 4.46 | $7.99
@@ -98,7 +100,7 @@ Name | App ID | Average Rating | Price (USD)
 [Grand Theft Auto: San Andreas](https://apps.apple.com/ie/app/awesome/id763692274) | 763692274 | 4.63 | $6.99
 [Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.52 | $4.99
 [Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071 | 4.11 | $4.99
-[Hades - NETFLIX](https://apps.apple.com/ie/app/awesome/id6450063142) | 6450063142 | 4.45 | Netflix
+[Hades - NETFLIX](https://apps.apple.com/ie/app/awesome/id6450063142) | 6450063142 | 4.39 | Netflix
 [Hearthstone](https://apps.apple.com/ie/app/awesome/id625257520) | 625257520 | 4.07 | Free
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.14 | $4.99
 [Huntdown](https://apps.apple.com/ie/app/awesome/id1198183067) | 1198183067 | 4.89 | $6.99
@@ -120,7 +122,7 @@ Name | App ID | Average Rating | Price (USD)
 [Lunar Silver Star Story Touch](https://apps.apple.com/ie/app/awesome/id492598036) | 492598036 | 4.58 | $9.99
 [MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.19 | $4.99
 [Max Payne Mobile](https://apps.apple.com/ie/app/awesome/id512142109) | 512142109 | 4.41 | $2.99
-[Mindustry](https://apps.apple.com/ie/app/awesome/id1385258906) | 1385258906 | 4.58 | $1.99
+[Mindustry](https://apps.apple.com/ie/app/awesome/id1385258906) | 1385258906 | 4.57 | $1.99
 [Minecraft](https://apps.apple.com/ie/app/awesome/id479516143) | 479516143 | 4.49 | $6.99
 [Mini Metro](https://apps.apple.com/ie/app/awesome/id837860959) | 837860959 | 4.86 | $3.99
 [Mini Motorways](https://apps.apple.com/ie/app/awesome/id1453901000) | 1453901000 | 4.08 | Arcade
