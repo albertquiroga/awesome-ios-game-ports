@@ -156,7 +156,6 @@ Name | App ID | Average Rating | Price (USD)
 [Oddworld: Stranger's Wrath](https://apps.apple.com/ie/app/awesome/id923555295) | 923555295 | 4.52 | $2.99
 [Old School RuneScape](https://apps.apple.com/ie/app/awesome/id1269648762) | 1269648762 | 4.79 | Free
 [OXENFREE: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1613438096) | 1613438096 | 4.45 | Netflix
-[OXENFREE: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1613438096) | 1613438096 | 4.45 | Netflix
 [Papers, Please](https://apps.apple.com/ie/app/awesome/id935216956) | 935216956 | 4.73 | $4.99
 [Pascal's Wager](https://apps.apple.com/ie/app/awesome/id1476649036) | 1476649036 | 4.23 | $4.99
 [Plague Inc.](https://apps.apple.com/ie/app/awesome/id525818839) | 525818839 | 4.81 | $0.99
