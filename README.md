@@ -4,6 +4,8 @@
 
 This [awesome list](https://github.com/sindresorhus/awesome#readme) is a compilation of PC/Console games ported to iOS. For more information, please head to the FAQ below.
 
+Want a game to be shown here? Use this button: [![Request new game](https://img.shields.io/badge/Request%20game%20to%20be%20added-8A2BE2)](https://github.com/albertquiroga/awesome-ios-game-ports/issues/new?assignees=&labels=&projects=&template=new-game-request.md&title=)
+
 ## Games
 
 Name | App ID | Average Rating | Price (USD)
@@ -219,7 +221,7 @@ Name | App ID | Average Rating | Price (USD)
 [Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.74 | $11.99
 [Undead Horde](https://apps.apple.com/ie/app/awesome/id1388267373) | 1388267373 | 4.53 | $5.99
 [Vampire Survivors](https://apps.apple.com/ie/app/awesome/id6444525702) | 6444525702 | 4.66 | Free
-[Warframe](https://apps.apple.com/ie/app/awesome/id1520001008) | 1520001008 | 4.02 | Free
+[Warframe](https://apps.apple.com/ie/app/awesome/id1520001008) | 1520001008 | 4.03 | Free
 [What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 4.06 | $4.99
 [WHAT THE CAR?](https://apps.apple.com/ie/app/awesome/id1534708672) | 1534708672 | 4.84 | Arcade
 [White Night](https://apps.apple.com/ie/app/awesome/id1243555377) | 1243555377 | 3.71 | $4.99
