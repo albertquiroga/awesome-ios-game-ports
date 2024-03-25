@@ -138,7 +138,7 @@ def parse_app_ids(file_path: str) -> list:
         entries.pop(0) # Remove header
         valid_entries = filter_invalid_entries(entries)
         apps = list(map(lambda entry: process_entry(entry), valid_entries))
-        return sorted(apps, key= lambda app: app.name)
+        return sorted(apps, key= lambda app: app.name.lower())
 
 
 def generate_readme(output_path: str, apps_list: list):
