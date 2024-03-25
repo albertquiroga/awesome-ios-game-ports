@@ -1,6 +1,6 @@
 ---
 name: New game request
-about: Request to add <game_name> to the list
+about: Request to add a game to the list
 title: ''
 labels: ''
 assignees: ''
