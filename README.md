@@ -219,7 +219,7 @@ Name | App ID | Average Rating | Price (USD)
 [Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.74 | $11.99
 [Undead Horde](https://apps.apple.com/ie/app/awesome/id1388267373) | 1388267373 | 4.53 | $5.99
 [Vampire Survivors](https://apps.apple.com/ie/app/awesome/id6444525702) | 6444525702 | 4.66 | Free
-[Warframe](https://apps.apple.com/ie/app/awesome/id1520001008) | 1520001008 | 4.03 | Free
+[Warframe](https://apps.apple.com/ie/app/awesome/id1520001008) | 1520001008 | 4.02 | Free
 [What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 4.06 | $4.99
 [WHAT THE CAR?](https://apps.apple.com/ie/app/awesome/id1534708672) | 1534708672 | 4.84 | Arcade
 [White Night](https://apps.apple.com/ie/app/awesome/id1243555377) | 1243555377 | 3.71 | $4.99
