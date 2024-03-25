@@ -4,7 +4,9 @@
 
 This [awesome list](https://github.com/sindresorhus/awesome#readme) is a compilation of PC/Console games ported to iOS. For more information, please head to the FAQ below.
 
-Want a game to be shown here? Use this button: [![Request new game](https://img.shields.io/badge/Request%20game%20to%20be%20added-8A2BE2)](https://github.com/albertquiroga/awesome-ios-game-ports/issues/new?assignees=&labels=&projects=&template=new-game-request.md&title=)
+Want a game to be shown here? Use the button below:
+
+[![Request new game](https://img.shields.io/badge/Request%20game%20to%20be%20added-8A2BE2)](https://github.com/albertquiroga/awesome-ios-game-ports/issues/new?assignees=&labels=&projects=&template=new-game-request.md&title=)
 
 ## Games
 
