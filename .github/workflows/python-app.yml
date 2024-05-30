@@ -35,6 +35,7 @@ jobs:
       run: |
         python main.py
     - name: Commit changes
+      if: github.ref_name == github.event.repository.default_branch
       run: |
         git config --global user.email "pyro_quiro@hotmail.com"
         git config --global user.name "Albert Quiroga"
