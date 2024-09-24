@@ -14,9 +14,11 @@ Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
 [Actraiser Renaissance](https://apps.apple.com/ie/app/awesome/id1532193171) | 1532193171 | 3.9 | $19.99
 [Alien: Isolation](https://apps.apple.com/ie/app/awesome/id1573029040) | 1573029040 | 4.45 | Free
-[Assassin's Creed Mirage](https://apps.apple.com/ie/app/awesome/id6472704261) | 6472704261 | 4.0 | Free
+[Assassin's Creed Mirage](https://apps.apple.com/ie/app/awesome/id6472704261) | 6472704261 | 4.01 | Free
 [Baba Is You](https://apps.apple.com/ie/app/awesome/id1517281887) | 1517281887 | 4.6 | $6.99
 [Bad North: Jotunn Edition](https://apps.apple.com/ie/app/awesome/id1367121168) | 1367121168 | 3.7 | $3.99
+[Balatro](https://apps.apple.com/ie/app/awesome/id6502453075) | 6502453075 | 0 | Arcade
+[Balatro+](https://apps.apple.com/ie/app/awesome/id6502451661) | 6502451661 | 0 | Arcade
 [Baldur's Gate](https://apps.apple.com/ie/app/awesome/id515114051) | 515114051 | 3.85 | $9.99
 [Baldur's Gate - Dark Alliance](https://apps.apple.com/ie/app/awesome/id1632982179) | 1632982179 | 4.64 | $9.99
 [Baldur's Gate II: EE](https://apps.apple.com/ie/app/awesome/id633625517) | 633625517 | 4.08 | $9.99
@@ -72,7 +74,7 @@ Name | App ID | Average Rating | Price (USD)
 [Element - RTS](https://apps.apple.com/ie/app/awesome/id749488884) | 749488884 | 4.63 | $2.99
 [Escapists 2: Pocket Breakout](https://apps.apple.com/ie/app/awesome/id1356167732) | 1356167732 | 4.71 | $6.99
 [Evoland](https://apps.apple.com/ie/app/awesome/id946477821) | 946477821 | 4.19 | $2.99
-[Evoland 2](https://apps.apple.com/ie/app/awesome/id1291427111) | 1291427111 | 0 | $4.99
+[Evoland 2](https://apps.apple.com/ie/app/awesome/id1291427111) | 1291427111 | 4.59 | $4.99
 [Fallout Shelter](https://apps.apple.com/ie/app/awesome/id991153141) | 991153141 | 4.77 | Free
 [Farming Simulator 23 NETFLIX](https://apps.apple.com/ie/app/awesome/id6450324896) | 6450324896 | 4.48 | Netflix
 [FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.24 | $4.99
@@ -183,7 +185,7 @@ Name | App ID | Average Rating | Price (USD)
 [Railbound](https://apps.apple.com/ie/app/awesome/id1636439801) | 1636439801 | 4.82 | $4.99
 [Rebel Cops](https://apps.apple.com/ie/app/awesome/id1488452530) | 1488452530 | 4.23 | $1.99
 [Rebel Inc.](https://apps.apple.com/ie/app/awesome/id1439187947) | 1439187947 | 4.79 | $1.99
-[Resident Evil 4](https://apps.apple.com/ie/app/awesome/id6462360082) | 6462360082 | 3.88 | Free
+[Resident Evil 4](https://apps.apple.com/ie/app/awesome/id6462360082) | 6462360082 | 3.87 | Free
 [Resident Evil Village](https://apps.apple.com/ie/app/awesome/id6450980545) | 6450980545 | 3.89 | Free
 [Return to Monkey Island](https://apps.apple.com/ie/app/awesome/id1658628321) | 1658628321 | 4.25 | Free
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.49 | $3.99
@@ -232,7 +234,6 @@ Name | App ID | Average Rating | Price (USD)
 [Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.61 | $4.99
 [Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 4.16 | $19.99
 [Total War: MEDIEVAL II](https://apps.apple.com/ie/app/awesome/id1477203766) | 1477203766 | 4.87 | $14.99
-[Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526 | 4.44 | $4.99
 [Trials of Mana](https://apps.apple.com/ie/app/awesome/id1552176109) | 1552176109 | 3.65 | $22.99
 [Tropico](https://apps.apple.com/ie/app/awesome/id1264531625) | 1264531625 | 4.75 | $12.99
 [Undead Horde](https://apps.apple.com/ie/app/awesome/id1388267373) | 1388267373 | 4.55 | $5.99
@@ -264,6 +265,7 @@ Name | App ID
 [The Pathless](https://apps.apple.com/ie/app/awesome/id1441675155) | 1441675155
 [TheWorldEndswithYou: SoloRemix](https://apps.apple.com/ie/app/awesome/id544695089) | 544695089
 [TheWorldEndswithYouSoloRemixHD](https://apps.apple.com/ie/app/awesome/id545042359) | 545042359
+[Transistor](https://apps.apple.com/ie/app/awesome/id948857526) | 948857526
 
 ## FAQ
 
