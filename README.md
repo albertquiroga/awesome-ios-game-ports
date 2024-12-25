@@ -60,7 +60,7 @@ Name | App ID | Average Rating | Price (USD)
 [Dead Cells](https://apps.apple.com/ie/app/awesome/id1389752090) | 1389752090 | 4.79 | $8.99
 [Dead Cells: Netflix Edition](https://apps.apple.com/ie/app/awesome/id6450374417) | 6450374417 | 3.98 | Netflix
 [Dear Esther](https://apps.apple.com/ie/app/awesome/id1476531719) | 1476531719 | 4.16 | $1.99
-[DEATH STRANDING DIRECTOR'S CUT](https://apps.apple.com/ie/app/awesome/id6449748961) | 6449748961 | 4.0 | $19.99
+[DEATH STRANDING DIRECTOR'S CUT](https://apps.apple.com/ie/app/awesome/id6449748961) | 6449748961 | 4 | $19.99
 [Demeo](https://apps.apple.com/ie/app/awesome/id6463004635) | 6463004635 | 4.46 | $39.99
 [Dicey Dungeons](https://apps.apple.com/ie/app/awesome/id1368013995) | 1368013995 | 4.61 | $4.99
 [Disgaea 1 Complete](https://apps.apple.com/ie/app/awesome/id1479933497) | 1479933497 | 4.41 | $32.99
@@ -105,6 +105,7 @@ Name | App ID | Average Rating | Price (USD)
 [FINALFANTASY CRYSTALCHRONICLES](https://apps.apple.com/ie/app/awesome/id1478870957) | 1478870957 | 3.6 | Free
 [Florence](https://apps.apple.com/ie/app/awesome/id1297430468) | 1297430468 | 4.55 | $2.99
 [Flower](https://apps.apple.com/ie/app/awesome/id1279174518) | 1279174518 | 4.08 | $4.99
+[Fly Corp: Airline Manager](https://apps.apple.com/ie/app/awesome/id1595860359) | 1595860359 | 4.41 | Free
 [Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.21 | $5.99
 [Forgotton Anne](https://apps.apple.com/ie/app/awesome/id1457216934) | 1457216934 | 4.74 | Free
 [FTL: Faster Than Light](https://apps.apple.com/ie/app/awesome/id833951143) | 833951143 | 4.51 | $1.99
@@ -183,8 +184,8 @@ Name | App ID | Average Rating | Price (USD)
 [Neverwinter Nights](https://apps.apple.com/ie/app/awesome/id1466096721) | 1466096721 | 4.0 | $9.99
 [Nexomon](https://apps.apple.com/ie/app/awesome/id1254864644) | 1254864644 | 4.75 | $0.99
 [Nexomon: Extinction](https://apps.apple.com/ie/app/awesome/id1474335542) | 1474335542 | 4.77 | Free
-[Night in the Woods](https://apps.apple.com/ie/app/awesome/id1251742577) | 1251742577 | 4.74 | $5.99
-[Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.61 | $7.99
+[Night in the Woods](https://apps.apple.com/ie/app/awesome/id1251742577) | 1251742577 | 4.72 | $5.99
+[Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.61 | $5.99
 [Oceanhorn ™](https://apps.apple.com/ie/app/awesome/id708196645) | 708196645 | 4.28 | $6.99
 [Oddworld: Munch's Oddysee](https://apps.apple.com/ie/app/awesome/id1001248922) | 1001248922 | 4.4 | $2.99
 [Oddworld: New 'n' Tasty](https://apps.apple.com/ie/app/awesome/id1090133581) | 1090133581 | 4.82 | $4.99
@@ -209,7 +210,7 @@ Name | App ID | Average Rating | Price (USD)
 [Resident Evil 4](https://apps.apple.com/ie/app/awesome/id6462360082) | 6462360082 | 3.88 | Free
 [RESIDENT EVIL 7 biohazard](https://apps.apple.com/ie/app/awesome/id1640629241) | 1640629241 | 3.99 | Free
 [Resident Evil Village](https://apps.apple.com/ie/app/awesome/id6450980545) | 6450980545 | 3.88 | Free
-[Return to Monkey Island](https://apps.apple.com/ie/app/awesome/id1658628321) | 1658628321 | 4.31 | Free
+[Return to Monkey Island](https://apps.apple.com/ie/app/awesome/id1658628321) | 1658628321 | 4.3 | Free
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.49 | $3.99
 [RollerCoaster Tycoon® 3](https://apps.apple.com/ie/app/awesome/id1008692660) | 1008692660 | 3.9 | $4.99
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/awesome/id1113736426) | 1113736426 | 4.27 | $5.99
@@ -229,9 +230,9 @@ Name | App ID | Average Rating | Price (USD)
 [SNKRX](https://apps.apple.com/ie/app/awesome/id1572602587) | 1572602587 | 4.74 | $2.99
 [Sonic Mania Plus - NETFLIX](https://apps.apple.com/ie/app/awesome/id6445996359) | 6445996359 | 4.79 | Netflix
 [South of the Circle](https://apps.apple.com/ie/app/awesome/id6467118268) | 6467118268 | 4.39 | Free
-[Sparklite](https://apps.apple.com/ie/app/awesome/id1553922886) | 1553922886 | 4.76 | Free
+[Sparklite](https://apps.apple.com/ie/app/awesome/id1553922886) | 1553922886 | 4.77 | Free
 [Spiritfarer: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1610577424) | 1610577424 | 3.8 | Netflix
-[SpongeBob - The Cosmic Shake](https://apps.apple.com/ie/app/awesome/id6445992619) | 6445992619 | 3.72 | $9.99
+[SpongeBob - The Cosmic Shake](https://apps.apple.com/ie/app/awesome/id6445992619) | 6445992619 | 3.71 | $9.99
 [SpongeBob SquarePants](https://apps.apple.com/ie/app/awesome/id1523633394) | 1523633394 | 4.44 | $4.99
 [Star Traders: Frontiers](https://apps.apple.com/ie/app/awesome/id1442583232) | 1442583232 | 4.62 | $3.99
 [Star Wars™: KOTOR](https://apps.apple.com/ie/app/awesome/id611436052) | 611436052 | 4.27 | $9.99
