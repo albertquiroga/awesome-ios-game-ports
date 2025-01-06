@@ -16,7 +16,7 @@ Name | App ID | Average Rating | Price (USD)
 [9th Dawn III](https://apps.apple.com/ie/app/awesome/id1528353612) | 1528353612 | 4.5 | $9.99
 [Actraiser Renaissance](https://apps.apple.com/ie/app/awesome/id1532193171) | 1532193171 | 3.9 | $9.99
 [Alien: Isolation](https://apps.apple.com/ie/app/awesome/id1573029040) | 1573029040 | 4.46 | Free
-[Assassin's Creed Mirage](https://apps.apple.com/ie/app/awesome/id6472704261) | 6472704261 | 4.29 | Free
+[Assassin's Creed Mirage](https://apps.apple.com/ie/app/awesome/id6472704261) | 6472704261 | 4.3 | Free
 [Baba Is You](https://apps.apple.com/ie/app/awesome/id1517281887) | 1517281887 | 4.62 | $6.99
 [Bad North: Jotunn Edition](https://apps.apple.com/ie/app/awesome/id1367121168) | 1367121168 | 3.72 | $3.99
 [Balatro](https://apps.apple.com/ie/app/awesome/id6502453075) | 6502453075 | 4.97 | $9.99
@@ -278,6 +278,7 @@ Name | App ID | Average Rating | Price (USD)
 [What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 4.04 | $4.99
 [WHAT THE CAR?](https://apps.apple.com/ie/app/awesome/id1534708672) | 1534708672 | 4.84 | Arcade
 [White Night](https://apps.apple.com/ie/app/awesome/id1243555377) | 1243555377 | 3.72 | $4.99
+[Wildfrost](https://apps.apple.com/ie/app/awesome/id6462882621) | 6462882621 | 4.05 | Free
 [Wizard of Legend](https://apps.apple.com/ie/app/awesome/id6463645361) | 6463645361 | 3.11 | $7.99
 [Worms3](https://apps.apple.com/ie/app/awesome/id596677177) | 596677177 | 3.64 | $0.99
 [Wreckfest](https://apps.apple.com/ie/app/awesome/id1592505377) | 1592505377 | 4.29 | $1.99
