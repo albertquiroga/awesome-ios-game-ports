@@ -10,10 +10,17 @@ Want a game to be shown here? Use the button below:
 
 ## Games
 
+Total games: **{{ total_games }}** across **{{ sorted_genres|length }}** genres
+
+{% for genre in sorted_genres %}
+### {{ genre }}
+
 Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
-{% for app in apps_list %}
-[{{ app.name }}]({{ app.url }}) | {{ app.id }} | {{app.avg_score}} | {{ app.price }}
+{% for app in apps_by_genre[genre] -%}
+[{{ app.name }}]({{ app.url }}) | {{ app.id }} | {{ app.avg_score }} | {{ app.price }}
+{% endfor %}
+
 {% endfor %}
 
 ### Missing games
@@ -49,6 +56,6 @@ If you find a game not listed here that you'd like to add, please reach out to m
 
 Using the power of GitHub actions, the list is updated every day to refresh average review scores and prices. A list of App Store application IDs is kept in the `ids.tsv` file, which is then converted into table entries of this repo's `README.md` file by the `main.py` script and some Jinja2 magic.
 
-### Why is the list not divided into categories?
+### How are games categorized?
 
-Data for each application is retrieved from the iTunes Store API. Unfortunately the API does not provide much information and it's hard to get proper data such as game categories for each app, so it's hard to programmatically do it. If you are aware of a better way of achieving this, please reach out to me.
+Games are automatically categorized by genre using data from the iTunes Store API. Each app's genre list is retrieved from the API, and since the first genre is always "Games", we use the second genre in the list as the specific category for each game. This provides an automated way to organize the games without manual categorization.

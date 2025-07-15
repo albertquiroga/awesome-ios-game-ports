@@ -26,19 +26,20 @@ class App:
     """
     base_app_store_url = 'https://apps.apple.com/ie/app/awesome/id'
 
-    def __init__(self, app_id: str, name: str = '', price: str = '', url: str = '', avg_score: float = '', developer: str = ''):
+    def __init__(self, app_id: str, name: str = '', price: str = '', url: str = '', avg_score: float = '', developer: str = '', genre: str = 'Unknown'):
         self.id = app_id
         self.name = name
         self.price = 'Netflix' if developer == NETFLIX_ID else price
         self.url = url if url else self.base_app_store_url + app_id
         self.avg_score = avg_score
         self.developer = developer
+        self.genre = genre
 
     def __str__(self):
-        return f'{self.id} | {self.url} | {self.name} | {self.price} | {self.avg_score} | {self.developer}'
+        return f'{self.id} | {self.url} | {self.name} | {self.price} | {self.avg_score} | {self.genre}'
 
     def __repr__(self):
-        return f'{self.id} | {self.url} | {self.name} | {self.price} | {self.avg_score} | {self.developer}'
+        return f'{self.id} | {self.url} | {self.name} | {self.price} | {self.avg_score} | {self.genre}'
 
 
 def process_request(app_id: str, app_name: str, response: dict) -> App:
@@ -57,6 +58,32 @@ def process_request(app_id: str, app_name: str, response: dict) -> App:
         return App(app_id=app_id, name=app_name)
 
 
+def extract_genre_from_api(result: dict) -> str:
+    """
+    Extract genre from iTunes API response.
+    The first genre is always "Games", so we skip it and look for the next meaningful genre.
+    We also skip generic genres like "Board", "Family", and "Entertainment" to find more specific ones.
+    :param result: iTunes API result dictionary
+    :return: Genre string
+    """
+    genres = result.get('genres', [])
+    
+    # Genres to skip as they're too generic
+    generic_genres = {'Games', 'Board', 'Family', 'Entertainment', 'Casual'}
+    
+    # Find the first genre that's not in our skip list
+    for genre in genres:
+        if genre not in generic_genres:
+            return genre
+    
+    # If all genres are generic, return the last non-"Games" genre or fallback
+    for genre in reversed(genres):
+        if genre != 'Games':
+            return genre
+    
+    return 'Unknown'
+
+
 def response_to_app(app_id, response) -> App:
     """
     Turns the JSON response of the iTunes API into an App object
@@ -69,7 +96,9 @@ def response_to_app(app_id, response) -> App:
     name = result.get('trackName')
     developer = str(result.get('artistId'))
     avg_score = round(result.get('averageUserRatingForCurrentVersion'), 2)
-    return App(app_id=app_id, name=name, price=price, avg_score=avg_score, developer=developer)
+    genre = extract_genre_from_api(result)
+    
+    return App(app_id=app_id, name=name, price=price, avg_score=avg_score, developer=developer, genre=genre)
 
 
 def filter_invalid_entries(entries: list) -> list:
@@ -151,10 +180,31 @@ def generate_readme(output_path: str, apps_list: list):
     """
     found_apps = list(filter(lambda app: app.price, apps_list))
     missing_apps = list(filter(lambda app: not app.price, apps_list))
-    logging.info(f'Generating README.md file with results...')
+    
+    # Group found apps by genre
+    apps_by_genre = {}
+    for app in found_apps:
+        genre = app.genre
+        if genre not in apps_by_genre:
+            apps_by_genre[genre] = []
+        apps_by_genre[genre].append(app)
+    
+    # Sort apps within each genre alphabetically
+    for genre in apps_by_genre:
+        apps_by_genre[genre].sort(key=lambda app: app.name.lower())
+    
+    # Get sorted list of genres for consistent ordering
+    sorted_genres = sorted(apps_by_genre.keys())
+    
+    logging.info(f'Generating README.md file with results grouped by {len(sorted_genres)} genres...')
     base_template = env.get_template(TEMPLATE_FILE_NAME)
     with open(output_path, "w") as f:
-        f.write(base_template.render(apps_list=found_apps, missing_apps=missing_apps))
+        f.write(base_template.render(
+            apps_by_genre=apps_by_genre,
+            sorted_genres=sorted_genres,
+            missing_apps=missing_apps,
+            total_games=len(found_apps)
+        ))
 
 
 def main():
