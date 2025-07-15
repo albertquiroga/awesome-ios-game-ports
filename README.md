@@ -384,8 +384,8 @@ If you find a game not listed here that you'd like to add, please reach out to m
 
 ### How does this list work?
 
-Using the power of GitHub actions, the list is updated every day to refresh average review scores and prices. A list of App Store application IDs is kept in the `ids.tsv` file, which is then converted into table entries of this repo's `README.md` file by the `main.py` script and some Jinja2 magic.
+Using the power of GitHub actions, the list is updated periodically to refresh average review scores and prices. A list of App Store application IDs is kept in the `ids.tsv` file, which is then converted into table entries of this repo's `README.md` file by the `main.py` script and some Jinja2 magic.
 
 ### How are games categorized?
 
-Games are automatically categorized by genre using data from the iTunes Store API. Each app's genre list is retrieved from the API, and since the first genre is always "Games", we use the second genre in the list as the specific category for each game. This provides an automated way to organize the games without manual categorization.
+Games are automatically categorized by genre using data from the iTunes Store API. Each app's genre list is retrieved from the API, and since the first genre is always "Games", the second genre in the list is used as the specific category for each game. Some genres in the App Store are very generic (such as "Entertainment" or "Casual") so they are ignored if possible. This provides an automated way to organize the games without manual categorization.
