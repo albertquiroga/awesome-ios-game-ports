@@ -1,0 +1,351 @@
+# .github/workflows/validate-game-request.yml
+#
+# Triggered when a new issue is opened.
+# Pipeline:
+#   1. Extract the App Store URL from the issue body
+#   2. Look up game metadata from the iTunes API (free, no key)
+#   3. Search RAWG game database to check PC/console presence (free key required)
+#   4. Use GitHub Models (free via GITHUB_TOKEN) to write a human-friendly comment
+#   5. Post the comment + apply a label to the issue
+#   6. If the game is a valid port: append to ids.tsv on a new branch and open a PR
+#
+# Required secret: RAWG_API_KEY  (free at https://rawg.io/apidocs)
+# The GITHUB_TOKEN secret is injected automatically by GitHub Actions.
+
+name: Validate Game Port Request
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: 'Issue number to post the bot comment on'
+        required: true
+        default: '1'
+      issue_body:
+        description: 'Simulated issue body (must contain an App Store URL)'
+        required: true
+        default: 'Please add this game: https://apps.apple.com/us/app/stardew-valley/id1406710800'
+      dry_run:
+        description: 'Dry run — validate but skip branch creation and PR'
+        required: true
+        type: boolean
+        default: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write        # post comments and labels
+      contents: write      # create branches and commit files
+      pull-requests: write # open PRs
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      # -----------------------------------------------------------------------
+      # Main logic: validate the submission and optionally raise a PR
+      # -----------------------------------------------------------------------
+      - name: Run game port validator
+        uses: actions/github-script@v7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RAWG_API_KEY:  ${{ secrets.RAWG_API_KEY }}
+        with:
+          script: |
+            const owner      = context.repo.owner;
+            const repo       = context.repo.repo;
+            const isDispatch = context.eventName === 'workflow_dispatch';
+
+            // When triggered manually, use the workflow_dispatch inputs;
+            // otherwise read from the real issue event payload.
+            const issueNumber = isDispatch
+              ? parseInt(core.getInput('issue_number'))
+              : context.payload.issue.number;
+            const issueBody = isDispatch
+              ? core.getInput('issue_body')
+              : context.payload.issue.body ?? '';
+            const issueTitle = isDispatch
+              ? ''
+              : context.payload.issue.title ?? '';
+            const dryRun = isDispatch
+              ? core.getInput('dry_run') === 'true'
+              : false;
+
+            // ── Helper: post a comment ───────────────────────────────────────
+            async function postComment(body) {
+              await github.rest.issues.createComment(
+                { owner, repo, issue_number: issueNumber, body }
+              );
+            }
+
+            // ── Helper: apply a label (create it first if missing) ───────────
+            async function applyLabel(labelName, color) {
+              try {
+                await github.rest.issues.getLabel({ owner, repo, name: labelName });
+              } catch {
+                await github.rest.issues.createLabel(
+                  { owner, repo, name: labelName, color }
+                );
+              }
+              await github.rest.issues.addLabels(
+                { owner, repo, issue_number: issueNumber, labels: [labelName] }
+              );
+            }
+
+            // ================================================================
+            // STEP 1 — Extract App Store URL
+            // ================================================================
+            const urlMatch = issueBody.match(/https:\/\/apps\.apple\.com\/[^\s)]+/);
+            if (!urlMatch) {
+              await postComment(
+                '## 🤖 Game Port Validator\n\n' +
+                '⚠️ **No App Store URL found.**\n\n' +
+                'Please edit your issue to include a link like:\n' +
+                '`https://apps.apple.com/us/app/<game-name>/id<app-id>`'
+              );
+              await applyLabel('needs-url', 'e4e669');
+              return;
+            }
+            const appStoreUrl = urlMatch[0];
+            const appId = appStoreUrl.match(/\/id(\d+)/)?.[1];
+            if (!appId) {
+              await postComment(
+                '## 🤖 Game Port Validator\n\n' +
+                '⚠️ **Could not extract an App ID** from the URL you provided.\n\n' +
+                'Make sure the URL ends with `/id<number>`, e.g. `/id1406710800`.'
+              );
+              await applyLabel('needs-url', 'e4e669');
+              return;
+            }
+
+            // ================================================================
+            // STEP 2 — iTunes API lookup (free, no auth)
+            // ================================================================
+            let app;
+            try {
+              const itunesRes  = await fetch(
+                `https://itunes.apple.com/lookup?id=${appId}&entity=software`
+              );
+              const itunesData = await itunesRes.json();
+              app = itunesData.results?.[0];
+            } catch (err) {
+              await postComment(
+                '## 🤖 Game Port Validator\n\n' +
+                `⚠️ iTunes API request failed: \`${err.message}\`. Please try again later.`
+              );
+              return;
+            }
+
+            if (!app || app.kind !== 'software') {
+              await postComment(
+                '## 🤖 Game Port Validator\n\n' +
+                `❌ **App ID \`${appId}\` not found** in the App Store.\n\n` +
+                'Please double-check the URL.'
+              );
+              await applyLabel('invalid-url', 'e11d48');
+              return;
+            }
+
+            const gameName  = app.trackName;
+            const developer = app.artistName;
+            const genres    = (app.genres ?? []).join(', ');
+            const isGame    = (app.primaryGenreName ?? '').toLowerCase().includes('game') ||
+                              (app.genres ?? []).some(g => g.toLowerCase().includes('game'));
+
+            if (!isGame) {
+              await postComment(
+                `## 🤖 Game Port Validator\n\n` +
+                `❌ **"${gameName}"** does not appear to be a game on the App Store ` +
+                `(primary genre: *${app.primaryGenreName}*).\n\n` +
+                'This list only tracks iOS ports of PC/console games.'
+              );
+              await applyLabel('not-a-game', 'f97316');
+              return;
+            }
+
+            // ================================================================
+            // STEP 3 — Check PC/console presence via RAWG (free tier)
+            // ================================================================
+            let platforms    = [];
+            let rawgGameName = gameName;
+            let rawgGameUrl  = '';
+
+            try {
+              const rawgKey = process.env.RAWG_API_KEY;
+              const rawgRes = await fetch(
+                `https://api.rawg.io/api/games?search=${encodeURIComponent(gameName)}` +
+                `&page_size=5&key=${rawgKey}`
+              );
+              const rawgData = await rawgRes.json();
+              const match    = rawgData.results?.[0];
+
+              if (match) {
+                platforms    = (match.platforms ?? []).map(p => p.platform.name);
+                rawgGameName = match.name;
+                rawgGameUrl  = `https://rawg.io/games/${match.slug}`;
+              }
+            } catch (err) {
+              // Non-fatal: we'll let the model reason with what we have
+              core.warning(`RAWG lookup failed: ${err.message}`);
+            }
+
+            const PC_CONSOLE_KEYWORDS = [
+              'PC', 'macOS', 'Linux',
+              'PlayStation', 'Xbox', 'Nintendo Switch',
+              'Wii', 'GameCube', 'Game Boy', 'Nintendo DS',
+              'Sega', 'Dreamcast'
+            ];
+            const isPort = platforms.some(p =>
+              PC_CONSOLE_KEYWORDS.some(kw => p.includes(kw))
+            );
+            const platformList = platforms.length
+              ? platforms.join(', ')
+              : 'No results found in RAWG database';
+
+            // ================================================================
+            // STEP 4 — GitHub Models: generate a friendly issue comment
+            // ================================================================
+            let aiComment = '';
+            try {
+              const modelRes = await fetch(
+                'https://models.inference.ai.azure.com/chat/completions',
+                {
+                  method:  'POST',
+                  headers: {
+                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
+                    'Content-Type':  'application/json'
+                  },
+                  body: JSON.stringify({
+                    model: 'gpt-4o-mini',
+                    messages: [{
+                      role:    'user',
+                      content: `You are a bot that validates GitHub issues requesting iOS game additions to an "awesome" list.
+Write a concise GitHub issue comment (Markdown) with these sections:
+1. A header "## 🤖 Game Port Validator"
+2. A one-line summary of the game
+3. A "Platform check" section listing the platforms found
+4. A clear Verdict line: ✅ Valid port / ❌ Not a port / ⚠️ Uncertain
+
+Data:
+- Game name (App Store): ${gameName}
+- Developer: ${developer}
+- App Store genres: ${genres}
+- Platforms found on RAWG: ${platformList}
+- RAWG URL: ${rawgGameUrl || 'N/A'}
+- Is PC/console port (automated check): ${isPort}
+
+Be concise. If platforms list is empty, note that the game wasn't found in RAWG but use your knowledge to assess.
+End with a note that a human maintainer will make the final call.`
+                    }]
+                  })
+                }
+              );
+              const modelData = await modelRes.json();
+              aiComment = modelData.choices?.[0]?.message?.content ?? '';
+            } catch (err) {
+              // Fallback comment if GitHub Models is unavailable
+              aiComment =
+                `## 🤖 Game Port Validator\n\n` +
+                `**Game:** ${gameName}\n` +
+                `**Developer:** ${developer}\n` +
+                `**App Store genres:** ${genres}\n\n` +
+                `**Platforms found (RAWG):** ${platformList}\n\n` +
+                `**Verdict:** ${isPort ? '✅ Looks like a valid port.' : '⚠️ Could not confirm PC/console presence.'}\n\n` +
+                `_A human maintainer will make the final call._`;
+            }
+
+            // ================================================================
+            // STEP 5 — Post comment + label on the issue
+            // ================================================================
+            let prNote = '';
+
+            if (isPort) {
+              await applyLabel('valid-port', '22c55e');
+
+              // ==============================================================
+              // STEP 6 — Create branch, append to ids.tsv, open a PR
+              //          Skipped entirely when dry_run is true.
+              // ==============================================================
+              if (dryRun) {
+                prNote =
+                  `\n\n---\n🧪 **Dry run** — PR creation skipped.\n` +
+                  `Would have appended \`${gameName}\t${appId}\` to \`ids.tsv\` ` +
+                  `and opened a PR closing this issue.`;
+              } else {
+                try {
+                  const branchName = `add-game/${appId}-${gameName
+                    .toLowerCase()
+                    .replace(/[^a-z0-9]+/g, '-')
+                    .replace(/(^-|-$)/g, '')}`;
+
+                  // Get the SHA of master so we can branch from it
+                  const masterRef = await github.rest.git.getRef(
+                    { owner, repo, ref: 'heads/master' }
+                  );
+                  const masterSha = masterRef.data.object.sha;
+
+                  // Create the new branch
+                  await github.rest.git.createRef({
+                    owner, repo,
+                    ref: `refs/heads/${branchName}`,
+                    sha: masterSha
+                  });
+
+                  // Fetch current ids.tsv content + its blob SHA (needed for update)
+                  const fileRes  = await github.rest.repos.getContent(
+                    { owner, repo, path: 'ids.tsv', ref: 'master' }
+                  );
+                  const fileSha     = fileRes.data.sha;
+                  const currentContent = Buffer.from(
+                    fileRes.data.content, 'base64'
+                  ).toString('utf8');
+
+                  // Append the new entry: "Game Name\tAppID"
+                  // Ensure the file ends with a newline before appending
+                  const newLine    = `${gameName}\t${appId}\n`;
+                  const newContent = currentContent.endsWith('\n')
+                    ? currentContent + newLine
+                    : currentContent + '\n' + newLine;
+
+                  // Commit the updated file to the new branch
+                  await github.rest.repos.createOrUpdateFileContents({
+                    owner, repo,
+                    path:    'ids.tsv',
+                    message: `Add ${gameName} (${appId}) to ids.tsv\n\nCloses #${issueNumber}`,
+                    content: Buffer.from(newContent).toString('base64'),
+                    sha:     fileSha,
+                    branch:  branchName
+                  });
+
+                  // Open the PR
+                  const pr = await github.rest.pulls.create({
+                    owner, repo,
+                    title: `Add game: ${gameName}`,
+                    head:  branchName,
+                    base:  'master',
+                    body:
+                      `Automated PR raised by the Game Port Validator bot.\n\n` +
+                      `**Game:** ${gameName}\n` +
+                      `**App ID:** ${appId}\n` +
+                      `**App Store URL:** ${appStoreUrl}\n` +
+                      `**Platforms (RAWG):** ${platformList}\n\n` +
+                      `Closes #${issueNumber}`
+                  });
+
+                  prNote = `\n\n---\n🔀 **PR raised automatically:** ${pr.data.html_url}`;
+
+                } catch (err) {
+                  prNote =
+                    `\n\n---\n⚠️ The bot tried to raise a PR but hit an error: \`${err.message}\`. ` +
+                    `A maintainer will need to add \`${gameName}\t${appId}\` to \`ids.tsv\` manually.`;
+                }
+              }
+
+            } else {
+              await applyLabel('invalid-port', 'e11d48');
+            }
+
+            await postComment(aiComment + prNote);
