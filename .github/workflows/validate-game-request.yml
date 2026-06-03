@@ -221,24 +221,24 @@ jobs:
                   body: JSON.stringify({
                     model: 'gpt-4o-mini',
                     messages: [{
-                      role:    'user',
-                      content: `You are a bot that validates GitHub issues requesting iOS game additions to an "awesome" list.
-Write a concise GitHub issue comment (Markdown) with these sections:
-1. A header "## 🤖 Game Port Validator"
-2. A one-line summary of the game
-3. A "Platform check" section listing the platforms found
-4. A clear Verdict line: ✅ Valid port / ❌ Not a port / ⚠️ Uncertain
-
-Data:
-- Game name (App Store): ${gameName}
-- Developer: ${developer}
-- App Store genres: ${genres}
-- Platforms found on RAWG: ${platformList}
-- RAWG URL: ${rawgGameUrl || 'N/A'}
-- Is PC/console port (automated check): ${isPort}
-
-Be concise. If platforms list is empty, note that the game wasn't found in RAWG but use your knowledge to assess.
-End with a note that a human maintainer will make the final call.`
+                      role: 'user',
+                      content: (
+                        "You are a bot that validates GitHub issues requesting iOS game additions to an \"awesome\" list.\n" +
+                        "Write a concise GitHub issue comment (Markdown) with these sections:\n" +
+                        "1. A header \"## 🤖 Game Port Validator\"\n" +
+                        "2. A one-line summary of the game\n" +
+                        "3. A \"Platform check\" section listing the platforms found\n" +
+                        "4. A clear Verdict line: ✅ Valid port / ❌ Not a port / ⚠️ Uncertain\n\n" +
+                        "Data:\n" +
+                        "- Game name (App Store): " + gameName + "\n" +
+                        "- Developer: " + developer + "\n" +
+                        "- App Store genres: " + genres + "\n" +
+                        "- Platforms found on RAWG: " + platformList + "\n" +
+                        "- RAWG URL: " + (rawgGameUrl || 'N/A') + "\n" +
+                        "- Is PC/console port (automated check): " + isPort + "\n\n" +
+                        "Be concise. If platforms list is empty, note that the game wasn't found in RAWG but use your knowledge to assess.\n" +
+                        "End with a note that a human maintainer will make the final call."
+                      )
                     }]
                   })
                 }
