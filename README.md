@@ -112,7 +112,7 @@ Name | App ID | Average Rating | Price (USD)
 [FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.24 | $4.99
 [Florence](https://apps.apple.com/ie/app/awesome/id1297430468) | 1297430468 | 4.55 | $2.99
 [Flower](https://apps.apple.com/ie/app/awesome/id1279174518) | 1279174518 | 4.09 | $4.99
-[Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.17 | $7.99
+[Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.18 | $7.99
 [Forgotton Anne](https://apps.apple.com/ie/app/awesome/id1457216934) | 1457216934 | 4.72 | Free
 [Full Throttle Remastered](https://apps.apple.com/ie/app/awesome/id1230257367) | 1230257367 | 3.29 | $4.99
 [Galaxy on Fire 2™ HD](https://apps.apple.com/ie/app/awesome/id465072566) | 465072566 | 4.65 | Free
@@ -336,7 +336,7 @@ Name | App ID | Average Rating | Price (USD)
 [Mini Metro+](https://apps.apple.com/ie/app/awesome/id1550663539) | 1550663539 | 4.31 | Arcade
 [Mini Motorways](https://apps.apple.com/ie/app/awesome/id1453901000) | 1453901000 | 4.12 | Arcade
 [Nexomon: Extinction](https://apps.apple.com/ie/app/awesome/id1474335542) | 1474335542 | 4.78 | Free
-[Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.61 | $7.99
+[Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.61 | $2.99
 [Plague Inc.](https://apps.apple.com/ie/app/awesome/id525818839) | 525818839 | 4.81 | $0.99
 [Pocket Tanks](https://apps.apple.com/ie/app/awesome/id311544087) | 311544087 | 4.29 | Free
 [RollerCoaster Tycoon® 3](https://apps.apple.com/ie/app/awesome/id1008692660) | 1008692660 | 3.89 | $4.99
