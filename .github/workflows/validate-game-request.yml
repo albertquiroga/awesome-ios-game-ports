@@ -62,16 +62,16 @@ jobs:
             // When triggered manually, use the workflow_dispatch inputs;
             // otherwise read from the real issue event payload.
             const issueNumber = isDispatch
-              ? parseInt(github.event.inputs.issue_number)
+              ? parseInt(context.payload.inputs.issue_number)
               : context.payload.issue.number;
             const issueBody = isDispatch
-              ? github.event.inputs.issue_body
+              ? context.payload.inputs.issue_body
               : context.payload.issue.body ?? '';
             const issueTitle = isDispatch
               ? ''
               : context.payload.issue.title ?? '';
             const dryRun = isDispatch
-              ? github.event.inputs.dry_run === 'true'
+              ? context.payload.inputs.dry_run === 'true'
               : false;
 
             // ── Helper: post a comment ───────────────────────────────────────
