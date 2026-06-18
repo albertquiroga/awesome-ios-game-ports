@@ -272,7 +272,7 @@ jobs:
               if (dryRun) {
                 prNote =
                   `\n\n---\n🧪 **Dry run** — PR creation skipped.\n` +
-                  `Would have appended \`${gameName}\t${appId}\` to \`ids.tsv\` ` +
+                  `Would have appended \`${appId}\t"${gameName}"\` to \`ids.tsv\` ` +
                   `and opened a PR closing this issue.`;
               } else {
                 try {
@@ -305,7 +305,7 @@ jobs:
 
                   // Append the new entry: "Game Name\tAppID"
                   // Ensure the file ends with a newline before appending
-                  const newLine    = `${gameName}\t${appId}\n`;
+                  const newLine    = `${appId}\t"${gameName}"\n`;
                   const newContent = currentContent.endsWith('\n')
                     ? currentContent + newLine
                     : currentContent + '\n' + newLine;
