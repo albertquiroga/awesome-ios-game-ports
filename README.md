@@ -10,7 +10,7 @@ Want a game to be shown here? Use the button below:
 
 ## Games
 
-Total games: **305** across **9** genres
+Total games: **306** across **9** genres
 
 ### Action
 
@@ -323,6 +323,7 @@ Name | App ID | Average Rating | Price (USD)
 [Bad North: Jotunn Edition](https://apps.apple.com/ie/app/awesome/id1367121168) | 1367121168 | 3.76 | $3.99
 [Balatro](https://apps.apple.com/ie/app/awesome/id6502453075) | 6502453075 | 4.96 | $9.99
 [Banner Saga](https://apps.apple.com/ie/app/awesome/id911006986) | 911006986 | 4.79 | $9.99
+[CloverPit](https://apps.apple.com/ie/app/awesome/id6754894237) | 6754894237 | 4.9 | $4.99
 [Company of Heroes](https://apps.apple.com/ie/app/awesome/id1464645812) | 1464645812 | 4.77 | $14.99
 [Crying Suns](https://apps.apple.com/ie/app/awesome/id1511788295) | 1511788295 | 4.8 | $8.99
 [Cyber Quest](https://apps.apple.com/ie/app/awesome/id6738668652) | 6738668652 | 4.67 | $3.99
