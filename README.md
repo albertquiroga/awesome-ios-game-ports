@@ -10,7 +10,7 @@ Want a game to be shown here? Use the button below:
 
 ## Games
 
-Total games: **303** across **9** genres
+Total games: **304** across **9** genres
 
 ### Action
 
@@ -152,6 +152,7 @@ Name | App ID | Average Rating | Price (USD)
 [ScourgeBringer](https://apps.apple.com/ie/app/awesome/id1552864378) | 1552864378 | 4.86 | $5.99
 [Scribblenauts Unlimited](https://apps.apple.com/ie/app/awesome/id1030902626) | 1030902626 | 4.26 | $4.99
 [Slash Quest!](https://apps.apple.com/ie/app/awesome/id6478560267) | 6478560267 | 3.99 | Free
+[Slice & Dice](https://apps.apple.com/ie/app/awesome/id6449848963) | 6449848963 | 4.78 | Free
 [South of the Circle](https://apps.apple.com/ie/app/awesome/id6467118268) | 6467118268 | 4.48 | Free
 [Spiritfarer: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1610577424) | 1610577424 | 3.88 | Netflix
 [Star Wars™: KOTOR](https://apps.apple.com/ie/app/awesome/id611436052) | 611436052 | 4.27 | $9.99
