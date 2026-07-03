@@ -169,9 +169,18 @@ jobs:
             // ================================================================
             // STEP 3 — Check PC/console presence via RAWG (free tier)
             // ================================================================
-            let platforms    = [];
-            let rawgGameName = gameName;
-            let rawgGameUrl  = '';
+            let platforms        = [];
+            let rawgGameName     = gameName;
+            let rawgGameUrl      = '';
+            let storeLinksMd     = '';
+
+            // RAWG's numeric store IDs are stable/well-known (see https://api.rawg.io/api/stores).
+            const STORE_ID_TO_PLATFORM = {
+              1: 'Steam',
+              3: 'PlayStation Store',
+              2: 'Xbox Store',
+              6: 'Nintendo Store'
+            };
 
             try {
               const rawgKey = process.env.RAWG_API_KEY;
@@ -186,6 +195,31 @@ jobs:
                 platforms    = (match.platforms ?? []).map(p => p.platform.name);
                 rawgGameName = match.name;
                 rawgGameUrl  = `https://rawg.io/games/${match.slug}`;
+
+                // ── Fetch per-store purchase links (Steam/PlayStation/Xbox/Nintendo) ──
+                try {
+                  const storesRes  = await fetch(
+                    `https://api.rawg.io/api/games/${match.id}/stores?key=${rawgKey}`
+                  );
+                  const storesData = await storesRes.json();
+                  const storeLinks = {};
+                  for (const entry of storesData.results ?? []) {
+                    const platformName = STORE_ID_TO_PLATFORM[entry.store_id];
+                    if (platformName && !storeLinks[platformName]) {
+                      storeLinks[platformName] = entry.url;
+                    }
+                  }
+
+                  storeLinksMd =
+                    '**🔗 Platform links (via RAWG):**\n' +
+                    Object.values(STORE_ID_TO_PLATFORM)
+                      .map(name => storeLinks[name]
+                        ? `- **${name}:** [Store page](${storeLinks[name]})`
+                        : `- **${name}:** Not found`)
+                      .join('\n');
+                } catch (err) {
+                  core.warning(`RAWG stores lookup failed: ${err.message}`);
+                }
               }
             } catch (err) {
               // Non-fatal: we'll let the model reason with what we have
@@ -332,6 +366,7 @@ jobs:
                       `**App ID:** ${appId}\n` +
                       `**App Store URL:** ${appStoreUrl}\n` +
                       `**Platforms (RAWG):** ${platformList}\n\n` +
+                      (storeLinksMd ? `${storeLinksMd}\n\n` : '') +
                       `Closes #${issueNumber}`
                   });
 
@@ -348,4 +383,5 @@ jobs:
               await applyLabel('invalid-port', 'e11d48');
             }
 
-            await postComment(aiComment + prNote);
+            const storeLinksNote = storeLinksMd ? `\n\n---\n${storeLinksMd}` : '';
+            await postComment(aiComment + storeLinksNote + prNote);
