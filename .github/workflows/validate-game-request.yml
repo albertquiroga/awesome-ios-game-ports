@@ -172,6 +172,7 @@ jobs:
             let platforms    = [];
             let rawgGameName = gameName;
             let rawgGameUrl  = '';
+            let storeLinks   = [];
 
             try {
               const rawgKey = process.env.RAWG_API_KEY;
@@ -186,6 +187,25 @@ jobs:
                 platforms    = (match.platforms ?? []).map(p => p.platform.name);
                 rawgGameName = match.name;
                 rawgGameUrl  = `https://rawg.io/games/${match.slug}`;
+
+                // Map store id -> name from the search result's own `stores` field
+                const storeNamesById = {};
+                for (const s of (match.stores ?? [])) {
+                  storeNamesById[s.store.id] = s.store.name;
+                }
+
+                // Fetch the actual per-game store URLs (e.g. Steam, GOG, PS Store)
+                try {
+                  const storesRes  = await fetch(
+                    `https://api.rawg.io/api/games/${match.id}/stores?key=${rawgKey}`
+                  );
+                  const storesData = await storesRes.json();
+                  storeLinks = (storesData.results ?? [])
+                    .filter(s => s.url && storeNamesById[s.store_id])
+                    .map(s => ({ name: storeNamesById[s.store_id], url: s.url }));
+                } catch (err) {
+                  core.warning(`RAWG store-links lookup failed: ${err.message}`);
+                }
               }
             } catch (err) {
               // Non-fatal: we'll let the model reason with what we have
@@ -235,6 +255,7 @@ jobs:
                         "- App Store genres: " + genres + "\n" +
                         "- Platforms found on RAWG: " + platformList + "\n" +
                         "- RAWG URL: " + (rawgGameUrl || 'N/A') + "\n" +
+                        "- Other stores found (RAWG): " + (storeLinks.map(s => s.name).join(', ') || 'None') + "\n" +
                         "- Is PC/console port (automated check): " + isPort + "\n\n" +
                         "Be concise. If platforms list is empty, note that the game wasn't found in RAWG but use your knowledge to assess.\n" +
                         "End with a note that a human maintainer will make the final call."
@@ -348,4 +369,8 @@ jobs:
               await applyLabel('invalid-port', 'e11d48');
             }
 
-            await postComment(aiComment + prNote);
+            const storesSection = storeLinks.length
+              ? '\n\n### 🔗 Also found on\n' + storeLinks.map(s => `- **${s.name}**: ${s.url}`).join('\n')
+              : '';
+
+            await postComment(aiComment + storesSection + prNote);
