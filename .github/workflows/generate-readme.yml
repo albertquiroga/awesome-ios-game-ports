@@ -8,6 +8,9 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+  schedule:
+    # Daily, to keep App Store prices and ratings fresh
+    - cron: '17 4 * * *'
 
 jobs:
   build:
