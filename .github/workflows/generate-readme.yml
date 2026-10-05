@@ -39,5 +39,9 @@ jobs:
       run: |
         git config --global user.email "5863660+albertquiroga@users.noreply.github.com"
         git config --global user.name "Albert Quiroga"
-        git commit README.md -m 'Re-build README.md'
-        git push origin
+        if git diff --quiet README.md; then
+          echo "README.md unchanged, nothing to commit"
+        else
+          git commit README.md -m 'Re-build README.md'
+          git push origin
+        fi
