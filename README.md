@@ -32,7 +32,7 @@ Name | App ID | Average Rating | Price (USD)
 [DOOM II](https://apps.apple.com/ie/app/awesome/id1470090748) | 1470090748 | 3.8 | $4.99
 [Downwell+](https://apps.apple.com/ie/app/awesome/id6467505035) | 6467505035 | 4.5 | Arcade
 [Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4.07 | $1.99
-[Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
+[Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $2.49
 [Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.54 | $4.99
 [GTA III – Definitive](https://apps.apple.com/ie/app/awesome/id6468843723) | 6468843723 | 4.69 | Free
 [GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.52 | Free
@@ -40,7 +40,7 @@ Name | App ID | Average Rating | Price (USD)
 [HAAK](https://apps.apple.com/ie/app/awesome/id1336793944) | 1336793944 | 4.51 | $1.99
 [Halls of Torment: Premium](https://apps.apple.com/ie/app/awesome/id6504841512) | 6504841512 | 4.75 | $4.99
 [Highwater](https://apps.apple.com/ie/app/awesome/id1634668889) | 1634668889 | 4.66 | Netflix
-[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.79 | Free
+[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.8 | Free
 [Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.88 | $14.99
 [Hitman: Blood Money — Reprisal](https://apps.apple.com/ie/app/awesome/id1631331207) | 1631331207 | 4.29 | Free
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.15 | $4.99
@@ -69,9 +69,9 @@ Name | App ID | Average Rating | Price (USD)
 [Skul: The Hero Slayer](https://apps.apple.com/ie/app/awesome/id6458144503) | 6458144503 | 4.67 | $7.99
 [Sniper Elite 4](https://apps.apple.com/ie/app/awesome/id6477828959) | 6477828959 | 3.95 | Free
 [Sonic Mania Plus - NETFLIX](https://apps.apple.com/ie/app/awesome/id6445996359) | 6445996359 | 4.76 | Netflix
-[Sparklite](https://apps.apple.com/ie/app/awesome/id1553922886) | 1553922886 | 4.72 | Free
+[Sparklite](https://apps.apple.com/ie/app/awesome/id1553922886) | 1553922886 | 4.71 | Free
 [SpongeBob - The Cosmic Shake](https://apps.apple.com/ie/app/awesome/id6445992619) | 6445992619 | 3.96 | $10.99
-[SpongeBob SquarePants](https://apps.apple.com/ie/app/awesome/id1523633394) | 1523633394 | 4.44 | $1.99
+[SpongeBob SquarePants](https://apps.apple.com/ie/app/awesome/id1523633394) | 1523633394 | 4.44 | $10.99
 [SteamWorld Heist](https://apps.apple.com/ie/app/awesome/id1093396572) | 1093396572 | 4.64 | $4.99
 [Streets of Rage 4](https://apps.apple.com/ie/app/awesome/id1601446687) | 1601446687 | 4.86 | $7.99
 [Tesla Force](https://apps.apple.com/ie/app/awesome/id1572242486) | 1572242486 | 4.69 | $5.99
@@ -159,14 +159,14 @@ Name | App ID | Average Rating | Price (USD)
 [Star Wars™: KOTOR II](https://apps.apple.com/ie/app/awesome/id963230767) | 963230767 | 4.14 | $14.99
 [Subnautica](https://apps.apple.com/ie/app/awesome/id6478639011) | 6478639011 | 4.63 | $8.99
 [Subnautica: Below Zero](https://apps.apple.com/ie/app/awesome/id6749406060) | 6749406060 | 4.54 | $9.99
-[Terraria](https://apps.apple.com/ie/app/awesome/id640364616) | 640364616 | 4.46 | $4.99
+[Terraria](https://apps.apple.com/ie/app/awesome/id640364616) | 640364616 | 4.46 | $2.99
 [The Longing Mobile](https://apps.apple.com/ie/app/awesome/id1664728844) | 1664728844 | 4.59 | $4.99
 [The Stanley Parable: UD](https://apps.apple.com/ie/app/awesome/id6479513152) | 6479513152 | 4.14 | Free
 [The Talos Principle](https://apps.apple.com/ie/app/awesome/id1250484428) | 1250484428 | 4.61 | $4.99
 [The Witness](https://apps.apple.com/ie/app/awesome/id1230231705) | 1230231705 | 3.99 | $9.99
 [Thimbleweed Park](https://apps.apple.com/ie/app/awesome/id1228969539) | 1228969539 | 4.84 | $9.99
 [This Is the Police](https://apps.apple.com/ie/app/awesome/id1435461053) | 1435461053 | 4.29 | $8.99
-[This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.22 | $1.99
+[This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.22 | $8.99
 [Thronefall - A Little Kingdom](https://apps.apple.com/ie/app/awesome/id6744029320) | 6744029320 | 4.58 | Free
 [Tomb Raider™](https://apps.apple.com/ie/app/awesome/id6742988247) | 6742988247 | 4.85 | $19.99
 [What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 4.08 | $4.99
@@ -237,7 +237,7 @@ Name | App ID | Average Rating | Price (USD)
 [Baldur's Gate II: EE](https://apps.apple.com/ie/app/awesome/id633625517) | 633625517 | 4.1 | $9.99
 [Banner Saga 2](https://apps.apple.com/ie/app/awesome/id1107741196) | 1107741196 | 4.67 | $9.99
 [Bastion](https://apps.apple.com/ie/app/awesome/id1467063160) | 1467063160 | 4.59 | Free
-[Blasphemous](https://apps.apple.com/ie/app/awesome/id6499431452) | 6499431452 | 4.42 | $5.59
+[Blasphemous](https://apps.apple.com/ie/app/awesome/id6499431452) | 6499431452 | 4.42 | $7.99
 [CHRONO TRIGGER (Upgrade Ver.)](https://apps.apple.com/ie/app/awesome/id479431697) | 479431697 | 4.5 | $9.99
 [Darkest Dungeon:Tablet Edition](https://apps.apple.com/ie/app/awesome/id1199831446) | 1199831446 | 3.43 | $4.99
 [Demeo](https://apps.apple.com/ie/app/awesome/id6463004635) | 6463004635 | 3.88 | $24.99
@@ -278,7 +278,7 @@ Name | App ID | Average Rating | Price (USD)
 [Planescape: Torment](https://apps.apple.com/ie/app/awesome/id1138916291) | 1138916291 | 4.13 | $3.99
 [Rebel Cops](https://apps.apple.com/ie/app/awesome/id1488452530) | 1488452530 | 4.33 | $8.99
 [RuneScape](https://apps.apple.com/ie/app/awesome/id1332022656) | 1332022656 | 3.8 | Free
-[Sea of Stars](https://apps.apple.com/ie/app/awesome/id6673906410) | 6673906410 | 4.36 | $6.99
+[Sea of Stars](https://apps.apple.com/ie/app/awesome/id6673906410) | 6673906410 | 4.35 | $9.99
 [Secret of Mana](https://apps.apple.com/ie/app/awesome/id407949800) | 407949800 | 2.99 | $6.99
 [Shattered Pixel Dungeon](https://apps.apple.com/ie/app/awesome/id1563121109) | 1563121109 | 4.89 | $4.99
 [Stardew Valley](https://apps.apple.com/ie/app/awesome/id1406710800) | 1406710800 | 4.81 | $4.99
