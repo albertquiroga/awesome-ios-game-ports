@@ -10,7 +10,7 @@ Want a game to be shown here? Use the button below:
 
 ## Games
 
-Total games: **312** across **9** genres
+Total games: **311** across **9** genres
 
 ### Action
 
@@ -30,7 +30,6 @@ Name | App ID | Average Rating | Price (USD)
 [DoDonPachi Resurrection HD](https://apps.apple.com/ie/app/awesome/id488666118) | 488666118 | 4.58 | $5.99
 [DOOM](https://apps.apple.com/ie/app/awesome/id336347946) | 336347946 | 3.8 | $4.99
 [DOOM II](https://apps.apple.com/ie/app/awesome/id1470090748) | 1470090748 | 3.8 | $4.99
-[Downwell+](https://apps.apple.com/ie/app/awesome/id6467505035) | 6467505035 | 4.5 | Arcade
 [Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4.09 | $1.99
 [Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
 [Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.54 | $4.99
@@ -57,7 +56,7 @@ Name | App ID | Average Rating | Price (USD)
 [Oddworld: New 'n' Tasty](https://apps.apple.com/ie/app/awesome/id1090133581) | 1090133581 | 4.82 | $4.99
 [Playdead's LIMBO](https://apps.apple.com/ie/app/awesome/id656951157) | 656951157 | 4.56 | $3.99
 [Prince of Persia Lost Crown](https://apps.apple.com/ie/app/awesome/id6504011865) | 6504011865 | 4.8 | Free
-[Red Dead Redemption](https://apps.apple.com/ie/app/awesome/id6746390893) | 6746390893 | 4.43 | $39.99
+[Red Dead Redemption](https://apps.apple.com/ie/app/awesome/id6746390893) | 6746390893 | 4.44 | $39.99
 [Red Dead Redemption NETFLIX](https://apps.apple.com/ie/app/awesome/id6743944297) | 6743944297 | 4.8 | Netflix
 [RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.88 | Free
 [RESIDENT EVIL 3](https://apps.apple.com/ie/app/awesome/id1640630077) | 1640630077 | 4.03 | Free
@@ -103,9 +102,9 @@ Name | App ID | Average Rating | Price (USD)
 [Control Ultimate Edition](https://apps.apple.com/ie/app/awesome/id6502953520) | 6502953520 | 4.04 | $4.99
 [Crashlands](https://apps.apple.com/ie/app/awesome/id808296431) | 808296431 | 4.77 | $6.99
 [Day of the Tentacle Remastered](https://apps.apple.com/ie/app/awesome/id1094931305) | 1094931305 | 0 | $14.99
-[Doki Doki Literature Club!](https://apps.apple.com/ie/app/awesome/id6738281686) | 6738281686 | 4.91 | Free
+[Doki Doki Literature Club!](https://apps.apple.com/ie/app/awesome/id6738281686) | 6738281686 | 4.9 | Free
 [Don't Starve: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1012298403) | 1012298403 | 4.49 | $4.99
-[Don't Starve: Shipwrecked](https://apps.apple.com/ie/app/awesome/id1147297267) | 1147297267 | 4.13 | $4.99
+[Don't Starve: Shipwrecked](https://apps.apple.com/ie/app/awesome/id1147297267) | 1147297267 | 4.12 | $4.99
 [Duck Detective: Secret Salami](https://apps.apple.com/ie/app/awesome/id6503263073) | 6503263073 | 4.75 | Free
 [Easy Delivery Co.](https://apps.apple.com/ie/app/awesome/id6753945058) | 6753945058 | 4.75 | Free
 [El Paso, Elsewhere](https://apps.apple.com/ie/app/awesome/id6472330346) | 6472330346 | 4.7 | Free
@@ -159,7 +158,7 @@ Name | App ID | Average Rating | Price (USD)
 [Star Wars™: KOTOR II](https://apps.apple.com/ie/app/awesome/id963230767) | 963230767 | 4.14 | $14.99
 [Subnautica](https://apps.apple.com/ie/app/awesome/id6478639011) | 6478639011 | 4.63 | $8.99
 [Subnautica: Below Zero](https://apps.apple.com/ie/app/awesome/id6749406060) | 6749406060 | 4.54 | $9.99
-[Terraria](https://apps.apple.com/ie/app/awesome/id640364616) | 640364616 | 4.46 | $2.99
+[Terraria](https://apps.apple.com/ie/app/awesome/id640364616) | 640364616 | 4.46 | $4.99
 [The Longing Mobile](https://apps.apple.com/ie/app/awesome/id1664728844) | 1664728844 | 4.59 | $3.99
 [The Stanley Parable: UD](https://apps.apple.com/ie/app/awesome/id6479513152) | 6479513152 | 4.14 | Free
 [The Talos Principle](https://apps.apple.com/ie/app/awesome/id1250484428) | 1250484428 | 4.61 | $4.99
@@ -202,7 +201,7 @@ Name | App ID | Average Rating | Price (USD)
 Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
 [MuseDash](https://apps.apple.com/ie/app/awesome/id1361473095) | 1361473095 | 4.87 | $2.99
-[Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.61 | $1.99
+[Thumper: Pocket Edition](https://apps.apple.com/ie/app/awesome/id1287138671) | 1287138671 | 4.61 | $4.99
 
 ### Puzzle
 
@@ -271,7 +270,7 @@ Name | App ID | Average Rating | Price (USD)
 [Kingdom Two Crowns](https://apps.apple.com/ie/app/awesome/id1477991646) | 1477991646 | 4.49 | $6.99
 [NEO Scavenger](https://apps.apple.com/ie/app/awesome/id1132258364) | 1132258364 | 4.31 | Free
 [Nexomon](https://apps.apple.com/ie/app/awesome/id1254864644) | 1254864644 | 4.75 | $0.99
-[Oceanhorn ™](https://apps.apple.com/ie/app/awesome/id708196645) | 708196645 | 4.29 | $6.99
+[Oceanhorn ™](https://apps.apple.com/ie/app/awesome/id708196645) | 708196645 | 4.28 | $6.99
 [OXENFREE: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1613438096) | 1613438096 | 4.5 | Netflix
 [P5X | Persona5: The Phantom X](https://apps.apple.com/ie/app/awesome/id6736754647) | 6736754647 | 4.17 | Free
 [Pascal's Wager](https://apps.apple.com/ie/app/awesome/id1476649036) | 1476649036 | 4.2 | $4.99
@@ -384,6 +383,7 @@ Name | App ID
 [Crazy Taxi Classic](https://apps.apple.com/ie/app/awesome/id553921725) | 553921725
 [Crypt of the NecroDancer](https://apps.apple.com/ie/app/awesome/id1085123968) | 1085123968
 [Dear Esther](https://apps.apple.com/ie/app/awesome/id1476531719) | 1476531719
+[Downwell+](https://apps.apple.com/ie/app/awesome/id6467505035) | 6467505035
 [FINALFANTASY CRYSTALCHRONICLES](https://apps.apple.com/ie/app/awesome/id1478870957) | 1478870957
 [Game Dev Tycoon NETFLIX](https://apps.apple.com/ie/app/awesome/id6450555421) | 6450555421
 [GTA III – NETFLIX](https://apps.apple.com/ie/app/awesome/id6450280668) | 6450280668
