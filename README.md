@@ -34,13 +34,13 @@ Name | App ID | Average Rating | Price (USD)
 [Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
 [Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.54 | $4.99
 [GTA III – Definitive](https://apps.apple.com/ie/app/awesome/id6468843723) | 6468843723 | 4.68 | Free
-[GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.53 | Free
+[GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.52 | Free
 [GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.38 | Free
 [HAAK](https://apps.apple.com/ie/app/awesome/id1336793944) | 1336793944 | 4.51 | $1.99
 [Halls of Torment: Premium](https://apps.apple.com/ie/app/awesome/id6504841512) | 6504841512 | 4.75 | $4.99
 [Highwater](https://apps.apple.com/ie/app/awesome/id1634668889) | 1634668889 | 4.66 | Netflix
 [HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.8 | Free
-[Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.88 | $14.99
+[Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.89 | $14.99
 [Hitman: Blood Money — Reprisal](https://apps.apple.com/ie/app/awesome/id1631331207) | 1631331207 | 4.3 | Free
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.15 | $4.99
 [Hyper Light Drifter](https://apps.apple.com/ie/app/awesome/id1453875289) | 1453875289 | 4.87 | $4.99
@@ -58,10 +58,10 @@ Name | App ID | Average Rating | Price (USD)
 [Prince of Persia Lost Crown](https://apps.apple.com/ie/app/awesome/id6504011865) | 6504011865 | 4.8 | Free
 [Red Dead Redemption](https://apps.apple.com/ie/app/awesome/id6746390893) | 6746390893 | 4.44 | $39.99
 [Red Dead Redemption NETFLIX](https://apps.apple.com/ie/app/awesome/id6743944297) | 6743944297 | 4.8 | Netflix
-[RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.88 | Free
+[RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.89 | Free
 [RESIDENT EVIL 3](https://apps.apple.com/ie/app/awesome/id1640630077) | 1640630077 | 4.03 | Free
 [Resident Evil 4](https://apps.apple.com/ie/app/awesome/id6462360082) | 6462360082 | 3.9 | Free
-[RESIDENT EVIL 7 biohazard](https://apps.apple.com/ie/app/awesome/id1640629241) | 1640629241 | 4.08 | Free
+[RESIDENT EVIL 7 biohazard](https://apps.apple.com/ie/app/awesome/id1640629241) | 1640629241 | 4.09 | Free
 [Resident Evil Village](https://apps.apple.com/ie/app/awesome/id6450980545) | 6450980545 | 3.88 | Free
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.46 | $3.99
 [Shadow of the Depth](https://apps.apple.com/ie/app/awesome/id6670242198) | 6670242198 | 4.55 | Free
@@ -93,7 +93,7 @@ Name | App ID | Average Rating | Price (USD)
 [9th Dawn III](https://apps.apple.com/ie/app/awesome/id1528353612) | 1528353612 | 4.48 | $9.99
 [Alien: Isolation](https://apps.apple.com/ie/app/awesome/id1573029040) | 1573029040 | 4.48 | Free
 [ARK: Ultimate Mobile Edition](https://apps.apple.com/ie/app/awesome/id6639622324) | 6639622324 | 4.4 | Free
-[BALL x PIT](https://apps.apple.com/ie/app/awesome/id6738703497) | 6738703497 | 4.86 | Free
+[BALL x PIT](https://apps.apple.com/ie/app/awesome/id6738703497) | 6738703497 | 4.87 | Free
 [Beyond a Steel Sky](https://apps.apple.com/ie/app/awesome/id1474849377) | 1474849377 | 4.39 | Arcade
 [Bugsnax](https://apps.apple.com/ie/app/awesome/id1449161497) | 1449161497 | 4.47 | Free
 [Carrion](https://apps.apple.com/ie/app/awesome/id6504567739) | 6504567739 | 4.42 | Free
@@ -194,7 +194,7 @@ Name | App ID | Average Rating | Price (USD)
 
 Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
-[Unpacking+](https://apps.apple.com/ie/app/awesome/id6751239710) | 6751239710 | 4.8 | Arcade
+[Unpacking+](https://apps.apple.com/ie/app/awesome/id6751239710) | 6751239710 | 4.81 | Arcade
 
 ### Music
 
