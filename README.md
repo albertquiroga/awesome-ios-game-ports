@@ -22,7 +22,7 @@ Name | App ID | Average Rating | Price (USD)
 [Brotato:Premium](https://apps.apple.com/ie/app/awesome/id1668755109) | 1668755109 | 4.74 | $4.99
 [Bullet Hell Monday](https://apps.apple.com/ie/app/awesome/id1107355213) | 1107355213 | 4.92 | Free
 [Bully: Anniversary Edition](https://apps.apple.com/ie/app/awesome/id1148321705) | 1148321705 | 4.74 | Free
-[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4.28 | Arcade
+[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4.67 | Arcade
 [Dandara Trials of Fear Edition](https://apps.apple.com/ie/app/awesome/id1168013926) | 1168013926 | 4.41 | $3.99
 [Dead Cells](https://apps.apple.com/ie/app/awesome/id1389752090) | 1389752090 | 4.8 | $8.99
 [Dead Cells: Netflix Edition](https://apps.apple.com/ie/app/awesome/id6450374417) | 6450374417 | 4.79 | Netflix
@@ -34,14 +34,14 @@ Name | App ID | Average Rating | Price (USD)
 [Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
 [Grand Theft Auto: Vice City](https://apps.apple.com/ie/app/awesome/id578448682) | 578448682 | 4.54 | $4.99
 [GTA III – Definitive](https://apps.apple.com/ie/app/awesome/id6468843723) | 6468843723 | 4.68 | Free
-[GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.52 | Free
+[GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.53 | Free
 [GTA: Liberty City Stories](https://apps.apple.com/ie/app/awesome/id1061802598) | 1061802598 | 4.38 | Free
 [HAAK](https://apps.apple.com/ie/app/awesome/id1336793944) | 1336793944 | 4.51 | $1.99
 [Halls of Torment: Premium](https://apps.apple.com/ie/app/awesome/id6504841512) | 6504841512 | 4.75 | $4.99
-[Highwater](https://apps.apple.com/ie/app/awesome/id1634668889) | 1634668889 | 4.66 | Netflix
-[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.8 | Free
+[Highwater](https://apps.apple.com/ie/app/awesome/id1634668889) | 1634668889 | 4.65 | Netflix
+[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.79 | Free
 [Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.89 | $14.99
-[Hitman: Blood Money — Reprisal](https://apps.apple.com/ie/app/awesome/id1631331207) | 1631331207 | 4.3 | Free
+[Hitman: Blood Money — Reprisal](https://apps.apple.com/ie/app/awesome/id1631331207) | 1631331207 | 4.31 | Free
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.15 | $4.99
 [Hyper Light Drifter](https://apps.apple.com/ie/app/awesome/id1453875289) | 1453875289 | 4.87 | $4.99
 [Lara Croft: Guardian of Light](https://apps.apple.com/ie/app/awesome/id6502455111) | 6502455111 | 4.72 | Free
@@ -93,7 +93,7 @@ Name | App ID | Average Rating | Price (USD)
 [9th Dawn III](https://apps.apple.com/ie/app/awesome/id1528353612) | 1528353612 | 4.48 | $9.99
 [Alien: Isolation](https://apps.apple.com/ie/app/awesome/id1573029040) | 1573029040 | 4.48 | Free
 [ARK: Ultimate Mobile Edition](https://apps.apple.com/ie/app/awesome/id6639622324) | 6639622324 | 4.4 | Free
-[BALL x PIT](https://apps.apple.com/ie/app/awesome/id6738703497) | 6738703497 | 4.87 | Free
+[BALL x PIT](https://apps.apple.com/ie/app/awesome/id6738703497) | 6738703497 | 4.86 | Free
 [Beyond a Steel Sky](https://apps.apple.com/ie/app/awesome/id1474849377) | 1474849377 | 4.38 | Arcade
 [Bugsnax](https://apps.apple.com/ie/app/awesome/id1449161497) | 1449161497 | 4.47 | Free
 [Carrion](https://apps.apple.com/ie/app/awesome/id6504567739) | 6504567739 | 4.42 | Free
@@ -108,7 +108,7 @@ Name | App ID | Average Rating | Price (USD)
 [Duck Detective: Secret Salami](https://apps.apple.com/ie/app/awesome/id6503263073) | 6503263073 | 4.75 | Free
 [Easy Delivery Co.](https://apps.apple.com/ie/app/awesome/id6753945058) | 6753945058 | 4.75 | Free
 [El Paso, Elsewhere](https://apps.apple.com/ie/app/awesome/id6472330346) | 6472330346 | 4.7 | Free
-[Enter the Gungeon](https://apps.apple.com/ie/app/awesome/id1100429641) | 1100429641 | 3.74 | Free
+[Enter the Gungeon](https://apps.apple.com/ie/app/awesome/id1100429641) | 1100429641 | 3.75 | Free
 [Evoland](https://apps.apple.com/ie/app/awesome/id946477821) | 946477821 | 4.17 | $2.99
 [Evoland 2](https://apps.apple.com/ie/app/awesome/id1291427111) | 1291427111 | 4.59 | $6.99
 [FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.24 | $4.99
@@ -307,7 +307,7 @@ Name | App ID | Average Rating | Price (USD)
 [Goat Simulator+](https://apps.apple.com/ie/app/awesome/id1605596993) | 1605596993 | 4.73 | Arcade
 [Goat Simulator+](https://apps.apple.com/ie/app/awesome/id1605596993) | 1605596993 | 4.73 | Arcade
 [GRID™ Autosport](https://apps.apple.com/ie/app/awesome/id1179421849) | 1179421849 | 4.56 | $9.99
-[GRID™ Legends: Deluxe Edition](https://apps.apple.com/ie/app/awesome/id6444311205) | 6444311205 | 4.55 | $14.99
+[GRID™ Legends: Deluxe Edition](https://apps.apple.com/ie/app/awesome/id6444311205) | 6444311205 | 4.54 | $14.99
 [Little Big Workshop](https://apps.apple.com/ie/app/awesome/id1642715290) | 1642715290 | 4.09 | $1.99
 [Minecraft: Play with Friends!](https://apps.apple.com/ie/app/awesome/id479516143) | 479516143 | 4.51 | $6.99
 [My Time at Portia](https://apps.apple.com/ie/app/awesome/id1555184523) | 1555184523 | 3.85 | $7.99
@@ -353,7 +353,7 @@ Name | App ID | Average Rating | Price (USD)
 [Rift Riff](https://apps.apple.com/ie/app/awesome/id6746967900) | 6746967900 | 4.05 | Free
 [RollerCoaster Tycoon® 3](https://apps.apple.com/ie/app/awesome/id1008692660) | 1008692660 | 3.89 | $4.99
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/awesome/id1113736426) | 1113736426 | 4.24 | $5.99
-[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.2 | Free
+[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.19 | Free
 [Siege of Dragonspear](https://apps.apple.com/ie/app/awesome/id1298734617) | 1298734617 | 4.18 | $9.99
 [Star Traders: Frontiers](https://apps.apple.com/ie/app/awesome/id1442583232) | 1442583232 | 4.58 | $6.99
 [Suzerain](https://apps.apple.com/ie/app/awesome/id1590033408) | 1590033408 | 4.64 | Free
