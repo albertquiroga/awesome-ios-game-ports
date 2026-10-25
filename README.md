@@ -16,13 +16,13 @@ Total games: **311** across **9** genres
 
 Name | App ID | Average Rating | Price (USD)
 --- | --- | --- | ---
-[20 Minutes Till Dawn:Premium](https://apps.apple.com/ie/app/awesome/id1630887189) | 1630887189 | 4.34 | $4.99
+[20 Minutes Till Dawn:Premium](https://apps.apple.com/ie/app/awesome/id1630887189) | 1630887189 | 4.34 | $3.49
 [Assassin's Creed Mirage](https://apps.apple.com/ie/app/awesome/id6472704261) | 6472704261 | 4.22 | Free
 [Brawlhalla](https://apps.apple.com/ie/app/awesome/id1491520571) | 1491520571 | 4.11 | Free
 [Brotato:Premium](https://apps.apple.com/ie/app/awesome/id1668755109) | 1668755109 | 4.74 | $4.99
 [Bullet Hell Monday](https://apps.apple.com/ie/app/awesome/id1107355213) | 1107355213 | 4.92 | Free
 [Bully: Anniversary Edition](https://apps.apple.com/ie/app/awesome/id1148321705) | 1148321705 | 4.74 | Free
-[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4.45 | Arcade
+[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4.48 | Arcade
 [Dandara Trials of Fear Edition](https://apps.apple.com/ie/app/awesome/id1168013926) | 1168013926 | 4.41 | $3.99
 [Dead Cells](https://apps.apple.com/ie/app/awesome/id1389752090) | 1389752090 | 4.8 | $8.99
 [Dead Cells: Netflix Edition](https://apps.apple.com/ie/app/awesome/id6450374417) | 6450374417 | 4.79 | Netflix
@@ -40,7 +40,7 @@ Name | App ID | Average Rating | Price (USD)
 [Halls of Torment: Premium](https://apps.apple.com/ie/app/awesome/id6504841512) | 6504841512 | 4.75 | $4.99
 [Highwater](https://apps.apple.com/ie/app/awesome/id1634668889) | 1634668889 | 4.65 | Netflix
 [HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.8 | Free
-[Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.89 | $14.99
+[Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.88 | $14.99
 [Hitman: Blood Money — Reprisal](https://apps.apple.com/ie/app/awesome/id1631331207) | 1631331207 | 4.3 | Free
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.15 | $4.99
 [Hyper Light Drifter](https://apps.apple.com/ie/app/awesome/id1453875289) | 1453875289 | 4.87 | $4.99
@@ -137,7 +137,7 @@ Name | App ID | Average Rating | Price (USD)
 [Life is Strange: Before Storm](https://apps.apple.com/ie/app/awesome/id1293250289) | 1293250289 | 3.52 | Free
 [Little Nightmares](https://apps.apple.com/ie/app/awesome/id1620883955) | 1620883955 | 4.37 | $7.99
 [Lunar Silver Star Story Touch](https://apps.apple.com/ie/app/awesome/id492598036) | 492598036 | 4.59 | $9.99
-[Machinarium](https://apps.apple.com/ie/app/awesome/id459189186) | 459189186 | 4.45 | $1.99
+[Machinarium](https://apps.apple.com/ie/app/awesome/id459189186) | 459189186 | 4.45 | $9.99
 [Minit](https://apps.apple.com/ie/app/awesome/id1403550875) | 1403550875 | 4.59 | $4.99
 [Neodori Forever](https://apps.apple.com/ie/app/awesome/id6443939648) | 6443939648 | 4.62 | Free
 [Neverwinter Nights](https://apps.apple.com/ie/app/awesome/id1466096721) | 1466096721 | 4.01 | $9.99
@@ -298,7 +298,7 @@ Name | App ID | Average Rating | Price (USD)
 [Bridge Constructor: TWD](https://apps.apple.com/ie/app/awesome/id1510735231) | 1510735231 | 4.73 | $1.99
 [Escapists 2: Pocket Breakout](https://apps.apple.com/ie/app/awesome/id1356167732) | 1356167732 | 4.72 | $6.99
 [Fallout Shelter](https://apps.apple.com/ie/app/awesome/id991153141) | 991153141 | 4.77 | Free
-[Farming Simulator 23 NETFLIX](https://apps.apple.com/ie/app/awesome/id6450324896) | 6450324896 | 4.49 | Netflix
+[Farming Simulator 23 NETFLIX](https://apps.apple.com/ie/app/awesome/id6450324896) | 6450324896 | 4.5 | Netflix
 [Fly Corp: Airline Manager](https://apps.apple.com/ie/app/awesome/id1595860359) | 1595860359 | 4.41 | Free
 [Game Dev Tycoon](https://apps.apple.com/ie/app/awesome/id1162580001) | 1162580001 | 4.9 | $4.99
 [Getting Over It](https://apps.apple.com/ie/app/awesome/id1319618742) | 1319618742 | 4.32 | $4.99
@@ -353,7 +353,7 @@ Name | App ID | Average Rating | Price (USD)
 [Rift Riff](https://apps.apple.com/ie/app/awesome/id6746967900) | 6746967900 | 4.05 | Free
 [RollerCoaster Tycoon® 3](https://apps.apple.com/ie/app/awesome/id1008692660) | 1008692660 | 3.89 | $4.99
 [RollerCoaster Tycoon® Classic](https://apps.apple.com/ie/app/awesome/id1113736426) | 1113736426 | 4.24 | $5.99
-[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.2 | Free
+[Sid Meier's Civilization® VI](https://apps.apple.com/ie/app/awesome/id1235863443) | 1235863443 | 3.19 | Free
 [Siege of Dragonspear](https://apps.apple.com/ie/app/awesome/id1298734617) | 1298734617 | 4.18 | $9.99
 [Star Traders: Frontiers](https://apps.apple.com/ie/app/awesome/id1442583232) | 1442583232 | 4.58 | $6.99
 [Suzerain](https://apps.apple.com/ie/app/awesome/id1590033408) | 1590033408 | 4.64 | Free
