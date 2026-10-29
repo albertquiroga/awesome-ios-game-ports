@@ -53,7 +53,7 @@ Name | App ID | Average Rating | Price (USD)
 [Moonlighter Netflix Edition](https://apps.apple.com/ie/app/awesome/id1612148433) | 1612148433 | 3.81 | Netflix
 [NARUTO: Ultimate Ninja STORM](https://apps.apple.com/ie/app/awesome/id6479512734) | 6479512734 | 4.67 | $12.99
 [Need for Speed™ Most Wanted](https://apps.apple.com/ie/app/awesome/id540925164) | 540925164 | 3.57 | $4.99
-[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 0 | Free
+[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 0 | Arcade
 [Oddworld: New 'n' Tasty](https://apps.apple.com/ie/app/awesome/id1090133581) | 1090133581 | 4.82 | $4.99
 [Playdead's LIMBO](https://apps.apple.com/ie/app/awesome/id656951157) | 656951157 | 4.56 | $3.99
 [Prince of Persia Lost Crown](https://apps.apple.com/ie/app/awesome/id6504011865) | 6504011865 | 4.8 | Free
