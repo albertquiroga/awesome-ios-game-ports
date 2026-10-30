@@ -84,13 +84,13 @@ Name | App ID | Average Rating | Price (USD)
 [Hitman: Blood Money — Reprisal](https://apps.apple.com/ie/app/awesome/id1631331207) | 1631331207 | 4.31 | Free
 [Skul: The Hero Slayer](https://apps.apple.com/ie/app/awesome/id6458144503) | 6458144503 | 4.67 | $7.99
 [Highwater](https://apps.apple.com/ie/app/awesome/id1634668889) | 1634668889 | 4.65 | Netflix
+[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 4.53 | Free
 [Shadow of the Depth](https://apps.apple.com/ie/app/awesome/id6670242198) | 6670242198 | 4.54 | Free
 [20 Minutes Till Dawn:Premium](https://apps.apple.com/ie/app/awesome/id1630887189) | 1630887189 | 4.34 | $3.49
 [RESIDENT EVIL 7 biohazard](https://apps.apple.com/ie/app/awesome/id1640629241) | 1640629241 | 4.09 | Free
 [DOOM II](https://apps.apple.com/ie/app/awesome/id1470090748) | 1470090748 | 3.79 | $4.99
 [Red Dead Redemption](https://apps.apple.com/ie/app/awesome/id6746390893) | 6746390893 | 4.44 | $39.99
-[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 4.58 | Free
-[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.79 | Free
+[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.8 | Free
 [Dandara Trials of Fear Edition](https://apps.apple.com/ie/app/awesome/id1168013926) | 1168013926 | 4.41 | $3.99
 [Sniper Elite 4](https://apps.apple.com/ie/app/awesome/id6477828959) | 6477828959 | 3.94 | Free
 [RESIDENT EVIL 3](https://apps.apple.com/ie/app/awesome/id1640630077) | 1640630077 | 4.05 | Free
@@ -101,7 +101,7 @@ Name | App ID | Average Rating | Price (USD)
 [DoDonPachi Resurrection HD](https://apps.apple.com/ie/app/awesome/id488666118) | 488666118 | 4.58 | $5.99
 [HAAK](https://apps.apple.com/ie/app/awesome/id1336793944) | 1336793944 | 4.51 | $1.99
 [Unruly Heroes](https://apps.apple.com/ie/app/awesome/id1521243180) | 1521243180 | 4.36 | $1.99
-[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 3.84 | Arcade
+[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 3.83 | Arcade
 [Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4.09 | $1.99
 [Tesla vs Lovecraft](https://apps.apple.com/ie/app/awesome/id1212868423) | 1212868423 | 4.07 | $8.99
 [Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
@@ -277,7 +277,7 @@ Name | App ID | Average Rating | Price (USD)
 [Baldur's Gate](https://apps.apple.com/ie/app/awesome/id515114051) | 515114051 | 3.87 | $9.99
 [Banner Saga 2](https://apps.apple.com/ie/app/awesome/id1107741196) | 1107741196 | 4.66 | $9.99
 [FINAL FANTASY IV (3D REMAKE)](https://apps.apple.com/ie/app/awesome/id575119311) | 575119311 | 4.4 | $14.99
-[DRAGON QUEST](https://apps.apple.com/ie/app/awesome/id911201894) | 911201894 | 4.36 | $2.99
+[DRAGON QUEST](https://apps.apple.com/ie/app/awesome/id911201894) | 911201894 | 4.37 | $2.99
 [Jade Empire™: Special Edition](https://apps.apple.com/ie/app/awesome/id1108475553) | 1108475553 | 4.23 | $9.99
 [DREDGE+](https://apps.apple.com/ie/app/awesome/id6753196416) | 6753196416 | 4.79 | Arcade
 [FINAL FANTASY](https://apps.apple.com/ie/app/awesome/id1492041278) | 1492041278 | 3.69 | $9.99
@@ -457,3 +457,7 @@ Using the power of GitHub actions, the list is updated periodically to refresh a
 ### How are games categorized?
 
 Games are automatically categorized by genre using data from the iTunes Store API. Each app's genre list is retrieved from the API, and since the first genre is always "Games", the second genre in the list is used as the specific category for each game. Some genres in the App Store are very generic (such as "Entertainment" or "Casual") so they are ignored if possible. This provides an automated way to organize the games without manual categorization.
+
+### How are games sorted?
+
+Games are sorted by the number of ratings they have in the App Store, from most to least rated. This applies both to the "Most popular" table and to the games within each genre. Number of ratings is used because it is the best popularity metric based on the information Apple makes available: Apple does not publish download numbers or chart rankings through its API, but it does expose how many users have rated each app. Games with the same number of ratings are sorted alphabetically. Keep in mind that this is only a proxy for popularity: free and older games tend to have more ratings, and newly released games start at the bottom until they gather ratings.

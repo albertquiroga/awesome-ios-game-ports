@@ -69,3 +69,7 @@ Using the power of GitHub actions, the list is updated periodically to refresh a
 ### How are games categorized?
 
 Games are automatically categorized by genre using data from the iTunes Store API. Each app's genre list is retrieved from the API, and since the first genre is always "Games", the second genre in the list is used as the specific category for each game. Some genres in the App Store are very generic (such as "Entertainment" or "Casual") so they are ignored if possible. This provides an automated way to organize the games without manual categorization.
+
+### How are games sorted?
+
+Games are sorted by the number of ratings they have in the App Store, from most to least rated. This applies both to the "Most popular" table and to the games within each genre. Number of ratings is used because it is the best popularity metric based on the information Apple makes available: Apple does not publish download numbers or chart rankings through its API, but it does expose how many users have rated each app. Games with the same number of ratings are sorted alphabetically. Keep in mind that this is only a proxy for popularity: free and older games tend to have more ratings, and newly released games start at the bottom until they gather ratings.
