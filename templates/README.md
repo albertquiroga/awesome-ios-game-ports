@@ -12,6 +12,16 @@ Want a game to be shown here? Use the button below:
 
 Total games: **{{ total_games }}** across **{{ sorted_genres|length }}** genres
 
+### Most popular
+
+The {{ popular_apps|length }} most rated games across all genres. Within each genre below, games are also ordered by number of ratings.
+
+Name | Genre | Average Rating | Price (USD)
+--- | --- | --- | ---
+{% for app in popular_apps -%}
+[{{ app.name }}]({{ app.url }}) | {{ app.genre }} | {{ app.avg_score }} | {{ app.price }}
+{% endfor %}
+
 {% for genre in sorted_genres %}
 ### {{ genre }}
 

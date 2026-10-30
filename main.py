@@ -12,6 +12,7 @@ VALIDATION_REGEX = "[0-9]+\t\".*\""
 
 BASE_ITUNES_API_URL = 'https://itunes.apple.com/lookup?country=US&id='
 NETFLIX_ID = '363590054'
+POPULAR_APPS_COUNT = 15
 
 TEMPLATE_FILE_NAME = 'README.md'
 TEMPLATES_PATH = 'templates'
@@ -26,7 +27,7 @@ class App:
     """
     base_app_store_url = 'https://apps.apple.com/ie/app/awesome/id'
 
-    def __init__(self, app_id: str, name: str = '', price: str = '', url: str = '', avg_score: float = '', developer: str = '', genre: str = 'Unknown'):
+    def __init__(self, app_id: str, name: str = '', price: str = '', url: str = '', avg_score: float = '', developer: str = '', genre: str = 'Unknown', rating_count: int = 0):
         self.id = app_id
         self.name = name
         self.price = 'Netflix' if developer == NETFLIX_ID else price
@@ -34,6 +35,7 @@ class App:
         self.avg_score = avg_score
         self.developer = developer
         self.genre = genre
+        self.rating_count = rating_count
 
     def __str__(self):
         return f'{self.id} | {self.url} | {self.name} | {self.price} | {self.avg_score} | {self.genre}'
@@ -97,8 +99,9 @@ def response_to_app(app_id, response) -> App:
     developer = str(result.get('artistId'))
     avg_score = round(result.get('averageUserRatingForCurrentVersion'), 2)
     genre = extract_genre_from_api(result)
-    
-    return App(app_id=app_id, name=name, price=price, avg_score=avg_score, developer=developer, genre=genre)
+    rating_count = result.get('userRatingCount', 0)
+
+    return App(app_id=app_id, name=name, price=price, avg_score=avg_score, developer=developer, genre=genre, rating_count=rating_count)
 
 
 def filter_invalid_entries(entries: list) -> list:
@@ -189,9 +192,12 @@ def generate_readme(output_path: str, apps_list: list):
             apps_by_genre[genre] = []
         apps_by_genre[genre].append(app)
     
-    # Sort apps within each genre alphabetically
+    # Sort apps within each genre by popularity (rating count), ties broken alphabetically
     for genre in apps_by_genre:
-        apps_by_genre[genre].sort(key=lambda app: app.name.lower())
+        apps_by_genre[genre].sort(key=lambda app: (-app.rating_count, app.name.lower()))
+
+    # Most popular apps across all genres
+    popular_apps = sorted(found_apps, key=lambda app: (-app.rating_count, app.name.lower()))[:POPULAR_APPS_COUNT]
     
     # Get sorted list of genres for consistent ordering
     sorted_genres = sorted(apps_by_genre.keys())
@@ -201,6 +207,7 @@ def generate_readme(output_path: str, apps_list: list):
     with open(output_path, "w") as f:
         f.write(base_template.render(
             apps_by_genre=apps_by_genre,
+            popular_apps=popular_apps,
             sorted_genres=sorted_genres,
             missing_apps=missing_apps,
             total_games=len(found_apps)
