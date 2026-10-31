@@ -75,6 +75,7 @@ Name | App ID | Average Rating | Price (USD)
 [MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.11 | $4.99
 [Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.89 | $14.99
 [SteamWorld Heist](https://apps.apple.com/ie/app/awesome/id1093396572) | 1093396572 | 4.64 | $1.99
+[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 4.53 | Free
 [Wreckfest](https://apps.apple.com/ie/app/awesome/id1592505377) | 1592505377 | 4.23 | $10.99
 [The Bard's Tale](https://apps.apple.com/ie/app/awesome/id480375355) | 480375355 | 4.51 | $2.99
 [RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.89 | Free
@@ -87,22 +88,21 @@ Name | App ID | Average Rating | Price (USD)
 [Shadow of the Depth](https://apps.apple.com/ie/app/awesome/id6670242198) | 6670242198 | 4.54 | Free
 [20 Minutes Till Dawn:Premium](https://apps.apple.com/ie/app/awesome/id1630887189) | 1630887189 | 4.34 | $3.49
 [RESIDENT EVIL 7 biohazard](https://apps.apple.com/ie/app/awesome/id1640629241) | 1640629241 | 4.09 | Free
-[DOOM II](https://apps.apple.com/ie/app/awesome/id1470090748) | 1470090748 | 3.79 | $4.99
+[DOOM II](https://apps.apple.com/ie/app/awesome/id1470090748) | 1470090748 | 3.78 | $4.99
 [Red Dead Redemption](https://apps.apple.com/ie/app/awesome/id6746390893) | 6746390893 | 4.44 | $39.99
-[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 4.58 | Free
-[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.79 | Free
+[HITMAN World of Assassination](https://apps.apple.com/ie/app/awesome/id6742786366) | 6742786366 | 3.8 | Free
 [Dandara Trials of Fear Edition](https://apps.apple.com/ie/app/awesome/id1168013926) | 1168013926 | 4.41 | $3.99
 [Sniper Elite 4](https://apps.apple.com/ie/app/awesome/id6477828959) | 6477828959 | 3.94 | Free
 [RESIDENT EVIL 3](https://apps.apple.com/ie/app/awesome/id1640630077) | 1640630077 | 4.05 | Free
-[SpongeBob - The Cosmic Shake](https://apps.apple.com/ie/app/awesome/id6445992619) | 6445992619 | 4.0 | $10.99
+[SpongeBob - The Cosmic Shake](https://apps.apple.com/ie/app/awesome/id6445992619) | 6445992619 | 3.98 | $10.99
 [Lara Croft: Guardian of Light](https://apps.apple.com/ie/app/awesome/id6502455111) | 6502455111 | 4.72 | Free
 [Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 4.04 | $21.99
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.46 | $3.99
 [DoDonPachi Resurrection HD](https://apps.apple.com/ie/app/awesome/id488666118) | 488666118 | 4.58 | $5.99
+[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 3.89 | Arcade
 [HAAK](https://apps.apple.com/ie/app/awesome/id1336793944) | 1336793944 | 4.51 | $1.99
 [Unruly Heroes](https://apps.apple.com/ie/app/awesome/id1521243180) | 1521243180 | 4.36 | $1.99
-[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 3.84 | Arcade
-[Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4.09 | $1.99
+[Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4.1 | $1.99
 [Tesla vs Lovecraft](https://apps.apple.com/ie/app/awesome/id1212868423) | 1212868423 | 4.07 | $8.99
 [Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
 [Tesla Force](https://apps.apple.com/ie/app/awesome/id1572242486) | 1572242486 | 4.69 | $5.99
@@ -187,7 +187,7 @@ Name | App ID | Average Rating | Price (USD)
 [The Longing Mobile](https://apps.apple.com/ie/app/awesome/id1664728844) | 1664728844 | 4.59 | $4.99
 [White Night](https://apps.apple.com/ie/app/awesome/id1243555377) | 1243555377 | 3.69 | $4.99
 [Slash Quest!](https://apps.apple.com/ie/app/awesome/id6478560267) | 6478560267 | 3.97 | Free
-[This Is the Police](https://apps.apple.com/ie/app/awesome/id1435461053) | 1435461053 | 4.35 | $8.99
+[This Is the Police](https://apps.apple.com/ie/app/awesome/id1435461053) | 1435461053 | 4.3 | $8.99
 [Wizard of Legend](https://apps.apple.com/ie/app/awesome/id6463645361) | 6463645361 | 3.03 | $7.99
 [868-HACK](https://apps.apple.com/ie/app/awesome/id635749911) | 635749911 | 4.6 | $7.99
 [This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.22 | $8.99
@@ -259,7 +259,7 @@ Name | App ID | Average Rating | Price (USD)
 [Warframe](https://apps.apple.com/ie/app/awesome/id1520001008) | 1520001008 | 4.86 | Free
 [RuneScape](https://apps.apple.com/ie/app/awesome/id1332022656) | 1332022656 | 3.81 | Free
 [Nexomon](https://apps.apple.com/ie/app/awesome/id1254864644) | 1254864644 | 4.75 | $0.99
-[P5X | Persona5: The Phantom X](https://apps.apple.com/ie/app/awesome/id6736754647) | 6736754647 | 4.17 | Free
+[P5X | Persona5: The Phantom X](https://apps.apple.com/ie/app/awesome/id6736754647) | 6736754647 | 4.18 | Free
 [Shattered Pixel Dungeon](https://apps.apple.com/ie/app/awesome/id1563121109) | 1563121109 | 4.89 | $4.99
 [Divinity - Original Sin 2](https://apps.apple.com/ie/app/awesome/id1458655678) | 1458655678 | 4.71 | $24.99
 [FINAL FANTASY TACTICS :WotL](https://apps.apple.com/ie/app/awesome/id446760220) | 446760220 | 3.79 | $13.99
@@ -277,7 +277,7 @@ Name | App ID | Average Rating | Price (USD)
 [Baldur's Gate](https://apps.apple.com/ie/app/awesome/id515114051) | 515114051 | 3.87 | $9.99
 [Banner Saga 2](https://apps.apple.com/ie/app/awesome/id1107741196) | 1107741196 | 4.66 | $9.99
 [FINAL FANTASY IV (3D REMAKE)](https://apps.apple.com/ie/app/awesome/id575119311) | 575119311 | 4.4 | $14.99
-[DRAGON QUEST](https://apps.apple.com/ie/app/awesome/id911201894) | 911201894 | 4.36 | $2.99
+[DRAGON QUEST](https://apps.apple.com/ie/app/awesome/id911201894) | 911201894 | 4.37 | $2.99
 [Jade Empire™: Special Edition](https://apps.apple.com/ie/app/awesome/id1108475553) | 1108475553 | 4.23 | $9.99
 [DREDGE+](https://apps.apple.com/ie/app/awesome/id6753196416) | 6753196416 | 4.79 | Arcade
 [FINAL FANTASY](https://apps.apple.com/ie/app/awesome/id1492041278) | 1492041278 | 3.69 | $9.99
