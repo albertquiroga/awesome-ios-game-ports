@@ -74,8 +74,8 @@ Name | App ID | Average Rating | Price (USD)
 [Mindustry](https://apps.apple.com/ie/app/awesome/id1385258906) | 1385258906 | 4.53 | $1.99
 [MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.11 | $4.99
 [Hitman: Absolution](https://apps.apple.com/ie/app/awesome/id6737513240) | 6737513240 | 4.89 | $14.99
-[SteamWorld Heist](https://apps.apple.com/ie/app/awesome/id1093396572) | 1093396572 | 4.64 | $1.99
 [No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 4.53 | Free
+[SteamWorld Heist](https://apps.apple.com/ie/app/awesome/id1093396572) | 1093396572 | 4.64 | $1.99
 [Wreckfest](https://apps.apple.com/ie/app/awesome/id1592505377) | 1592505377 | 4.23 | $10.99
 [The Bard's Tale](https://apps.apple.com/ie/app/awesome/id480375355) | 480375355 | 4.51 | $2.99
 [RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.89 | Free
@@ -99,7 +99,7 @@ Name | App ID | Average Rating | Price (USD)
 [Titan Quest: Legendary Edition](https://apps.apple.com/ie/app/awesome/id1537060891) | 1537060891 | 4.04 | $21.99
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.46 | $3.99
 [DoDonPachi Resurrection HD](https://apps.apple.com/ie/app/awesome/id488666118) | 488666118 | 4.58 | $5.99
-[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 3.89 | Arcade
+[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 3.87 | Arcade
 [HAAK](https://apps.apple.com/ie/app/awesome/id1336793944) | 1336793944 | 4.51 | $1.99
 [Unruly Heroes](https://apps.apple.com/ie/app/awesome/id1521243180) | 1521243180 | 4.36 | $1.99
 [Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4.1 | $1.99
@@ -164,7 +164,7 @@ Name | App ID | Average Rating | Price (USD)
 [Forager](https://apps.apple.com/ie/app/awesome/id1525624394) | 1525624394 | 4.16 | $7.99
 [Neodori Forever](https://apps.apple.com/ie/app/awesome/id6443939648) | 6443939648 | 4.62 | Free
 [The Witness](https://apps.apple.com/ie/app/awesome/id1230231705) | 1230231705 | 3.99 | $9.99
-[Enter the Gungeon](https://apps.apple.com/ie/app/awesome/id1100429641) | 1100429641 | 3.74 | Free
+[Enter the Gungeon](https://apps.apple.com/ie/app/awesome/id1100429641) | 1100429641 | 3.75 | Free
 [FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.24 | $4.99
 [ScourgeBringer](https://apps.apple.com/ie/app/awesome/id1552864378) | 1552864378 | 4.84 | $5.99
 [GTA: San Andreas – Definitive](https://apps.apple.com/ie/app/awesome/id6468845068) | 6468845068 | 3.83 | $19.99
