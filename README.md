@@ -10,7 +10,7 @@ Want a game to be shown here? Use the button below:
 
 ## Games
 
-Total games: **309** across **9** genres
+Total games: **312** across **9** genres
 
 ### Most popular
 
@@ -52,7 +52,7 @@ Name | App ID | Average Rating | Price (USD)
 [Vampire Survivors](https://apps.apple.com/ie/app/awesome/id6444525702) | 6444525702 | 4.61 | Free
 [GTA: Chinatown Wars](https://apps.apple.com/ie/app/awesome/id344186162) | 344186162 | 4.53 | Free
 [Brotato:Premium](https://apps.apple.com/ie/app/awesome/id1668755109) | 1668755109 | 4.74 | $4.99
-[Where Winds Meet](https://apps.apple.com/ie/app/awesome/id6472396866) | 6472396866 | 4.42 | Free
+[Where Winds Meet](https://apps.apple.com/ie/app/awesome/id6472396866) | 6472396866 | 4.41 | Free
 [Dead Cells: Netflix Edition](https://apps.apple.com/ie/app/awesome/id6450374417) | 6450374417 | 4.79 | Netflix
 [Human: Fall Flat](https://apps.apple.com/ie/app/awesome/id1438091392) | 1438091392 | 4.15 | $4.99
 [Streets of Rage 4](https://apps.apple.com/ie/app/awesome/id1601446687) | 1601446687 | 4.86 | $8.99
@@ -69,7 +69,7 @@ Name | App ID | Average Rating | Price (USD)
 [Oddworld: New 'n' Tasty](https://apps.apple.com/ie/app/awesome/id1090133581) | 1090133581 | 4.82 | $4.99
 [Moonlighter Netflix Edition](https://apps.apple.com/ie/app/awesome/id1612148433) | 1612148433 | 3.81 | Netflix
 [XCOM 2 Collection](https://apps.apple.com/ie/app/awesome/id1288508230) | 1288508230 | 4.37 | $14.99
-[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 4.47 | Free
+[No Man's Sky](https://apps.apple.com/ie/app/awesome/id1615755735) | 1615755735 | 4.46 | Free
 [Max Payne Mobile](https://apps.apple.com/ie/app/awesome/id512142109) | 512142109 | 4.45 | $2.99
 [Bullet Hell Monday](https://apps.apple.com/ie/app/awesome/id1107355213) | 1107355213 | 4.91 | Free
 [Mindustry](https://apps.apple.com/ie/app/awesome/id1385258906) | 1385258906 | 4.53 | $1.99
@@ -77,8 +77,8 @@ Name | App ID | Average Rating | Price (USD)
 [MEGA MAN X](https://apps.apple.com/ie/app/awesome/id469343097) | 469343097 | 4.11 | $0.99
 [SteamWorld Heist](https://apps.apple.com/ie/app/awesome/id1093396572) | 1093396572 | 4.64 | $4.99
 [Wreckfest](https://apps.apple.com/ie/app/awesome/id1592505377) | 1592505377 | 4.23 | $10.99
+[RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.88 | Free
 [The Bard's Tale](https://apps.apple.com/ie/app/awesome/id480375355) | 480375355 | 4.51 | $2.99
-[RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.89 | Free
 [DEATH STRANDING DIRECTOR'S CUT](https://apps.apple.com/ie/app/awesome/id6449748961) | 6449748961 | 3.93 | $39.99
 [GTA III – Definitive](https://apps.apple.com/ie/app/awesome/id6468843723) | 6468843723 | 4.67 | Free
 [Sparklite](https://apps.apple.com/ie/app/awesome/id1553922886) | 1553922886 | 4.71 | Free
@@ -100,13 +100,13 @@ Name | App ID | Average Rating | Price (USD)
 [Rogue Legacy](https://apps.apple.com/ie/app/awesome/id1453189467) | 1453189467 | 4.46 | $3.99
 [DoDonPachi Resurrection HD](https://apps.apple.com/ie/app/awesome/id488666118) | 488666118 | 4.59 | $5.99
 [HAAK](https://apps.apple.com/ie/app/awesome/id1336793944) | 1336793944 | 4.55 | $1.99
-[Unruly Heroes](https://apps.apple.com/ie/app/awesome/id1521243180) | 1521243180 | 4.35 | $1.99
+[Unruly Heroes](https://apps.apple.com/ie/app/awesome/id1521243180) | 1521243180 | 4.36 | $1.99
 [Duke Nukem: Manhattan Project](https://apps.apple.com/ie/app/awesome/id663811684) | 663811684 | 4.1 | $1.99
 [Tesla vs Lovecraft](https://apps.apple.com/ie/app/awesome/id1212868423) | 1212868423 | 4.07 | $8.99
 [Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
 [Tesla Force](https://apps.apple.com/ie/app/awesome/id1572242486) | 1572242486 | 4.69 | $5.99
 [Legend of Mana](https://apps.apple.com/ie/app/awesome/id1563156209) | 1563156209 | 4.13 | $27.99
-[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4 | Arcade
+[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4.2 | Arcade
 
 ### Adventure
 
@@ -137,7 +137,7 @@ Name | App ID | Average Rating | Price (USD)
 [Scribblenauts Unlimited](https://apps.apple.com/ie/app/awesome/id1030902626) | 1030902626 | 4.26 | $4.99
 [Little Nightmares](https://apps.apple.com/ie/app/awesome/id1620883955) | 1620883955 | 4.37 | $4.49
 [The Talos Principle](https://apps.apple.com/ie/app/awesome/id1250484428) | 1250484428 | 4.61 | $4.99
-[Carrion](https://apps.apple.com/ie/app/awesome/id6504567739) | 6504567739 | 4.41 | Free
+[Carrion](https://apps.apple.com/ie/app/awesome/id6504567739) | 6504567739 | 4.42 | Free
 [Bugsnax](https://apps.apple.com/ie/app/awesome/id1449161497) | 1449161497 | 4.47 | Free
 [Castlevania: SotN](https://apps.apple.com/ie/app/awesome/id1435456830) | 1435456830 | 3.95 | $2.99
 [Huntdown](https://apps.apple.com/ie/app/awesome/id1198183067) | 1198183067 | 4.89 | $6.99
@@ -168,7 +168,7 @@ Name | App ID | Average Rating | Price (USD)
 [FEZ Pocket Edition](https://apps.apple.com/ie/app/awesome/id1209489068) | 1209489068 | 4.24 | $4.99
 [ScourgeBringer](https://apps.apple.com/ie/app/awesome/id1552864378) | 1552864378 | 4.85 | $5.99
 [GTA: San Andreas – Definitive](https://apps.apple.com/ie/app/awesome/id6468845068) | 6468845068 | 3.81 | $19.99
-[What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 4.08 | $4.99
+[What Remains of Edith Finch](https://apps.apple.com/ie/app/awesome/id1508051949) | 1508051949 | 4.07 | $4.99
 [Spiritfarer: Netflix Edition](https://apps.apple.com/ie/app/awesome/id1610577424) | 1610577424 | 3.93 | Netflix
 [Control Ultimate Edition](https://apps.apple.com/ie/app/awesome/id6502953520) | 6502953520 | 4.06 | $4.99
 [Flower](https://apps.apple.com/ie/app/awesome/id1279174518) | 1279174518 | 4.09 | $4.99
@@ -176,6 +176,8 @@ Name | App ID | Average Rating | Price (USD)
 [Evoland](https://apps.apple.com/ie/app/awesome/id946477821) | 946477821 | 4.17 | $2.99
 [Layton: Curious Village in HD](https://apps.apple.com/ie/app/awesome/id1361524540) | 1361524540 | 4.7 | $9.99
 [Neverwinter Nights](https://apps.apple.com/ie/app/awesome/id1466096721) | 1466096721 | 4.0 | $2.99
+[Full Throttle Remastered](https://apps.apple.com/ie/app/awesome/id1230257367) | 1230257367 | 3.3 | $4.99
+[Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071 | 4.16 | $4.99
 [Layton: Diabolical Box in HD](https://apps.apple.com/ie/app/awesome/id1459831683) | 1459831683 | 4.97 | $9.99
 [Subnautica: Below Zero](https://apps.apple.com/ie/app/awesome/id6749406060) | 6749406060 | 4.53 | $9.99
 [Minit](https://apps.apple.com/ie/app/awesome/id1403550875) | 1403550875 | 4.59 | $4.99
@@ -191,6 +193,7 @@ Name | App ID | Average Rating | Price (USD)
 [This Is the Police 2](https://apps.apple.com/ie/app/awesome/id1453820315) | 1453820315 | 4.22 | $8.99
 [South of the Circle](https://apps.apple.com/ie/app/awesome/id6467118268) | 6467118268 | 4.44 | Free
 [Garage: Bad Dream Adventure](https://apps.apple.com/ie/app/awesome/id1596022730) | 1596022730 | 4.67 | $4.99
+[Day of the Tentacle Remastered](https://apps.apple.com/ie/app/awesome/id1094931305) | 1094931305 | 0 | $14.99
 [Dispatch](https://apps.apple.com/ie/app/awesome/id6803199638) | 6803199638 | 0 | Arcade
 [Oceanhorn 2](https://apps.apple.com/ie/app/awesome/id1460715987) | 1460715987 | 0 | Arcade
 
@@ -337,7 +340,7 @@ Name | App ID | Average Rating | Price (USD)
 [Bridge Constructor Playground](https://apps.apple.com/ie/app/awesome/id578203499) | 578203499 | 4.33 | $0.99
 [Settlement Survival](https://apps.apple.com/ie/app/awesome/id1623596533) | 1623596533 | 3.08 | $4.99
 [Bridge Constructor: TWD](https://apps.apple.com/ie/app/awesome/id1510735231) | 1510735231 | 4.73 | $1.99
-[Little Big Workshop](https://apps.apple.com/ie/app/awesome/id1642715290) | 1642715290 | 4.09 | $10.99
+[Little Big Workshop](https://apps.apple.com/ie/app/awesome/id1642715290) | 1642715290 | 4.12 | $10.99
 [Actraiser Renaissance](https://apps.apple.com/ie/app/awesome/id1532193171) | 1532193171 | 3.82 | $19.99
 
 ### Strategy
@@ -356,7 +359,7 @@ Name | App ID | Average Rating | Price (USD)
 [CloverPit](https://apps.apple.com/ie/app/awesome/id6754894237) | 6754894237 | 4.89 | $6.99
 [Into the Breach](https://apps.apple.com/ie/app/awesome/id1616542180) | 1616542180 | 4.83 | Netflix
 [XCOM®: Enemy Within](https://apps.apple.com/ie/app/awesome/id881270303) | 881270303 | 4.34 | $4.99
-[Dune: Imperium](https://apps.apple.com/ie/app/awesome/id1575414319) | 1575414319 | 4.88 | $6.99
+[Dune: Imperium](https://apps.apple.com/ie/app/awesome/id1575414319) | 1575414319 | 4.88 | $10.99
 [Loop Hero](https://apps.apple.com/ie/app/awesome/id6464048549) | 6464048549 | 4.88 | Free
 [Northgard](https://apps.apple.com/ie/app/awesome/id1533979882) | 1533979882 | 4.61 | $8.99
 [Total War™: EMPIRE](https://apps.apple.com/ie/app/awesome/id6448530928) | 6448530928 | 4.84 | $19.99
@@ -378,7 +381,7 @@ Name | App ID | Average Rating | Price (USD)
 [Luck be a Landlord](https://apps.apple.com/ie/app/awesome/id6450724928) | 6450724928 | 4.69 | $4.99
 [Worms3](https://apps.apple.com/ie/app/awesome/id596677177) | 596677177 | 3.61 | $4.99
 [Isle of Arrows – Tower Defense](https://apps.apple.com/ie/app/awesome/id1607942817) | 1607942817 | 4.48 | $5.99
-[Rift Riff](https://apps.apple.com/ie/app/awesome/id6746967900) | 6746967900 | 4.05 | Free
+[Rift Riff](https://apps.apple.com/ie/app/awesome/id6746967900) | 6746967900 | 4.06 | Free
 [Dicey Dungeons](https://apps.apple.com/ie/app/awesome/id1368013995) | 1368013995 | 4.57 | $4.99
 [Icewind Dale](https://apps.apple.com/ie/app/awesome/id909472985) | 909472985 | 4.19 | $2.99
 [Siege of Dragonspear](https://apps.apple.com/ie/app/awesome/id1298734617) | 1298734617 | 4.18 | $2.99
@@ -402,13 +405,10 @@ Name | App ID
 [Civilization Revolution 2](https://apps.apple.com/ie/app/awesome/id864880531) | 864880531
 [Crazy Taxi Classic](https://apps.apple.com/ie/app/awesome/id553921725) | 553921725
 [Crypt of the NecroDancer](https://apps.apple.com/ie/app/awesome/id1085123968) | 1085123968
-[Day of the Tentacle Remastered](https://apps.apple.com/ie/app/awesome/id1094931305) | 1094931305
 [Dear Esther](https://apps.apple.com/ie/app/awesome/id1476531719) | 1476531719
 [Downwell+](https://apps.apple.com/ie/app/awesome/id6467505035) | 6467505035
 [FINALFANTASY CRYSTALCHRONICLES](https://apps.apple.com/ie/app/awesome/id1478870957) | 1478870957
-[Full Throttle Remastered](https://apps.apple.com/ie/app/awesome/id1230257367) | 1230257367
 [Game Dev Tycoon NETFLIX](https://apps.apple.com/ie/app/awesome/id6450555421) | 6450555421
-[Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071
 [GTA III – NETFLIX](https://apps.apple.com/ie/app/awesome/id6450280668) | 6450280668
 [GTA: San Andreas – NETFLIX](https://apps.apple.com/ie/app/awesome/id6450280702) | 6450280702
 [GTA: Vice City – NETFLIX](https://apps.apple.com/ie/app/awesome/id6450280696) | 6450280696
