@@ -80,7 +80,7 @@ Name | App ID | Average Rating | Price (USD)
 [RESIDENT EVIL 2](https://apps.apple.com/ie/app/awesome/id1640632432) | 1640632432 | 3.88 | Free
 [The Bard's Tale](https://apps.apple.com/ie/app/awesome/id480375355) | 480375355 | 4.51 | $2.99
 [DEATH STRANDING DIRECTOR'S CUT](https://apps.apple.com/ie/app/awesome/id6449748961) | 6449748961 | 3.93 | $39.99
-[GTA III – Definitive](https://apps.apple.com/ie/app/awesome/id6468843723) | 6468843723 | 4.67 | Free
+[GTA III – Definitive](https://apps.apple.com/ie/app/awesome/id6468843723) | 6468843723 | 4.68 | Free
 [Sparklite](https://apps.apple.com/ie/app/awesome/id1553922886) | 1553922886 | 4.71 | Free
 [Hitman: Blood Money — Reprisal](https://apps.apple.com/ie/app/awesome/id1631331207) | 1631331207 | 4.3 | Free
 [Skul: The Hero Slayer](https://apps.apple.com/ie/app/awesome/id6458144503) | 6458144503 | 4.67 | $0.99
@@ -106,7 +106,7 @@ Name | App ID | Average Rating | Price (USD)
 [Dungreed](https://apps.apple.com/ie/app/awesome/id1590840423) | 1590840423 | 4.74 | $4.99
 [Tesla Force](https://apps.apple.com/ie/app/awesome/id1572242486) | 1572242486 | 4.69 | $5.99
 [Legend of Mana](https://apps.apple.com/ie/app/awesome/id1563156209) | 1563156209 | 4.13 | $27.99
-[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4.4 | Arcade
+[Cult of the Lamb](https://apps.apple.com/ie/app/awesome/id1639580858) | 1639580858 | 4.44 | Arcade
 
 ### Adventure
 
@@ -149,7 +149,7 @@ Name | App ID | Average Rating | Price (USD)
 [Machinarium](https://apps.apple.com/ie/app/awesome/id459189186) | 459189186 | 4.45 | $9.99
 [Slice & Dice](https://apps.apple.com/ie/app/awesome/id6449848963) | 6449848963 | 4.78 | Free
 [Beyond a Steel Sky](https://apps.apple.com/ie/app/awesome/id1474849377) | 1474849377 | 4.39 | Arcade
-[GTA: Vice City – Definitive](https://apps.apple.com/ie/app/awesome/id6468845173) | 6468845173 | 4.35 | Free
+[GTA: Vice City – Definitive](https://apps.apple.com/ie/app/awesome/id6468845173) | 6468845173 | 4.34 | Free
 [Oddworld: Munch's Oddysee](https://apps.apple.com/ie/app/awesome/id1001248922) | 1001248922 | 4.44 | $2.99
 [Tomb Raider™](https://apps.apple.com/ie/app/awesome/id6742988247) | 6742988247 | 4.85 | $19.99
 [Thimbleweed Park](https://apps.apple.com/ie/app/awesome/id1228969539) | 1228969539 | 4.84 | $9.99
@@ -179,7 +179,7 @@ Name | App ID | Average Rating | Price (USD)
 [Full Throttle Remastered](https://apps.apple.com/ie/app/awesome/id1230257367) | 1230257367 | 3.3 | $4.99
 [Grim Fandango Remastered](https://apps.apple.com/ie/app/awesome/id978524071) | 978524071 | 4.16 | $4.99
 [Layton: Diabolical Box in HD](https://apps.apple.com/ie/app/awesome/id1459831683) | 1459831683 | 4.97 | $9.99
-[Subnautica: Below Zero](https://apps.apple.com/ie/app/awesome/id6749406060) | 6749406060 | 4.52 | $9.99
+[Subnautica: Below Zero](https://apps.apple.com/ie/app/awesome/id6749406060) | 6749406060 | 4.53 | $9.99
 [Minit](https://apps.apple.com/ie/app/awesome/id1403550875) | 1403550875 | 4.59 | $4.99
 [Layton: Unwound Future in HD](https://apps.apple.com/ie/app/awesome/id1512730451) | 1512730451 | 4.89 | $15.99
 [9th Dawn III](https://apps.apple.com/ie/app/awesome/id1528353612) | 1528353612 | 4.48 | $9.99
